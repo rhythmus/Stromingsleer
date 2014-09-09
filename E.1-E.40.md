@@ -476,8 +476,8 @@ We bemerken dat in het temperatuursinterval (-20°C,+39°C) de
 teraperatuurscoefficiënt nagenoeg konstant is en ongeveer gelijk
 is aan Ov-0008.
 
-Temp. °C. | Relatieve dichtheid | temp. °C. | Relatieve dichtheid
----------:|--------------------:|:----------:|-------------------:
+Temp. °C. | Relatieve dichtheid | temp. °C.  | Relatieve dichtheid
+--------: | ------------------: | :--------: | ------------------:
 -20 | 0,9357 | 10 | 0,9108
 -19 | 49 | II | 00
 -18 | 40 | 12 | 0,9091
