@@ -1,6 +1,6 @@
-[E.1.]
+[E.1]
 
-_Reële vloeistoffen_ bezitten, volgende eigenschappen.
+## _Reële vloeistoffen_ bezitten, volgende eigenschappen.
 
 **Cohesie**: twee naast elkaar gelegen vloeistofmolekulen trekken elkaar aan. Deze aantrekkingskracht is vrij gering zodat de onderlinge plaats van de moleculen gemakkelijk kan gewijzigd, worden.
 
@@ -17,18 +17,16 @@ We nemen als voorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water
 ![Fig. 1](figuren/001.png)
 
 
-***Vloeistoffen zijn volledig elastisch***
+## Vloeistoffen zijn volledig elastisch
 
 Elastisch betekent dat het peil in vorig voorbeeld terug stijgt tot 100 cm als het gewicht terug wordt weggenomen. Volkomen elastisch, wil zeggen dat er nooit een residuële volumeverandering overblijft wat ook de druk is geweest; dit in tegenstelling met vaste lichamen Door deze elasticiteit worden stoten in een vloeistof met nagenoeg onverminderde sterkte doorgegeven.
 
-Inwendige wrijving. Wanneer twee vloeistofdeeltjes over elkaar glijden met een verschillende snelheid ontstaat er een inwendige
+_Inwendige wrijving_. Wanneer twee vloeistofdeeltjes over elkaar glijden met een verschillende snelheid ontstaat er een inwendige
 wrijving zoals die optreedt bij twee vaste lichamen die over elkaar glijden.
 
-[E.2.]
+[E.2]
 
-Bij iedere stroming ontstaat er een inwendige wrijving die afhankelijk is van de aard van de vloeistof (viscositeit).
-
-Over viscositeit wordt gesproken in hoofdstuk 2.
+Bij iedere stroming ontstaat er een inwendige wrijving die afhankelijk is van de aard van de vloeistof (viscositeit). Over viscositeit wordt gesproken in hoofdstuk 2.
 
 _Een ideale vloeistof_ heeft volgende kenmerken:
 
@@ -47,14 +45,15 @@ op de wand (fig. 3).
 ![Fig. 2](figuren/002.png)
 ![Fig. 3](figuren/003.png)
 
-[E.3.]
-
+[E.3]
 
 # Soortelijke massa, soortelijk volume, relatieve dichtheid, soortelijk gewicht
 
 ## 1. DEFINITIES
 
-### 1.1 Soortelijke massa of dichtheid (Engels: _density_)
+### 1.1 Soortelijke massa of dichtheid
+
+Engels: _density_
 
 De soortelijke massa van een vloeistof is de massa per volume-eenheid.
 
@@ -62,7 +61,9 @@ $$ \rho = \frac{M}{V} $$
 
 De soortelijke massa wordt uitgedrukt in kg/m³.
 
-### 1.2 Soortelijk volume (specific volume)
+### 1.2 Soortelijk volume
+
+_specific volume_
 
 Het soortelijk volume van een vloeistof geeft aan welk volume door een eenheid van massa van een bepaalde vloeistof wordt ingenomen. Het soortelijk volume is bijgevolg de reciproke van de soortelijke massa.
 
@@ -70,13 +71,15 @@ $$ v = \frac{I}{\rho} = \frac{V}{m} $$
 
 Het soortelijk volume wordt uitgedrukt in m³/kg.
 
-### 1.3 Soortelijk gewicht ([_specific weight_](http://en.wikipedia.org/wiki/Specific_weight))
+### 1.3 Soortelijk gewicht
 
-Vroeger(vóór 1 januari ’78) werd in de hydromechanica veel gebruik gemaakt van het begrip “soortelijk gewicht”. (γ)
+[_specific weight_](http://en.wikipedia.org/wiki/Specific_weight)
+
+Vroeger (vóór 1 januari 1978) werd in de hydromechanica veel gebruik gemaakt van het begrip “soortelijk gewicht”. (γ)
 
 Het is het gewicht van de vloeistof per volume-eenheid.
 
-$$ \gamma = \frac{G}{V} = \frac{Mg}{V}$$
+$$ \gamma = \frac{G}{V} = \frac{Mg}{V} $$
 ​
 $$ \gamma = \rho g $$
 
@@ -84,73 +87,53 @@ Eenheden: N/m³
 
 In de uitdrukkingen waar vroeger γ was aangegeven wordt nu $ρg$ geschreven.
 
-[E.4.]
+[E.4]
 
-### 1.4 Relatieve dichtheid (_relative density_, _specific gravity_)
+### 1.4 Relatieve dichtheid
 
-De relatieve dichtheid van een vloeistof wordt gedefinieerd als de verhouding van de massa of het gewicht van een bepaalde hoeveelheid vloeistof tot respectievelijk de massa of het gewicht van hetzelfde volume water bij 4°C. Het is dus een onbenoemd getal
-6 =
-vl.
-M
-vl
-w
-M
-w
-r vl
-P  V
-rw
-vl
-w
-p . = 1000 6 .
-rvl        vl
-Een vloeistof met een relatieve dichtheid 6=0,9 heeft dus een soortelijke massa p=900 kg/ra .
-Voordeel van relatieve dichtheid t.o.v. soortelijke massa. De relatieve dichtheid is een onbenoemd getal, dus onafhankelijk van een eenhedenstelsel. De vloeistof uit vorig voorbeeld heeft overal ter wereld een dichtheid van 0,9. De getalwaarde van de soortelijke massa is wel afhankelijk van het gebruikte eenhedenstelsel.
-900
-M_ _
-= 7,5
-lb
-m
-gal
-Nadeel van relatieve dichtheid t.o.v. de soortelijke massa.
-In formules werken we altijd met de soortelijke massa en nooit
-met de relatieve dichtheid omwille van de kontrole op de een-
-heden.
+_relative density_, _specific gravity_
+
+De relatieve dichtheid van een vloeistof wordt gedefinieerd als de verhouding van de massa of het gewicht van een bepaalde hoeveelheid vloeistof tot respectievelijk de massa of het gewicht van hetzelfde volume water bij 4°C. Het is dus een onbenoemd getal.
+
+$$ \delta = \frac{G_{vl.}}{G_{w}} = \frac{M_{vl}}{M_{w}} = \frac{\rho_{vl}V}{\rho_{w}V} = \frac{\rho_{vl}}{\rho_{w}} $$
+
+$$ \rho_{vl} = 1000 \delta_{vl} $$
+
+Een vloeistof met een relatieve dichtheid $\delta = 0,9$ heeft dus een soortelijke massa $\rho = 900 kg/m^3$.
+
+_Voordeel_ van relatieve dichtheid t.o.v. soortelijke massa. De relatieve dichtheid is een onbenoemd getal, dus onafhankelijk van een eenhedenstelsel. De vloeistof uit vorig voorbeeld heeft overal ter wereld een dichtheid van 0,9.
+
+De getalwaarde van de soortelijke massa is wel afhankelijk van het gebruikte eenhedenstelsel.
+
+$$ 900 \frac{kg}{m^3} = 7,5 \frac{lb}{gal} $$
+
+_Nadeel_ van relatieve dichtheid t.o.v. de soortelijke massa. In formules werken we altijd met de soortelijke massa en nooit met de relatieve dichtheid omwille van de controle op de eenheden.
+
 Nemen we als voorbeeld de eenvoudige formule:
-M = p V
-kg =
-_ Jsa
-m
-m
-E. 5.
-Opmerking.
-De soortelijke massa en alle andere afgeleide grootheden die hier-
-boven gedefinieerd werden hangen af van het volume dat door de
-vloeistof ingenomen wordt in bepaalde omstandigheden.
-Dit betekent dat het geen materiaalkonstanten zijn, maar dat-ze
-op zijn minst afhankelijk zijn van de toestandsgrootheden druk en
-temperatuur. De soortelijke.massa hangt immers samen met de hoeveel-
-heid moleculen die zich bevindt in een bepaald volume. Wordt de
-vloeistof samengedrukt, dan liggen de moleculen dichter bij elkaar
-en vergroot het aantal moleculen per volumeeenheid.
-Stijgt de temperatuur dan wordt de aktiviteit van de moleculen
-heviger en vermindert de hoeveelheid per volumeeenheid.
-We gaan nu verder na in welke mate de soortelijke massa afhankelijk
-is van deze twee parameters en hoe deze afhankelijkheid in de prak-
-tijk kan weergegeven worden.
-We merken hierbij op dat bij verandering van druk of temperatuur
-de massa van een bepaalde hoeveelheid vloeistof konstant blijft
-maar dat wel het ingenomen volume wijzigt.
-We bekijken dan ook telkens eerst de verandering van het volume.
+
+$$ M = \rho V $$
+
+$$ kg = \frac{kg}{m^3} m^3 $$
+
+[E.5]
+
+###### Opmerking
+
+De soortelijke massa en alle andere afgeleide grootheden die hierboven gedefinieerd werden hangen af van het volume dat door de vloeistof ingenomen wordt in bepaalde omstandigheden.
+
+Dit betekent dat het geen materiaalconstanten zijn, maar dat ze op zijn minst afhankelijk zijn van de toestandsgrootheden druk en temperatuur. De soortelijke massa hangt immers samen met de hoeveelheid moleculen die zich bevindt in een bepaald volume. Wordt de vloeistof samengedrukt, dan liggen de moleculen dichter bij elkaar en vergroot het aantal moleculen per volume-eenheid. 
+
+Stijgt de temperatuur dan wordt de activiteit van de moleculen heviger en vermindert de hoeveelheid per volume-eenheid. We gaan nu verder na in welke mate de soortelijke massa afhankelijk is van deze twee parameters en hoe deze afhankelijkheid in de praktijk kan weergegeven worden.
+
+We merken hierbij op dat bij verandering van druk of temperatuur de massa van een bepaalde hoeveelheid vloeistof constant blijft maar dat wel het ingenomen volume wijzigt. We bekijken dan ook telkens eerst de verandering van het volume.
 
 [E.6]
 
-## 1.2. DRUKAFHANKELIJKHEID VAN DE SOORTELIJKE MASSA»
+## 1.2. DRUKAFHANKELIJKHEID VAN DE SOORTELIJKE MASSA
+
 KOMPRESSIBILITEIT
 
-Bij grote drukstijgingen blijft de massa van de vloeistof kon-
-stant terwijl het volume vermindert. De soortelijke massa zal
-bijgevolg stijgen.
-
+Bij grote drukstijgingen blijft de massa van de vloeistof konstant terwijl het volume vermindert. De soortelijke massa zal bijgevolg stijgen.
 
 ### 1.2.1. Verandering van het volume vloeistof in_functie van_de druk.
 
