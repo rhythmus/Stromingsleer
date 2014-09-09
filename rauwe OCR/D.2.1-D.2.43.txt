@@ -1,0 +1,1330 @@
+# HOOFDSTUK 2: De wet  van Bernoulli. De energiewet
+
+## Inleiding
+
+Om een goed inzicht te krijgen in de basiswetten voor stromingen
+bestuderen we eerst de ideale stroming. Het is, zoals hoger reeds
+vermeld, een stationaire stroming van een ideale vloeistof zonder
+cohesie, adhesie, inwendige wrijving en onsamendrukbaar.
+Dit betekent dat de stroming geen weerstand ondervindt, dat er geen
+wrijving optreedt- noch inwendig noch aan de wanden- en dat er dus
+geen rekening moet gehouden worden met wrijvingsverliezen.
+Bovendien bestuderen we enkel de één-dimensionele stroming.
+Hoewel in vele toepassingen de resultaten van zulk geïdealiseerd
+model slecht overeenkomen met de realiteit is het toch nuttig deze
+studie te maken om de betekenis van de verschillende wetten en van
+de verschillende termen in deze wetten nader te verklaren.
+Bij de studie van de reële stroming wordt trouwens eveneens van
+deze wetten uitgegaan.
+
+[D.2.2.]
+
+# HOOFDSTUK  II. De wet van Bernoulli
+
+2.1. De wet van Bernoulli. De wet van Lagrange.                          D.2.3.
+2.T.I. Geldigheidsgebied van beide wetten.                                D.2.3.
+2.1.2. Onderscheid tussen Bernoulli en Lagrange.                    D.2.7.
+2.1.3. Veralgemening van de wet van Bernoulli.                        D.2.8.
+2.1.4. Verschillende vormen van de wet van Bernoulli.         D.2.9.
+2.2. Statische druk, dynamische druk, totale druk.                    D.2.I0.
+2.3. Voorstelling van de wet van Bernoulli.                                  D.2.I6.
+2.4. Omzetten van dynamische druk in statische en omger
+keerd.                                                                                                     D.2.I8.
+2.5. Veralgemeende wet van Bernoulli.                                               D.2.23.
+2.5.1. De veralgemeende wet.                                                             D.2.23.
+2.5.2. De opvoerhoogte en het vermogen van een centrifu-
+gaalpomp.                                                                                       D.2.24.
+2.6. Praktische werkwijze.                                                                      D.2.26.
+D.2.3.
+2.1. DE WET VAN BERNOULLI. DE WET VAN LAGRANGE.
+2.I.I. Geldigheidsgebied van beide wetten.
+Voor de volledige theoretische afleiding van deze beide wetten ver-
+wijzen we naar gespecialiseerde literatuur.
+We beperken ons tot het aangeven van de manier waarop deze wetten
+tot stand zijn gekomen.
+De bewegingsvergelijkingen van Euler. (1707-1783)
+Euler beschouwt een elementair volume vloeistof waarop hij de wet
+van Newton (1642-1727) toepast.
+Z?  = ma
+Hij veronderstelt hierbij dat de krachten op de zijwanden loodrecht
+staan op. deze wanden. Hij veronderstelt met andere woorden een
+ideale vloeistof.
+Deze vergelijking wordt geprojecteerd óp de drie assen van een
+vast assenstelsel waardoor drie bewegingsvergelijkingen ontstaan.
+De bewegingsvergelijkingen van Lagrange. (I736-I8I3)
+De drie bewegingsvergelijkingen van Euler worden door Lagrange
+vereenvoudigd. Daarbij maakt Lagrange de volgende veronderstel-
+lingen:
+- de zwaartekracht is de enige massakracht
+- in een bepaald punt veranderen de drie komponenten van de
+snelheidsvector niet in functie van de tijd.
+Hij veronderstelt dus een stati1onaire_stroming.
+- Hij veronderstelt     een stroming zonder wervelingen, die men
+een irrotationele stroming noemt.
+Met deze drie veronderstellingen herleiden de drie bewegingsverge-
+lijkingen van Euler zich driemaal tot dezelfde gedaante, die dan
+in geïntegreerde vorm kunnen geschreven worden als:
+h +
+pg
+2g
+= konstant
+De som van deze drie termen heeft dus dezelfde waarde  in alle
+punten van een ideale vloeistof in stationaire irrotationele be«
+weging die als enige massakracht de zwaartekracht ondervindt.
+D.2.4.
+De wet X^2-B-r122!£lli# (i700-I782)
+Hij gaat terug uit van de bewegingsvergelijking van Euler.
+In plaats van deze te projecteren op een vast assenstelsel, pro-
+jecteert hij deze vergelijking op een assenstelsel dat voor het
+eerst is ingevoerd door Huygens. (1629-1695). Dit assenstelsel is
+als volgt gekozen:
+- de Ie as is raaklijnig aan de stroomlijn
+- de 2e as gaat door het kromtemiddelpunt van de stroomlijn
+- de 3e as staat loodrecht op het vlak gevormd door beide voor-
+gaande.
+Ter vereenvoudiging van het stelsel veronderstelt Bernoulli dat
+in een bepaald punt de.drie komponenten van de snelheidsvector niet
+veranderen in functie van de tijd. Hij veronderstelt dus alleen
+maar een stationaire stroming.
+Zo bekomt hij drie vergelijkingen van verschillende vorm.
+We zoeken nu, net als Bernoulli, enkel de projectie van de alge-
+mene bewegingsvergelijking in de richting rakend aan de stroomlijn.
+Hiertoe beschouwen we in figuur I een infinitesimaal klein cilin-
+dervormig controlevolume (Euler) gelegen langsheen de stroomlijn.
+Fig.I.
+Voor de hoeveelheid vloeistof, die op het beschouwde ogenblik
+door dit controlevolume stroomt, stellen we de wet van Newton voor.
+Er werken volgende krachten:
+- vanwege de druk: 2oals bij Euler wordt, verondersteld dat de
+krachten loodrecht op de zijwanden staan (ideale vloeistof-
+stroming). We hebben dus geen krachten in de richting van de
+zijwanden.
+D.2.5.
+Op de beide eindvlakljes van de cilinder werken de krachten:
+pdA op het voorvlakje
+(p+dp)dA op het achtervlakje
+beiden in de richting van de stroming maar in tegengestelde zin.
+- het gewicht, vertikaal
+dG = g dm
+Het vloeistofvolume volgt een kromlijnige
+stroombaan en krijgt dus een versnelling met een tangentiële en een
+normale komponente. We stellen op het rechtergedeelte van de tekening
+de overeenkomstige vectoren voor:
+-dm a  in de richting rakend aan de stroomlijn
+- dm a  in de richtinq loodrecht erop.
+n                                ^                                r
+We kiezen het assenstelsel van Huygens:
+- de x-as kiezen we raaklijnig aan de stroomlijn en positief in de
+zin van de stroming.
+- de y-as kiezen we in de richting en zin van het kromtemiddelpunt
+van de stroomlijn.
+- de z-as kiezen we loodrecht op het vlak van de tekening.
+We schrijven nu de wet van Newton, enkel in de x-richtingi
+pdA-(p+dp)dA - dG sinoc = dm a.
+Deze bewegingsvergelijking werken we verder uit.
+»„ x. j     juj                         dv    dv  ds      dv
+Met dm ss pdAds en a, = —tt— = —-:----n~~ = v —-:—
+K        t   dt    ds  dt      ds
+dv
+-dpdA - gpdAdssina = pdAds v —-:—
+2
+-dp - gpdssina= pd( —-— )
+Met  dssina  =  dn             ■        (fig.I.)
+-dp  -  gpdh   -  pd(  ———   )=  O
+Indien   nu   p   =  konstant   (onsamendrukbare  vloeistof)
+_ '"? ...
+-d(p  +  pgh   +■  p —-—   )   ss O
+2   ■
+of  d(h   + -2—   + -^—   )   =  o
+pg.           2g
+D.2.6.
+Deze vergelijking stelt dus het dynamisch evenwicht voor van elk
+punt van de onsamendrukbare vloeistof langsheen een stroomlijn van
+een stationaire ideale vloeistofstroming.
+Deze vergelijking kan nu in geïntegreerde vorm geschreven worden
+als de wet van Bernoulli, nl.
+h +
+v
+pg
+2g
+= H = kte
+De vergelijking van Bernoulli drukt uit dat in een ideale vloeistof
+in een stationaire beweging de som van deze drie termen konstant is
+langs een gegeven stroomlijn.
+We noemen:
+h: de liggingshoogte; het is een maat voor de potentiële energie.
+pg
+: de drukhoogte; het is een maat voor de drukenergie.
+v
+2g
+—   :   de   snelheidshoogte;   het  is   een   maat  voor  de  kinetische  energie.
+H:   de   totale  eriergiehoogte  in  het   punt
+D.2.7.
+2.1.2. Onderscheid tussen de vergelijking_van Bernoulli en de ver-
+gelijking van Lagrange.
+Alhoewel beide vergelijkingen dezelfde vorm vertonen hebben ze
+nochtans niet dezelfde betekenis.
+De vergelijking van Lagrange is enkel geldig voor een irrotationele
+beweging; de som van de drie termen is konstant in alle punten van
+de bewegende vloeistof.
+De vergelijking van Bernoulli is ook geldig voor een stroming met
+wervelingen; de som van de drie termen is alleen maar konstant in
+alle punten van dezelfde stroomlijn.
+De vergelijking van Bernoulli is dus tegelijk ruimer en tegelijk
+meer beperkt dan de vergelijking van Lagrange.
+- ruimer aangezien ze geldt voor een willekeurige stationaire
+stroming en niet alleen voor een irrotationele stationaire be-
+weging.
+- meer beperkt omdat de som van de drie termen enkel konstant
+blijft voor punten op dezelfde stroomlijn. Voor twee punten niet
+pp dezelfde stroomlijn gelegen kan deze som verschillende waarden
+vertonen. D\i t zal namelijk het geval zijn wanneer de beweging
+rotationeel is. Is de beweging daarentegen irrotationeel zo valt
+men terug op Lagrange en heeft de som een zelfde waarde in alle
+punten van de vloeistof.
+D.2.8.
+2.1.3._Veralgemening van de wet van Bernoulli.
+We beschouwen twee punten a en b gelegen in dezelfde normaaldoor-
+snede van een leiding, (fig.2)
+Fig.2.
+Fig.3.
+^a
+pg
+pa
+pg
+pa
+pg
+Pk
+pg
++ h
++ h. - h
+b    a
+•+ h
+pg   a
+PS
+Indien v = v , zoals bij de ideale vloeistofstroming, geldt ook:
+a   b                                          2
+P                               V                    Pt_                             VK
+^a -   .    __a     ^b   ,      b
+------■ + h  +-----— = ------ + h, + —r-----
+pg     a     2g     pg     b    2g
+De wet van Bernoulli zou nu ook mogen toegepast worden voor twee
+punten van eenzelfde normaaldoorsnede.
+Bij een reële stroming is de snelheid n£>et konstant over de ganse
+doorsnede.
+In dit geval zijn de termen
+v
+V,
+—--en —-— niet gelijk en mogen ze er
+zo maar niet aan toegevoegd worden zoals we daarjuist hebben gedaan,
+In dat geval werken we met de gemiddelde snelheid,die we konstant
+veronderstellen in de ganse doorsnede,en passen we de wet van
+Bernoulli toe (fig.3)
+- voor punten a, b ... in een normaaldoorsnede
+- voor punten I, 2 ... langsheen een stroomlijn
+en dus ook voor de twee punten b en 2.
+Veralgemeend passen we dan de wet van Bernoulli toe in alle punten
+van de bewegende vloeistof.
+D.2.9.
+2.1.4. Verschillende vormen van de wet van Bernoulli.
+We geven hier enkel de verschillende vormen aan. In de volgende
+paragraaf gaan we dieper in op de betekenis.
+a._Als__hoog te ver gel ijking.
+_R- . _vL + h = H
+pg     2g
+Elke term in deze vergelijking wordt uitgedrukt in meter.
+Men kan dus zeggen dat bij een stationaire stroming van een
+ideale vloeistof in elk punt de som van de druklgoogte, de snel-
+heidshoogte en de liggingshoogte een konstante is.
+b._Als drukvergelijking.
+2
+pv       .
+p + v ^      ■ + p gh = p gH  •
+Elke term wordt nu uitgedrukt in Pascal.
+Men kan zeggen: de totale druk in een punt van een stationair
+stromende ideale vloeistof = de som van de hydraulische druk,
+de dynamische druk en de hydrostatische druk.
+c. Als energievergelijking.
+2
+m  "  + m —-— + mgh = m Hg.
+Alle termen worden nu uitgedrukt in Joule.
+Voor een stationair stromende ideale vloeistof is de totale
+energie = de som van de drukenergie (m  P  = E,), de kinetische
+energie (m —— = E, ) en de potentiële energie (mgh = E ) .
+-----—     2      k---------------—                   p
+De som van deze drie termen is gelijk aan een konstante. Daarom
+wordt de wet van Bernoulli ook de energiewet voor de stroming
+genoemd.
+De laatste vergelijking kan ook geschreven worden als
+2
+P       V                uu
+-£- + —— + gh = Hg
+Elke term stelt nu een energie voor die per eenheid van massa
+■in de ^stromende vloeistof aanwezig is.
+De energie in de vloeistof aanwezig verschijnt hier onder drie
+vormen. De som is steeds konstant maar elk van de drie vormen
+kan tijdens de stroming steeds omgezet worden in de twee andere
+•vormen zonder dat energie toegevoegd of afgevoerd wordt. Bij een
+reële stroming zal dat dikwijls het geval zijn.
+D.2.I0.
+2.2. STATISCHE DRUK, DYNAMISCHE DRUK, TOTALE DRUK.
+Figuur 4 stelt een piëzometer voor. De instroomopening is even-
+wijdig aan de stromingsrich'ting van de vloeistof.
+Het niveauverschil in de U-buis wordt niet beïnvloed door de snel
+heid van de vloeistof. We meten dus een statische druk.
+Indien we een overdruk hebben in de leiding zal het peil in het
+linker been het laagst staan.
+Piëzometer
+v,
+Jp'f-
+Fig.4.                                                                Fig.5.
+Ook in figuur 5 wordt een statische druk gemeten.
+De U-buis is echter vervangen door een vertikaal buisje waarin de
+stromende vloeistof zelf kan opstijgen.
+Heerst er in de leiding een statische overdruk p  dan zal de vloei
+stof opstijgen tot op een hoogte h .
+Is ée spervloeistof in de U-buis kwik dan gelden volgende betrek-
+kingen:
+p  = h' mm KK =133,32 h' Pa  (Pag.S.7.)
+pz   = pghI Pa
+133,32 hj.   = pghx
+Eenheden: h' : mm
+h.
+m
+p : kg/m'
+, 2
+g : m/s
+■D.2.II.
+Figuur 6 stelt de Prandtl-buis voor. De instroomopening staat lood-
+recht op de stromingsrichting van de vloeistof.
+Het niveauverschil in de U-buis wordt nu beïnvloed door
+- de statische druk in de leiding
+- de snelheid van de vloeistof.
+De gemeten druk noemen we nu de totale druk.
+Prandtl- buis
+							
+				>		.	.
+1	{						h3
+r v ,---------—*» —1	•					__1	-4
+Fig.7.
+Fig.6.
+Ook in figuur 7 wordt de totale druk gemeten.
+Voor dezelfde statische druk p  zal de vloeistof nu opstijgen over
+een hoogte h 7> h .'
+Met kwik als spervloeistof gelden volgende betrekkingen
+pL L = h' mm KK = 133,32 h! Pa
+^tot    3                         ■ '    3
+Ptot = pqh3 Pa
+133,32 h' = pg h
+Eenheden: h'
+mm
+m
+P
+g
+kg/m'
+m/s
+D.2.I2.
+Het niveauverschil h  op figuur 6 is het gevolg van de snelheid van
+de vloeistof.
+Dit kan ook gemeten worden bij middel van een Pitot-buis (fig.8)
+De druk op het linker been van de U-buis wordt bepaald door
+- de statische druk in de leiding
+- de vloeistofsnelheid.
+De druk op het rechterbeen van de U-buis wordt enkel bepaald door
+de statische druk in de leiding.
+Pito t-buis
+h2
+Fig.8
+Het niveauverschil in de U-buis is dus enkel het gevolg van de snel-
+heid van de vloeistof.
+Het drukverschil over de U-buis noemen we de "dynamische" druk.
+= h' mm KK = 133,32 h» Pa
+= pgh2 Pa
+Fdyn
+pdyn
+133,32 h£ = pgh2
+Proefondervindelijk zou men kunnen zeggen dat h0 = —-—
+J                                                                 2    2g
+hoogte h  overeenkomt met de snelheidshoogte in de wet van
+Bernoulli.
+133,32 h» = pgh  = pg  ^  = p
+o<fi dat de
+v
+2g
+Eenheden: h'
+P
+9
+v
+mm
+m
+kg/m'
+m/s
+m/s
+D.2.I3.
+Opmerkingen.
+I. Figuur 9 geeft de kombinatie van deze drie meters
+Fig.9.
+Prandtl      P/tot
+Piëzome ter
+In de piëzometer meet men de statische druk.
+In de Prandtl-buis meet men de totale druk.
+In de Pitot-buis meet men de dynamische druk.
+2. Sluit men een klassieke manometer aan op een leiding dan is de
+instroming evenwijdig met de stroming en meet men dus de statische
+druk.
+Wanneer men dus spreekt over "de druk" zonder meer, dan bedoelt
+men de statische druk.
+Een logisch gevolg is dat een manometer niet in een bocht mag ge-
+plaatst worden omdat dan een komponent van de dynamische druk mee
+gemeten wordt.
+D.2.I4.
+Toepassing«_
+3
+Door de leiding van Figuur 10 stroomt lucht. p=D,2 kg/m .
+De spervloeistof is water.
+a. In welk been van de Pitot-buis staat het peil het laagst?
+In het linkerbeen:
+- links staat de totale druk
+- rechts staat de statische druk
+Lucht
+Pi tof
+Piëzometer
+
+Prandfl
+
+Fig.IO.
+b. Wat is de luchtsnelheid als het niveauverschil in de Pitot-buis
+24 mm bedraagt?
+2
+pdyn - Pl
+= 24 mm WK = 24.9,81 Pa
+2
+v  =
+2p
+dyn  =  2.24.9,81
+Px  ■"   ■ 1,2
+c .
+d.
+v=I9,8 m/s
+In welk been van de piëzometer staat het peil het laagst?
+In het linkerbeen als er in de leiding een overdruk heerst.
+In het rechterbeen als er in de leiding een onderdruk heerst.
+Stel dat in de piëzometer in het linkerbeen het waterpeil 40 mm
+lager staat dan in het rechterbeen (fig.7) Wat is de totale druk?
+Pitotbuis : p
+dyn
+= 24 mm WK
+Piëzometer : p   = 40 mm WK overdruk
+st
+ptot = Pdyn + Pst
+= 64 mm WK overdruk.
+D.2.I5.
+e. Stel dat in de piëzometer in het linkerbeen het waterpeil 40 mm
+!22cje£ staat dan in het rechterbeen. (fig.II)
+Wat is dan de totale druk?
+Lucht
+Pi tot
+Piëzometer
+
+Prandtl
+^o
+Fig.II.
+Pitotbuis: p,   = 24 mm WK
+rdyn
+Piëzometer: p , ="40 mm WK onderdruk
+p, . = p , + p ,   = -40+24=-l6mm WK (onderdruk)
+tot    st  <dyn
+D.2.I6.
+2.3, VOORSTELLING VAN DE WET VAN BERNOULLI.
+Beschouwen we een willekeurige leiding. (fig.I2)
+In drie doorsneden plaatst men een piëzometer en een Prandtl-buis.
+We nemen ook een horizontaal referentievlak a.
+In zulke opstelling zou men konstateren dat, indien er geen weer-
+standen optreden, in elke Prandtl-buis het niveau even hoog komt
+te staan of dat:
+2                                       2
+Pl     *     Vl          h          P2            V2
+hi ♦ — * -5T ■ h2+ — * ~
+(   Bernoulli)
+Piézom
+lijn
+Theoretische
+ladings\lijn
+3
+29
+efrische
+J3_
+99
+Geometrische
+lijn
+•a
+Fig.I2
+D.2.I7.
+Verbinden we nu ook de punten van overeenkomstige hoogtes in elk
+van de doorsneden, dan ontstaan drie lijnen.
+- de geometrische lijn;
+deze verbindt de zwaartepunten van elke doorsnede; ze geeft in feite
+de ligging aan van de leiding en bepaalt de liggingshoogte in elke
+doorsnede.
+- de piëzometrische lijn:
+deze verbindt de niveaus èn elke piëzometer; deze lijn geeft t.o.v.
+het referentievlak de evolutie van de som van de statische druk-
+hoogte en de liggingshoogte in de leiding.
+Gemeten t.o.v. de geometrische lijn leest men de statische druk-
+hoogte af.
+- de_theoretische ladingslijn of theoretische energielijn:
+deze verbindt de niveaus die optreden in de Prandtl-buizen.
+T.o.v. het referentievlak geeft deze horizontale ée totale hoogte;
+t.o.v. de piëzometrische lijn geeft ze de snelheidshoogte.
+In paragraaf 3.2.3. zagen we dat de wet van Bernoulli ook kan ge-
+schreven worden als een energievergelijking.
+Zonder energieverlies of energiewinst stelt deze horizontale even-
+eens de totale energie voor in de stromende vloeistof aanwezig.
+Omdat er bij een reële stroming altijd energieverlies zal zijn,
+spreken we slechts over de theoretische energielijn.
+D.2.I8.
+^^^^OMZETTEN^VAN^DYNAMISCHE_DRUK_IN STATISCHE_EN_OMGEKEERD.
+Door de horizontale leiding van figuur 13 stroomt vloeistof van
+links naar rechts. De leiding vernauwt zodat de snelheid toeneemt
+van v  tot v .
+We meten de statische en de totale drukhoogte in twee doorsneden
+I en 2.
+1
+--------				—	-z	1	A
+							29
+						1	t
+V	.	—					
+99			2				
+'							
+							
+^2
+Fig.I3
+De dynamische drukhoogte is toegenomen (v^ >v ), terwijl men kan
+konstateren oVat de totale drukhoogte konstant blijft, wat in over-
+eenstemming is met de wet van Bernoulli.
+Dit betekent dat de statische drukhoogte, gemeten in de piëzometer,
+in doorsnede 2 moet afgenomen zijn. t.o.v. deze in doorsnede I.
+P-
+dP2
+pg     2g     pg      2g
+Dit betekent dus dat de druk verlaagt als de snelheid verhoogt of
+omgekeerd dat de druk verhoogt als de snelheid verlaagt.
+Indien we dus de statische druk in.de vloeistof willen verlagen
+volstaat het de vloeistof doorheen een konvergerende leiding te
+sturen.
+Anderzijds kunnen we de snelheid doen afnemen en de druk doen
+stijgen door de vloeistof door een divergerend kanaal te sturen.
+Toepassingen van dit principe vinden we o.a. in
+- de waterstraal pomp
+- de centrifugaalpomp
+- de Venturibuis.
+D.2.I9.
+a. De_^-i:r!£si:£rialpomp. (fig-I4)
+Een waterstraalpomp bestaat in hoofdzaak uit een konvergerende
+straalpijp verbonden aan een waterleiding.
+Ter hoogte van de konvergent is de zuigleiding aangesloten die
+leidt tot in de ruimte R waarin men een vacuüm wil bekomen.
+In de konvergent stijgt de vloeistofsnelheid en daalt de druk.
+De konvergent moet zo berekend worden dat de einddruk lager is
+dan de gewenste einddruk in het reservoir.
+In de konvergent zitten meestal torsieschoepen zodat het water
+een beweging krijgt die het meevoeren van lucht bevordert.
+De druk van het mengsel water en lucht wordt in de divergent
+terug verhoogd tot de atmosferische druk.
+Fig.I4.
+D.2.20.
+b. De centrifugaalpomp. (fig.I5)
+Een centrifugaalpomp bestaat in'hoofdzaak uit een waaier die aan
+het roteren wordt gebracht door een motor. Door eentrifugaal-
+kracht worden de vloeistofdeeltjes versneld en komen uit de
+waaier met een snelheid van bv. I2m/s.
+Om de vloeistof op te vangen en te geleiden naar de persleiding
+is rond de waaier een slakkenhuis of koliektor gemonteerd.
+Fiq.15.
+Deze heeft een dubbel doel.
+I. Het steeds toenemend debiet verwerken.
+Door sectie 2 moet % van het totale debiet.
+Door sectie 3 moet 2/4 van het totale debiet.
+Door sectie 4 moet 3/4 van het totale debiet.
+Door sectie 5 moet 4/4 van het totale debiet.
+Indien dit het enige doel was zou
+A3 - 2A2
+A4 * 3A2
+A5 = 4A2
+2. De dynamische druk, overeenkomstig met 12 m/s, omzetten in
+statische druk.
+De opeenvolgende secties nemen veel meer toe zodat de snelheid
+in de koliektor afneemt tot bv. 2m/s. De statische drukverhoging
+vindt dus plaats in de koliektor door het doen afnemen van de
+snelheid.
+Op het slakkenhuis volgt nog een divergent (van 5 naar 6).
+Het doel ervan is de vloeistof die uit de waaier vliegt tussen
+de doorsneden 4 en 5 ook een snelheidsvermindering te geven
+van 12 m/s tot 2m/s.en zodoende ook de druk te verhogen.
+D.2.2I.
+c. De Venturibuis^ (fig.16)
+De venturibuis wordt gebruikt om het debiet in een leiding te
+meten. Zij wordt geplaatst in een horizontale leiding en bestaat
+uit een geleidelijk vernauwend gedeelte gevolgd door een lang-
+zame verwijding tot op de oorspronkelijke diameter.
+Fig.I6.
+In de doorsneden I en 2 zijn de oppervlakten A_ en A  nauwkeurig
+gekend.
+We verwaarlozen de weerstand   in de venturibuis. (later moet deze
+wel in rekeni-ng gebracht worden.)
+Het drukverschil tussen I en 2 wordt gemeten.
+pg
+Vl
+2g
+pg
+2g
+= v2A2 (Castell
+i)
+( Bernoulli)
+2
+VI "
+pg
+V.
+A
+I
+P-
+pg
+V.
+2g
+a:
+2g
+PI ~ P2 0           2 ,T
+A
+A'
+D.2.22.
+v.
+A
+2
+yAp  met Ap=p -p
+p(I-
+A
+2
+v2 = cJ  V5p
+Q = c A  yAp
+Q = c UAp
+Tussen het debiet Q en de drukval Ap bestaat dus een kwadratisch
+verband.
+Veronderstel dat bij een maximaal debiet van IOm/h de maximale waarde
+voor Af	0 = .	[00 mm KK
+Ap (mm	KK)	Q (m3/h)
+0		0
+I		I
+4		2
+9		3
+16		4
+25		5
+36		6
+49		7
+64		8
+81		9
+IOO		10
+Figuur 17 geeft de voorstelling
+74 9 16 25    36    4?
+54
+I    i
+12 3   4    5
+7
+5
+57
+755  Ap
+75   a
+Fig.I7.
+Een venturibuis is een debietmeter en daarom wordt bv. in de kon-
+trolekamer alleen de schaal voor Q zichtbaar gemaakt. Staat de naald
+in het midden dan komt dit overeen met ongeveer 70°/o van het maxi-
+male debiet.
+Opmerking.
+Het kwadratisch verband kan, via elektronische weg, worden weggewerkt,
+zodat er ook meters geplaatst worden waarbij het midden van de schaal-
+verdeling toch overeenkomt met 50°/o van het maximale debiet.
+D.2.23.
+2.5.VERALGEMEENDE WET VAN BERNGULLI.
+2.5.1. De veralgemeende wet.
+In reële installaties zijn er plaatsen waar energie wordt toege-
+voerd bv. door een pomp (fig.18) of plaatsen waar energie wordt
+onttrokken bv. door een turbine.
+X
+IKH-3BBH
+3-
+\    i
+Fig.I8
+Bovendien treden bij een reële stroming in de leiding altijd
+energieverliezen op. Aan het berekenen van de leidingsverliezen
+besteden we een afzonderlijk hoofdstuk.
+In elk geval moet de energiewet van Berboulli aangepast worden
+aan deze energieaanvoer of -afvoer.
+De veralgemeende wet van Bernoulli wordt:
+2                                                         2
+PI     VI                                         P2 ■   "
+---- + —^--■ + hi +HV-H -H\ . = ---- +
+2g     I  t  a  w    pg
+PG
+W  + h2
+waarbij H  = de hoogte die overeenkomt met de energietoevoer
+H  = de hoogte die overeenkomt met de energieafvoer.
+H  = de weerstandshoogte in de leidingen. Deze hoogte komt
+overeen met de energie die met de stroming in de
+leiding gepaard gaat.
+D.2.24.
+2.5. 2^De_opvoerhoogte en_het_vermogen y>rln_r!r!rLcen ^ri f u9aa^ pomp.
+a. Opvoerhoogte van een pomp.
+We hebben een installatie waarin zich een eentrifugaalpomp be-
+vindt die energie levert aan de vloeistof. In de veralgemeende
+wet van Bernoulli, geschreven als een hoogtevergelijking, stel-
+len we H, = H
+t    P
+2                                                                 2
+PI     VI                                                P2     V2
+--— +  0   +. h +H  - H -H  = --— + --£
+pg    2g    lp   a  w   pg
+2g    2
+H  noemen we de opvoerhoogte van een pomp.
+In de theorie over centrifugaalpompen zal men aantonen dat de op-
+voerhoogte afhankelijk is van het debiet.
+Het verband tussen beide wordt gegeven door de pompkarakteristiek
+opgemeten door de pompconstructeur. (fig.19)
+Fig.I9.
+b. Het geleverd vermogen van een centrifugaalpomp^
+Om aan een vloeistof, met een soortelijke massa p, een opvoer-
+hoogte H en een debiet Q te geven moet deze pomp een zeker ver-
+mogen ontwikkelen.
+P=QpgH
+Dimensies  [Pj =
+m
+Mjl
+Nm
+Jiq_
+m
+J
+m
+kg m
+s
+= w
+m
+m
+s      s
+Opmerking: het vermogen dat" de pomp zelf moet krijgen zal natuurlijk
+groter moeten zijn en is afhankelijk van het rendement van de pomp.
+D.2.25.
+Opmerking.
+Een vloeistof stroomt doorheen een leiding als gevolg van een
+drukverschil. Het doel van een pomp is dus de druk in de vloeistof
+te verhogen. Gewoonlijk spreekt men echter niet over de drukver-
+hoging die een centrifugaalpomp geeft maar wel over haar opvoer-
+hoogte.
+De reden ervan is de volgende: in de theorie over de centrifugaal-
+pompen zal worden bewezen dat de opvoerhoogte die een centrifugaal-
+pomp geeft onafhankelijk is van de soortelijke massa van de vloei-
+stof. Een centrifugaalpomp geeft dus aan twee vloeistoffen met de-
+zelfde viscositeit maar meteen verschillende soortelijke massa de-
+zelfde opvoerhoogte H .•
+P
+De drukverhoging die de pomp in de beide gevallen geeft is echter
+wel verschillend.
+Men kan dus in een proefopstelling de opvoerhoogte van een centri-
+fugaalpomp bepalen bij middel van water en deze opvoerhoogte ook
+gebruiken voor andere vloeistoffen.
+D.2.26.
+2.6. PRAKTISCHE WERKWIJZE.
+1. Het probleem wordt geschetst met aanduiding van alle gegevens
+(secties, drukken, snelheden...)
+2. De referenties bepalen:
+- men bepaalt zelf het referentievlak. Meestal neemt men hiervoor
+het laagste punt van de installatie om negatieve tekens in de
+vergelijking te vermijden.
+- men bepaalt zelf of men werkt in
+absolute druk
+of relatieve druk.
+3. Keuze van de twee secties waarvoor de wet van Bernoulli zal ge-
+schreven worden.
+Let erop dat de wet van Bernoulli zoals we ze hiervoor besproken
+hebben uitsluitend in de zin van de stroming mag geschreven worden
+4. We schrijven de termen van Bernoulli in sectie I.
+5. Alle energie-equivalenten toevoegen van alle machanische werk-
+tuigen die energie leveren tussen de twee.gekozen secties.
+6. Alle energie-equivalenten aftEekken van alle werktuigen die
+energie onttrekken tussen de twee gekozen secties.
+7. De leidingsverliezen tussen de twee secties aftrekken.
+8. De termen van Bernoulli schrijven in sectie 2.
+9. Eventueel de kontinuïteitsvergelijking bijschrijven.
+Deze geeft het verband tussen de snelheden in de twee secties.
+Omdat de leidingsverliezen nog moeten bepaald worden in een later
+hoofdstuk houden we ons voorlopig aan voorbeelden zonder rekening
+te houden met deze leidingsverliezen ofwel waar de leidingsverliezen
+als gekend verondersteld zijn.
+D.2.27.
+2.7. TOEPASSINGEN.
+I. Men verwijdert de stop uit de bodem van een vloeis tofreservoir
+(fig.20). Bepaal de uitstroomsnelheid op het ogenblik dat het
+vloeistofpeil 4m hoog staat.
+Fig.20.                                                      Fig.2I.
+Oplossing^ (fig.2I)
+1. Secties:
+Sectie I: het vrije vloeistofoppervlak
+Sectie 2: de uitstroomopening waar de snelheid gevraagd wordt
+2.  De referenties.
+Het referentievlak: door sectie 2.
+De druk: we werken met overdruk.
+3.  De wet van Bernoulli.
+v.
+pg
+2g
++ hz .
+pg
+2g
++ h
+Pl = o
+
+h  = 4m
+h2=0
+V =s  ?
+2
+Alleen voor wat betreft de druk pp die in de wet van Bernoulli
+gebruikt worden kan enige twijfel bestaan.
+D.2.28.
+Om deze te verklaren bekijken we de stroombuis die ontstaat wanneer
+de stop uit het reservoir wordt getrokken, (fig.22) .
+Fig.22.
+Zoals bij de afleiding van de wet van Bernoulli (pag.D.2.4) is aan-
+gegeven moeten we alleen de krachten beschouwen op de beide eind-
+vlakken. Deze zijn afkomstig van de drukken op deze beide eind-
+vlakken.
+Op de bovenwand van deze stroombuis staat de atmosferische druk;
+dus p_ = p  = 0\
+/ I   ^a
+Net na de uitstroomopening is de druk ook gelijk aan de atmosfe-
+rische druk; dus p,
+v
+Zodat: 4=
+2g
+p  = 0.
+v  = 8,85 m/s
+Opmerkingen
+1.  v2 = V2gh
+h = het niveau boven de uitstroomopening.
+Deze vergelijking staat ook bekend als de regel van Toriricelli.
+De uitstroomsnelheid komt overeen met de snelheid van een vrij-vai-
+lend lichaam dat zonder wrijving vanaf dezelfde hoogte h zou vallen.
+2. Ter hoogte van de uitstroomopening doet zich een sterke drukval
+voor. Dit is best te vergelijken met een groot aantal personen dat
+door een nauwe opening moet.  Vóór de opening staan de mensen tegen
+elkaar te drummen (te drukken). Eenmaal de opening gepasseerd is
+het gedaan met drummen.
+D.2.29.
+2
+Twee zeer grote vloeistofreservoirs zijn met elkaar verbonden
+door een leiding, (fig.23)
+Boven het vloeistofoppervlak heerst de atmosferische druk p .
+a. Met welke snelheid v« loopt het water in het tweede reservoir,
+b.  Bepaal de druk in doorsnede 3 op 2 meter boven het referentie-
+vlak*
+Fig.23.
+Oplossing.
+a. I. Secties:
+Sectie I: de oppervlakte van reservoir I:' de druk is gekend.
+Sectie 2: de uitstroomopening waar de snelheid gevraagd wordt,
+maar nog in de buis gelegen.
+2. De.referenties;
+Het ref erentievlak: door sectie 2;, het laagste punt.
+De druk: we werken met overdruk.
+Wet van Bernoulli.
+2
+P,.        V"
+I      I
++ —--- + hu =
+v.
+pg
+2g
+pg
+2g
++■ h
+b. h.
+T
+= 0
+vI -er 0
+10 = 4 +
+PT
+pg
+V.
+2c
+v:
+2g
+10+0+0 = 2 +-
+p3 = 2pg = I
+pg
+V2
+v„
+• = 4m
+_  9
+10,85 m/s
+2
+■ h3 +
+P3
+pg
+9620 Pa
+pg
+10,85
+2g
+2g
+= 10 m
+h2 = 0
+v =v2 = 10,85 m/s
+D.2.30.
+Opmerking.
+Passen we de wet van Bernoulli nogmaals toe maar de tweede sectie
+kiezen we nu ter hoogte van het vloeistofniveau in reservoir II.
+2                                         2
+P3     V3    h     P2     V2
+h„ + ----- + —-— = h^ +
+3   pg     2g     2    pg     2g
+0    P3     IO,852    . ^ ^
+2 +.---- + --—2---- - 4+0+0
+Pg      2g
+p  = -4pg = -39240 Pa
+We bekomen dus een verschillende waarde.
+Verklaring.
+We kunnen niet zo maar de wet van Bernoulli toepassen doorsnede na
+doorsnede. We moeten goed nagaan of de wet van Bernoulli (behoud van
+energie) wel kan gebruikt worden.
+Hiertoe moet de stroming stationair zijn.
+Bekijken we daarom het stroombeeld tussen de twee reservoirs van wat
+naderbij.
+In reservoir I zal de snelheid vanaf het oppervlak naar de uitstroom-
+opening geleidelijk toenemen. We kunnen ons de stroming voorstellen
+met een bundel stroomlijnen (fig.24). De stroming is er nagenoeg
+stationair. In het leidingsgedeelte tussen de twee reservoirs is de
+stroming eveneens stationair.
+De wet van Bernoulli is dus in elk geval geldig vanaf het oppervlak
+in reservoir I tot aan de instroomopening van reservoir II.
+Hetgeen zich afspeelt bij de instroming in reservoir II ter hoogte
+van doorsnede 2 kunnen we vergelijken met de plastische botsing van
+punten in de mechanica.
+Denken we hiervoor terug aan het geïdealiseerd vloeistofmodel: de
+vloeistof bestaat uit een aantal onvervormbare moleculen. Tussen
+doorsnede I en 2 bewegen de vloeistófdeeltjes met behoud van energie.
+Er grijpen wel energieomzettingen plaats tussen potentiële-, kine-
+tische en drukenergie, maar de totale som blijft gelijk.
+In doorsnede 2 stoten de vloeistofdeeltjes op een wand van vloeistof-
+deeltjes die zich in rust bevinden. Elk vloeistofdeeltje dringt in
+deze wand, geeft wel een minieme verplaatsing aan alle andere vloei—
+stofdeeltjes die te verwaarlozen is. Bij dit indringen in reservoir
+II gaat de kinetische energie van elk deeltje verloren in warmte die
+vrijkomt tijdens deze botsing.
+D.2.3I.
+Vergelijk dit fenomeen met een kogel die in een zak zand geschoten
+wordt of een bol die in mul zand valt.
+Hetgeen in doorsnede 2 gebeurt, is dus volledig te vergelijken met de
+plastische botsing in de mechanica.
+We weten daar ook dat de energiewet het botsingsverschijnsel niet
+kan beschrijven, tenzij uitdrukkelijk met het botsingsverlies wordt
+rekening gehouden.
+Dit alles betekent dus dat in doorsnede 2 steeds een energieverlies
+optreedt, dat we stootverlies zullen noemen. Dit verlies is gelijk
+aan de snelheidshoogte:
+2
+H
+v
+w.
+2g
+In figuur 24 werd ook de energielijn voorgesteld.
+Pa
+Energielijn
+Fig.24.
+Tussen doorsneden I en 2 blijft de energie behouden op 10 meter
+"*- -    -3 - - .--------3-    "\    J _ _ -I  I     1                                      .                  -I  _ I  _    ____J_J_    1_______   ,,                                V                 .
+In doorsnede 2 daalt de energie plots met de term H
+w.
+2g
+tot
+de waarde 4 meter.
+Het stootverlies bedraagt dus 6 meter.
+Net na doorsnede 2 blijft de energie weer behouden op 4 meter.
+Uit dit alles leren we dat zulke stootverschijnselen in stromingen
+altijd gepaard gaan met energieverliezen, en dat de wet van
+Bernoulli (behoud van energie) niet kan gebruikt worden over deze
+D.2.32.
+verschijnselen, heen tenzij uitdrukkelijk wordt rekening gehouden met
+deze verliesterm. We kunnen dus wel schrijven dat:
+HI = H2
+H2 ~ Hw2 = H4
+2
+V2
+of  H2 "   2^~  =   H4
+We hebben dus gedaan alsof dit verlies plots optreedt in doorsnede 2,
+In werkelijkheid zal ook in vat II nog vloeistof in beweging komen
+en treden deze verliezen geleidelijk op, of m.a.w. het energiever-
+lies, gelijk aan de snelheidshoogte, verspreidt zich in reservoir II
+door wrijving.
+We hebben nu één verliesterm leren kennen. Later zullen we zien dat
+in stromingsproblemen nog met verschillende andere verliezen moet
+rekening gehouden worden.
+Wi.l men de wet van Bernoulli gebruiken in de vorm zoals we ze nu ge-
+zien hebben (behoud van energie) dan moet men bij de keuze van de
+doorsneden ook nagaan of geen verliestermen optreden.
+We besluiten dms dat
+- de wet van Bernoulli mag toegepast worden tussen
+doorsnede I en 3
+doorsnede 3 en 2
+doorsnede I en 2
+- de wet van Bernoulli niet mag worden toegepast tussen
+doorsnede 3 en 4
+tenzij met de verliesterm in doorsnede 2 wordt rekening gehouden.
+We mogen dus wel schrijven dat:
+2                                                        2
+P3     V3     H     h     P4     V4
+3    pg     2g      w2    4    pg     2g
+2  _P3_. + ■ IO;852  _ IC^BSL u   4+0+Q
+pg       2g        2g
+p  = 2pg = I962G Pa
+D.2.33.
+3- Een leiding heeft een diameter van 2". De diameter neemt af tot I"
+en de leiding krijgt een helling naar boven zodat ze 5 meter
+hoger komt te liggen, (fig.25)
+3
+In de leiding bevindt zich een vloeistof met p=I200 kg/m .
+Manometer I geeft een druk aan van 4,8 bar.
+Welke druk zal door manometer 2 aangegeven worden indien:
+a. v = 0
+b. de snelheid in de leiding van 2" 2m/s bedraagt.
+^2
+1"
+♦v.
+Fig.25.
+Oplossing,
+a^ v = o
+1. Secties
+Sectie I: ter hoogte van manometer I.
+Sectie 2: ter hoogte van manometer 2.
+2. Referenties
+Het referentievlak: door het zwaartepunt van sectie I
+De druk: deze afgelezen op manometer I.
+3. Wet van Bernoulli.
+2                                           2
+Pr     vt                           Po     vo
+pg-
+2g
++ h_ =
+pg
+2g
++ h
+p  = 4,8.10  Pa
+vi = °
+hi =°
+4,8.10   _  P2
+_ o
+v2 = 0
+h  = 5m
+pg
+pg
++5
+p2=4,8.I0b-5.9,8I.I200=4,2I.I0bPa = 4,21 bar.
+D.2.34.
+b. v  = 2m/s
+I en 2: zelfde secties en referenties
+3. Bernoulli.
+pI pg	2 VI    , " +  2g  + hI "	P2 pg	+	2 V2 2g	♦ h2
+pi	= 4,8.10  Pa			P2 =	9 •
+vi	= 2m/s			V2 a	9 •
+hi	= 0			h2 -	5m
+4. Kontinuïteitsvergelijking.
+(d2)2
+V2     <d )2
+2
+v  = v  ( --- )
+2    I v  I  ;
+v  = 2.4 = 8m/s
+Zodat (I)
+(I)
+(2)
+4,8.10     _4__    P2     64    c
+----1-------+ ._-— _ ----- + —---- + 5
+Pg       2g     pg     2g
+p  = 4,8.I05+ -|-- 1200-5.1200.9,81---~- . 1200
+p  = 3,85.10  Pa
+p9  =   3,85 bar.
+Deae druk is lager dan in het eerste geval omdat een gedeelte
+van de statische drmk, wegens de vernauwing van de leiding,
+werd omgezet in dynamische druk.
+D.2.35.
+3
+4, Een centrifugaalpomp geeft een debiet van 0,035 m /s in de
+leiding voorgesteld in figuur 26.
+De zuigleiding heeft een diameter van 200mm. De persleiding heeft
+een diameter van 150 mm.
+De manometer in de zuigleiding geeft een onderdruk van 0,28 bar.
+De manometer in de persleiding geeft een overdruk van 2 bar.
+De manometer in de persleiding staat 0,5m boven deze in de zuig-
+leiding en 2,5m boven het aanzuigniveau.
+3
+Voor de vloeistof geldt pg = 12000 N/m .
+a.  Bepaal de som van de liggingshoogte, de drukhoogte en de
+snelheidshoogte in elk van de drie aangegeven secties.
+b. Schets de energielijn voor de installatie.
+c.  Bepaal de opvoerhoogte van de pomp en het vermogen dat door
+3
+de pomp geleverd wordt bij q=0,035 m /s.
+d. Bepaal de weerstandshoogte tussen sectie I en sectie 2.
+e. Ga na hoe het pompvermogen zich verdeelt over de verschillende
+energetische termen.
+<fi. Bepaal de statische opvoerhoogte die de pomp mènstens moet
+kunnen leveren.
+2 —
+
+CL     <
+2/7?
+U
+Fig.26
+D.2.36
+Oplossing^
+a. I. Referentievlak: ter hoogte van het aanzuigniveau
+Referentiedruk: de absolute druk.
+Sectie I.
+HI	:----              2 n   ,   Vl	PI
+	-   n     + I           2g	pg
+	h      =   0	v    ~   0
+p  = I bar = 10  Pa
+u       IQ5     o ^
+HI =  12000   = 8'33 m
+Sectie 2L
+2
+v2     p2
+H0 = h„ 4-
+2    2    2g              pg
+h2 = 2m
+Q             0,035.4    _ __.  ,
+v0 = —r-- = ---ï------- = 1,114 m/s
+1          A2              710,22
+p2 = 1-0,28   = 0,72 bar = 0,72.I05 Pa
+o   I,H42           0,72.IQ5
+H_ = 2+ —-z-h:—^rr— + --~
+2       2.9,81      12 000
+H  = 8,0633 m
+Sectie 3^
+2.
+V3     P3
+3    3   2g     pg
+h _ = 2 , 5 m
+Q       0,035.4    _ OOT  ,
+V3 * ~K~ •  ---'    ?  " X'981 m/S
+3      %  0,15
+p- = 1+2=3 bar = 3.10  Pa
+H  - 2 5 +   ^9812  +  3-iq5
+3  ,  ' .    2.9,81     12 000
+H  = 27,70 m.
+D.2.37
+b.   De   energielijn:    (fig.27)
+2
+9
+1-------,.3rL_l
+2m
+H
+27,7
+8,33
+8,0 6 F
+\3
+Fig.27
+c. De opvoerhoogte van de pomp.
+Tussen sectie 2 en 3 is er een hoogtewinst. Dit is het gevolg
+van de centrifugaalpomp die energie aan de vloeistof heeft ge-
+leverd.
+De opvoerhoogte van de pomp bedraagt dus
+H  = 27,7-8,0.63 = I9,637m.
+Ir
+Het vermogen door de pomp geleverd.
+P = QpgH
+= O,035.I2OOO.I9,637=8250W =8,25 kW.
+d
+D.2.38.
+Tussen sectie I en 2 heeft een hoogteverlies plaats gevonden.
+Dit is het gevolg van de leidingsweerstand tijdens de stroming
+in de zuigleiding. Het is dus de weerstandshoogte in de zuig-
+leiding en werd bepaald door de meting van de druk in sectie 2.
+In de hoofdstukken 4 en 5 zal nagegaan worden hoe deze weerstand
+ook kan geschat worden uit de leidings- en de stromingsgegevens.
+De weerstandshoogte in de zuigleiding bedraagt
+H
+w
+1,2
+= 8,33-8,0633 = 0,267 m.
+Hoe verdeelt het vermogen van de pomp zich?.
+De pomp moet bij een debiet q=0,035m /s de vloeistof van door-
+snede I naar doorsnede 3 brengen ën daarbij:
+	energiehoogte	vermogen=pgQH
+1. de verliezen overwinnen (energieverlies) 2. het hoogteverschil overwinnen (potentiële energie verhogen) 3. snelheidshoogte verhogen (kinetische energie verhogen) A, 4. de druk opvoeren (drukenergie verhogen)	0,270m 2, 5m 2 I7981  o I99m 2x9,81 U'iyym 2x10   T/_ rr^ 12000 =16>667m	113,4 W 1050   W 83,5 W 7000   W
+Totaal	H  = I9,636m P	P =8247 W P
+f.
+De statische opvoerhoogte van de pomp is de opvoerhoogte bij een
+snelheid nul. Dan zijn ook de verliezen in de leiding gelijk aan
+nul.
+H  . = 19,636-0,27-0,199 = 19,167m
+pst     »    . '    '      '
+Het is' dus de energiehoogte die vereist is om de vloeistof in
+rust te houden tegen de zwaartekracht en de bedrij fsdrukken in.
+Anders gezegd: het is de énergiehoogte om het hoogteverschil en
+het drukverschil te overwinnen.
+H  , = 2,5+16,667 = I9,I67m.
+pst                     7        '
+D.2.39.
+Opmerking.
+In figuur 28 zijn de pompkarakteristieken voorgesteld van twee
+3
+centrifugaalpompen die bij een debiet van 0,035 m /s de vereiste
+opvoerhoogte leveren.
+De' statische opvoerhoogte van pomp I is te klein. Bij het starten
+van deze pomp zal deze geen debiet leveren; pomp 2 daarentegen wel
+0,035
+Fig.28.
+D.2.40.
+5. In het systeem   van fig. 29 stroomt olie met een relatieve dicht-
+heid 6 = 0,761   van tank A naar tank E. In de leiding treden ver-
+liezen op, die   we voorlopig nog als volgt aannemen.
+2
+H w = 0,6
+ab    7
+bc
+2g
+(intreeverlies)
+v
+H,  = 9
+bc
+bc
+2g
+(1 eidingsverlies)
+v
+H , = 0,4 —^L
+cd                     2g
+(verlies in de konvergent)
+Vdf
+H,  =9 ----—  (leidinqsverlies, inclusief het stootverlies ter
+de       2g                                         .
+hoogte van doorsnede f)
+Bereken:
+1. het debiet Q
+2. de druk in C.
+Fig.29.
+*Fl2m
+Oplossing.
+I. Secties: a en e
+Referentievlak: e
+Referentiedruk: relatieve druk.
+Ver	gelijkin	g van		Bernoulli.				
+Pa	2 V a	• +	h a	-	H  = -w	pe pg	+ •	2 V e
+pg	+ . 29							2g
+	Pa * °				pe =	0		
+	■ v ~  0 a				V  ~ e	0		
+	h  = 12 a	'			h  = e	0		
+' H w	V = 0,6 —	2 'bc 2g	- +	9	2 Vbc 2g	+ 0	,4	2 Vdf 2g
++ h
+v
++ 9
+df
+2g
+D.2.4I
+Kontinuïteitsvergelijking:
+Vbe  _ ,     0,15   2
+v,.  ~    0,3   ;
+df
+j
+v.r = 4v,
+df     bc
+zodat 12 - 9,6
+v,_
+DC
+2g
+- 9,4
+'16 v
+bc
+2g
+= 0
+v,  =1,21 m/s
+bc    '
+Q = vv.    ti (0,3)     ^ _.__  3.
+bc -------2---- = 0,0855 m /s
+2. Secties a en c.
+Referentievlak : a
+Vergelijking van Bernoulli:
+pa	V a 2g	+•	h     -a	-   H w	=	P                v Hc               c
+......           -1-pg						Pg     +     2g
+Pa  =  °				Pc	=	•
+v    r^   0 a				V c	=	1,21   m/s
+h      =0				h	=	0,6   m
++ h
+H  = 9,6
+w
+H
+w
+V
+bc
+2g
+P =
+pe
+pg
+761 kg/m3
+= -°'7164 -  2^81  -°'6
+p =-10384 Pa
+^c
+p  = -0,108 3 bar
+pc = 0,1038 bar onderdruk.
+D.2.42.
+3
+De pomp van figuur 30 levert een debiet van 0,25m /s.
+3
+De vloeistof heeft een soortelijke massa van 762 kg/m .
+De weerstandshoogte in de zuigleiding bedraagt 2,5 m.
+De weerstandshoogte in de persleiding, inclusief het stootverlies
+dat optreedt in de intreedoorsnede, bedraagt 6,5m.
+a. Bepaal het vermogen dat door de pomp moet geleverd worden.
+b. Schets de energielijn?
+c. Hoe verdeelt het pompverlies zich over de verschillende
+energetische termen.
+d. Bepaal de statische opvoerhoogte van de pomp.
+
+T
+12
+12
+63,5
+i
+i
+i
+i
+i
+-j
+9,5
+T—2
+57
+dj--*
+Fig.30
+D.2.43.
+Oplossing.
+a. Secties: de niveaus in beide reservoirs.
+Referentievlak; door de aslijn van de pomp.
+Referentiedruk: relatieve druk.
+Bernoulli.
+v.
+hI +
+pg
+2g
+- H   + H -H   = h0 +
+wz    p  wp    2
+pg
+b.
+12+0+0-2,5+H -6,5=57+0+0
+P
+H  = 54m
+P
+P = QpgH
+= 0,25.762.9,81.54
+= 100 915 W
+= 100,915 kW
+De energielijn: zie fig.30
+v.
+<^g
+c.
+	Energiehoogte	Vermogen=pgQH
+1. De verliezen 2. Het hoogteverschil A 3. Het drukverschil 4. Het snelheidsverschil	9m 45m 0 0	16 819 W 84 086 W
+	Hp = 54m	P  =100 905W P

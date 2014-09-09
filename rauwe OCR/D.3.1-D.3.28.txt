@@ -1,0 +1,839 @@
+[D.3.1.]
+
+# HOOFDSTUK 3: Hoeveelheid beweging en impuls
+
+## 1. Inleiding
+
+In de dynamica van de stoffelijke punten worden drie wetten ge-
+bruikt, namelijk:
+- de wet van Newton
+- de energiewet
+- het theorema van hoeveelheid beweging en impuls.
+In vorig hoofdstuk hebben wé de wet van Bernoulli besproken en
+..toegepast. We hebben ook gezien dat de wet van Bernoulli in feite
+de energiewet is in een vorm die bruikbaar is om stationair
+stromende vloeistoffen te beschrijven.
+In dit hoofdstuk bespreken we het theorema van hoeveelheid beweginc
+en impuls en we gaan na hoe dit theorema op een stromende vloei-
+stof kan toegepast worden.
+We behandelen enkel de stationaire stroming.
+In de mecharTica wordt aangetoond dat de wet van Newton toegepast
+op een stelsel van stoffelijke punten veralgemeend kan geschreven
+worden onder de vorm:
+2 ?  = -TT- ( 2 m. v. )                    (I)
+u    dt    .il
+u                                  1
+waarbij:   Z'T     =  de  som  van   alle  uitwendige  krachten
+u
+u
+Z (m.v.) = de totale hoeveelheid bewegina van het stelsel
+il.
+van stoffelijke punten.
+D.3.2..
+2. Het theorema van hoeveelheid beweging en impuls, toegepast op
+een stationair stromende vloeistof.
+We passen voorgaande vergelijking toe op de hoeveelheid vloeistof
+die zich op een bepaald ogenblik t bevindt in het controlevolume
+tussen de doorsneden I en 2. (fig.I)
+t + At
+Fig.I
+De hoeveelheid vloeistof is omgeven door de wand van de buis
+waarin de vloeistof stroomt en door de vloeistof die zich nog
+buiten het controlevolume bevindt.
+We bekijken, voor deze hoeveelheid vloeistof, beide leden van de
+vergelijking-*^
+Het linkerlid.
+Op de vloeistof in het controlevolume werken volgende uitwendige
+krachten:
+1. Het gewicht van de vloeistof (3-.
+2. De kracht die door de binnenwand van het kanaal op de vloei-
+stof wordt uitgeoefend door druk, wrijving en botsing.
+Al deze krachtjes samen vormen een ruimtelijk< krachtenstelsel
+dat kan herleid worden in een willekeurig punt 0 tot een re-
+sulterende kracht T     en een resulterende koppelvector Ü   .
+Gaat het om een vlakke stroming dan kan dit krachtenstelsel
+herleid worden tot een resulterende kracht zonder koppel.
+D.3.3.
+3. De krachten uitgeoefend door de omgevende vloeistof op de twee
+grensdoorsneden van het controlevolume.
+Deze krachten kunnen geschreven worden als:
+p A : loodrecht op doorsnede I en in de zin van de stroming.
+p0~K   : loodrecht op doorsnede 2 en in een zin tegengesteld aan
+2 2
+de stroming.
+Het linkerlid wordt dus:
+2 f = r =s +p +^T+?DT
+u u
+Het rechterlid.
+Vermits vergelijking Cl) slechts mag geschreven worden voor een
+welbepaald stelsel van stoffelijke punten, gaan we dezelfde vloei-
+stofdeeltjes blijven bekijken.
+Op het ogenblik (t+At) bevindt de oorspronkelijke hoeveelheid
+vloeistof zich tussen de doorsneden I' en 2'.
+Er geldt:
+dt
+(Z m.v.)=  lim
+i  1 1   At-O
+(Sm.v.)     - (Sm.v.)
+1  1  U       Ai-                          X  1  4.
+t+At                       t
+_
+lim
+At-O
+(H.B), A, - (H.B),
+t + At        t
+At
+waarbij
+(H.B)  A, = de hoeveelheid beweging van de oorspronkelijke
+hoeveelheid vloeistof op het ogenblik (t+At).
+Deze vloeistof bevindt zich dan in gebied B en C, zoda-
+= (h7b)_ , A, +(h7b)' , A,
+B,t+At      C ,t+At
+(H.B)
+= de hoeveelheid beweging van de oorspronkelijke
+hoeveelheid vloeistof op het ogenblik t.
+Deze vloeistof bevindt zich dan in gebied A en B,
+zodat
+—■
+= (H.B)A;t + CH.B)
+D.3.4
+Wanneer de stroming stationair is , dan geldt:
+(H.B)_   = (H.B)  ,  A,
+B, t        B,t + At
+Het rechter lid van vergelijking (I) wordt dus:
+(hTb)
+dt
+Verder is nu:
+(lm.v.) =  lim
+1        At-O
+C,t+At " (H-B)A,t
+_
+(H.B)    = het produkt van de massa van de hoeveelheid vloeistof
+in het gebied A, met de gemiddelde snelheid v"   van alle
+lm
+vloeistofdeeltjes in het gebied A
+= (p_A v  At) vT
+rI I lm     lm
+(H.8)^ , A, = het produkt van de massa van de hoeveelheid vloeistof
+L,t+At
+in het gebied C, met de gemiddelde snelheid v^  van
+2m
+alle vloeistofdeeltjes in het gebied C.
+= (p A v   At)v_
+2 2 2m     2m
+In de limiet At—0 worden deze gemiddelde snelheden vV  en v„  de qe-
+■       lm     2m    ^
+middelde snelheden v  en vA die in de doorsneden I en 2 optreden.
+Het rechter lid van vergelijking (I) wordt nu:
+d
+dt
+(S m.v.) = P2A2v v  - PIAIvlvl
+i
+Bovendien blijft de kontinuïteitsvergelijking geldig:
+PIAIVI - P2A2V2 - *
+zodat:
+dt
+(lm.v.) = m (v?-v )
+i
+In het geval van een stationaire vloeistofstroming wordt verge-
+lijking (I) :
+m v+3 +F +pTA +p A  = m v
+m
+D.3.5.
+3. Het_berekenen van de krachten vanwege de stromende vloeistof op
+zijn omgeving.
+In vorige afleiding hebben wij de resultante van alle krachten
+die door de buiswand op de vloeistof wordt uitgeoefend voorgesteld
+in een willekeurig punt 0 door de vector f   .
+Weaens
+actie en reactie is de resultante van alle krachten
+(F. ) die inwendig door de vloeistof op  de buiswand wordt uit-
+10                                  ^
+geoefend:
+F.  = -F
+10
+0
+waarui t:
+?io  ■   pIAI   +   p2A2   +   *  Vj   -  ft  v
+Om  deze  kracht        te  berekenen   moet  dus   gekend   zijn:
+- het massadebiet m
+- de snelheid in begin- en einddoorsnede
+- de druk in begin- en einddoorsnede.
+D.3.6.
+4. Opmerkingen.
+I. De kracht inwendig op een kanaal uitgeoefend door een stromende
+vloeistof, is dus de som van vier vectoren (fig.2)
+m v
+2
+P2A2       Fig-2"
+p A  (aangrijpend in het zwaartepunt van doorsnede I. De zin is
+mv   (deze van de stroming.
+p A  (aangrijpend, in het zwaartepunt van doorsnede 2. De zin is
+mv,.,  (tegengesteld aan de stromingszin.
+Voor een stroming in een plat vlak snijden de werklijnen van de vier
+krachten elkaar in één punt. De krachten kunnen dus herleid worden
+tot een resultante zonder koppel.
+Voor een stroming in de ruimte zullen de werklijnen elkaar niet
+snijden in I punt. De volledige krachtwerking geven we aan
+- ofwel door de vier hoger aangegeven komponenten.
+- ofwel herleiden we deze vier krachten naar I punt en bekomen
+we een resultante en een resulterend koppel.
+2. De__snelheden in de vergelijkingen en.de getekende snelheidsvec-
+toren zijn de absolute snelheden van de stromende vloeistof.
+3. De drukken.
+Hierbij heeft men de twee mogelijkheden.
+- ofwel werkt men inwendig met de absolute druk. Wenst men dan
+alle krachten te tekenen die werkzaam zijn op bv. een bochtstuk,
+dan moet ook nog een kracht vanwege de alzijdige atmosferische
+druk in rekening gebracht worden.
+- ofwel werkt men inwendig met de relatieve druk (overdruk).
+De uitwendige atmosferische druk is dan meteen gekompenseerd.
+D.3.7.
+Voorbeeld.
+Beschouw het   bochtstuk   van   figuur   3.
+2
+A     =   0,2m
+p  = 2 bar overdruk
+A2 = 0,lm2
+p  = 1,5 bar overdruk.
+Bepaal de krachten die dit bochtstuk ondervindt vanwege de druk
+alleen.
+PaAZ
+PaA1
+Fig.3.
+Ie oplossing: we werken met absolute drukken,
+a. De inwendige druk veroorzaakt door de vloeistof.
+Fig.4.
+p A  = 3.10 .0,2=0,6.10 N vertikaal naar boven.
+p A  = 2,5.10 .0,1=0,25.10 N horizontaal naar links.
+b. De uitwendige atmosferische druk.
+Deze werkt op het ganse manteloppervlak van het bochtstuk. We.
+wensen de resulterende kracht, veroorzaakt door deze alzijdige
+atmosferische druk, voor te stellen door een vector.
+Hiertoe beelden we ons hetzelfde bochtstuk in, echter eveneens
+afgesloten aan de begin- en einddoorsnede. (fig.4) Leggen we
+zulk een bochtstuk bv. op een tafel, dan zal het natuurlijk in
+rust blijven, onafhankelijk van de druk binnen in de buis.
+Dit betekent dat het krachteffect vanwege de atmosferische druk
+op de mantel (F , F ) in evenwicht is met de krachten vanwege de
+x   y
+atmosferische druk op de oppervlakten van begin- en einddoor-
+snede (p A  en p A ). Daaruit volgt dus:
+a J.     a 2
+5                         5
+F  = p AT = I.IO .0,2=0,2.10 N vertikaal naar beneden
+Y    a I       5                              5
+F  = p A  = I.IO .0,1 = 0,1.10 N horizontaal naar rechts
+x    a 2
+c. De resultante van alle drukkrachten wordt:
+p A -F =0,4.10 N vertikaal naar boven
+P2A2~FX= °'15,10 N horizontaal naar links.
+D.3.8.
+22_2El2£2r_E2i we werken met relatieve drukken.
+Met de uitwendige atmosferische druk kan onmiddellijk rekening ge-
+houden worden door de relatieve druk te gebruiken.
+PjA  = 2.ICT.0,2=0,4.I0"N vertikaal naar boven
+—*•                      5                              5
+P2A2 = 1,5.10 .0,1 = 0,15.10 N horizontaal naar links.
+De vectoren PTA  en p?A  stellen nu de resultante voor van alle druk-
+krachten op het bochtstuk, afkomstig van zowel de inwendige druk als
+de uitwendige druk.
+We werken dus bij voorkeur met de overdruk.
+4. De irapulswet geeft aanleiding tot een vectoriële vergelijking.
+Dit betekent bv. dat ook voor een eenvoudige ombuiging van een
+stromende vloeistof, zonder dat de grootte van de snelheid van
+de vloeistof wijzigt, er toch wandkrachten zullen optreden omdat
+de richting van de snelheid is gewijzigd.
+5. Hoewel de krachten die door een stromende vloeistof op de punten
+. van een wand uitgeoefend worden zeer komplex kunnen zijn, blijkt
+het mogelijk de resultante ervan op eenvoudige wijze te bepalen
+in functie van de stromingstoestand die bestaat in de begin- en
+einddoorsnede. Bovendien speelt het ook geen enkele rol wat er
+precies tussen de beide doorsneden gebeurt met de vloeistof. De
+vloeistof mag gelijk welke beweging uitvoeren, indien de toestand
+in intree- en üittreedoorsnede dezelfde is, zal ook dezelfde re-
+sultante optreden.
+6. In de afleiding van de wet werd nergens gebruik gemaakt van het
+feit of het fluïdum al dan niet samendrukbaar is. De wet is dus,
+zonder aanpassing, ook geldig voor samendrukbare fluïda.
+7. Wel werd aangenomen dat de snelheid in alle punten van een dwars-
+doorsnede dezelfde is. Bij een reële stroming is dit biet het geval
+en moet dus weer gerekend worden met de gemiddelde snelheid.
+Rekent men echter met de gemiddelde snelheid van vorige hoofd-
+stukken nl.
+I
+v  =
+/a vdA
+m    A J A
+dan maakt men een fout.
+D.3.9.
+De hoeveelheid beweging, berekend met deze gemiddelde snelheid,
+komt niet overeen met de reële.
+2       2
+ifi v = pAv  ^ f. pv dA
+m r  m   JAr
+In feite moet dan een korrektiefaktor ingevoerd worden afhankelijk
+van de aard van de reële snelheidsverdeling
+p = —-— rAv2dA
+A        A
+Av
+m
+We verwaarlozen echter deze korrectiefaktor samen met het gewicht
+van de vloeistof.
+8. Overigens is dit de enige benadering die ingevoerd wordt.
+In tegenstelling tot de wet van Bernoulli, waarbij de wrijvings-
+verliezen in de reële stroming een hoofdrol spelen, is de wet
+hier zonder aanpassingen zeer goed toepasbaar op reële stromin-
+gen. De berekende resultaten komen dus goed overeen met de
+realiteit.
+D.3.I0.
+5.Toepassingen
+I. Het bochtstuk van figuur 5 wordt doorstroomd met water.
+2
+A  = IOOcm .
+2
+A  = 25 cm .
+p  = 3 bar overdruk
+v  = 2m/s.
+De  vloeistof   stroomt  uit  in   de   atmosfeer.
+Bepaal   de kracht  die  het  water  op  het  bochtstuk   uitoefent.
+30^0
+P2A2
+Fig.5
+Oplossing^
+v     =   2.4=8m/s.
+3
+Q     =   v  A     =   2.0,01   =   0,02   m   /s
+m
+=   1000.0,02   =   20kg/s.
+mv   =   20.2=40N   vertikaal   naar  boven
+--*•       5
+p A  = 3.10 .0,01 = 3000N vertikaal naar boven.
+p.t2 = ö   '
+mv  = 20.8=I60N horizontaal naar rechts
+-V:
+3O402+I6O2=3O44N.
+De resulterende kracht is voorgesteld in het punt O.
+Het gaat om een vlakke stroming. De invloed van de stromende
+vloeistof kan dus voorgesteld worden door
+- ofwel de vier aangegeven vectoren
+- ofwel de resulterende krachtvector in het punt O, zonder
+resulterend koppel.
+D.3.II.
+2. Een waterstraal met een diameter van 0,03 meter en een snelheid
+van 20m/s wordt raaklijnig gericht op een plaat die 30° is om-
+gebogen (fig.6). Welke kracht ondervindt de plaat.
+a. indien de plaat een snelheid nul heeft.
+b. indien de plaat een snelheid v=I0m/s naar rechts heeft.
+^
+a
+\//////7ó^----—
+Fig.6.                                               Fig.7.
+Oplossing.
+a. De snelheid van de plaat is nul.
+De druk in de vloeistof is de atmosferische druk en wordt ge-
+kompenseerd door de atmosferische druk aan de andere zijde van
+-v.
+de plaat.
+We  behouden   dus   slechts   2  krachten   op  de  plaat   (fig.7).
+2
+m  = pAv.= I000.      %-°i03----   .20=14,14  kg/s.
+0          0   x     0   y
+=(mvT-mv^cos30°)e     -  mvvsin30°e
+12                 x           2               y
+= (14,14.20-14,14.20.  ^|—)    e   -14,14.20.  -i-  e
+7                     7                    3          x                             2        y
+?     =   37,9e   -141,4e  N
+0             7      x           7      y
+De kracht is voorgesteld in het punt 0.
+b. De snelheid_van de plaat is iOm/s^
+Er stroomt een kleiner debiet water over de plaat, vermits de
+plaat wegloopt van de stroming. Het water treedt met een rela-
+tieve snelheid op de plaat in a.
+D.3.I2.
+v  .=v -v = 20e -IOe = IOe m/s.
+rel  a  s    x    x     x
+2
+m=pv  .AsIOOO.IO. --K-0*!03-- = 7 07kg/s
+r rel                                    4
+De relatieve snelheid van de waterstraal behoudt dezelfde grootte
+maar wordt wel afgebogen. Op het einde van de plaat (in bl is de
+relatieve snelheid
+v   =IOcos30°e +I0sin30°e
+rel                       x                       y
+De absolute snelheid in b:
+(v ),  = V +v
+a b    s  rel
+=I0e +I0cos30°e + 5e
+x                       x   y
+=18,66e + 5e
+x   y
+De kracht op de bewegende plaat wordt:
+r*=m(v ) -m(v ),
+a a    a b
+=7,07.20=e -7007(18,66e + 5e )
+7       x  T     7        x   y
+=9,47e -35,35e N
+x     y
+We kunnen dit probleem ook eenvoudiger op een andere manier oplossen.
+De vergelijkingen die we vroeger vonden werden afgeleid van de wet
+van Newton. Deze is geldig in elk assenstelsel dat met konstante
+snelheid beweegt. Verbinden we nu een assenstelsel aan de bewegende
+plaat, dus met konstante snelheid v =I0e  m/s dan blijven ook alle
+vorige vergelijkingen en methodes geldig.
+In dit referentiesysteem is
+■""■''": ■ .J       2
+m = 1000.10. --Tt°^3      7,07 kg/s
+v =I0e m/s
+lx
+-.       V7?   -      I  -
+v = 10----- e +10 —r— e  m/s
+2       2    x     2   y
+Zodat
+= 7,07(IOe  - 10 -~-- e -10 --^- e )N
+■ '      x        2    x      2   y
+F* =9,47e -35,35e N
+0  '   x  .    y
+3.
+D.3.I3.
+Een wagentje met schoep beweegt over een horizontaal vlak met
+wrijvingscoëfficiënt f=0,2.(fig.S) Op het aangegeven ogenblik
+bedraagt de snelheid van het wagentje v=20m/s.
+Het wagentje wordt voortgestuwd door een waterstraal met diameter
+van 30 mm. Het water verlaat de spuitkop aan een debiet van
+100 liter/seconde. Het wagentje heeft een massa van 100 kg.
+Met welke versnelling beweegt het wagentje op het aangegeven
+ogenblik.
+Fig.8
+V/////// tt/r/rrti *tr**/*r
+Oplossing.
+Om de versnelling te bepalen stellen we de wet van Newton voor in
+een tekening.a(fig„9)
+W= 0,2 N]
+N.
+1
+v=20%f
+100a
+Fig.9.
+In het linker gedeelte van figuur 9 stellen we alle krachten voor
+- het gewicht
+- de normaalkracht vanwege het horizontaal vlak: N
+- de wrijvingskracht: maximaal en naar links gericht: fN
+D.3.I4.
+- de kracht vanwege de stromende vloeistof. Om deze gemakkelijk
+te kunnen voorstellen laten we het assenstelsel meebewegen met
+de snelheid van het wagentje v=20 m/s.
+De snelheid waarmee het water dan op de schoep komt:
+-■    3 .         TC 0,03
+q=0,I m /s = vIa ----1---
+v   = ---°?4 ^  = 141,5 m/s
+ia    tc.0,03^
+v_    = v_ -v  = 121,5 m/s = v0 ..
+Irel    Ia  s      '                    2rel
+2                                               2
+m = p vT  . %  °l03-- = 1000.121,5 %  °l°3-- = 85,88 kg/s
+r  Irel     4                              ■ '   ■  4                    '    y/
+m v_  . = m v_  . = 10 435N
+Irel      2rel
+In het rechter gedeelte stellen we het effekt van al.deze krachten
+voor op het wagentje, de vector 100a.
+Wet van Newton.
+\/3
+x: I0435-I0435 —~---0,2N  = 100a
+ty:-I0 435.^ -I000+N  = 0
+N =6217,5N
+2
+a =1,545 m/s
+Opmerking.
+We hebben alles voorgesteld op één welbepaald ogenblik. We hebben
+dus de krachten en de versnelling berekend op datzelfde ogenblik.
+Op een ander ogenblik is de situatie gewijzigd omdat het wagentje
+een andere snelheid zal gekregen hebben.
+We kunnen op dat andere ogenblik echter weer dezelfde methode
+toepassen om de krachten en de versnellingen te zoeken. Deze zullen
+gewijzigd zijn omdat het stromende water een gewijzigde invloed
+op het wagentje zal hebben.
+.Hoe sneller het wagentje beweegt hoe geringer de invloed van het
+stromende water.
+D.3.I5.
+4. Op het uiteinde van een vertikale waterleiding is een paddestoel
+gemonteerd.
+3
+Het debiet door de leiding bedraagt 0,03 m /s. De uitstroomsnel-
+heid = 1,77 m/s.
+De diameter van de leiding bedraagt 0,I0m. De waterdruk in de
+leiding is 3 bar overdruk. Bepaal de kracht die het water uit-=?
+oefent op de paddestoel. (fig.IO)
+q=0,Ö3-
+177 HL     fig.io.
+Oplossing^
+De snelheid van het water in de leiding bedraagt:
+VI =
+0,03.4    _ __   .
+—z----r~ = 3,8 2 m/s
+TC.0,1
+Het massadebiet bedraagt :
+m = pq=IOOO.O,03=30 kg/s
+We vervangen de stromende vloeistof door volgende krachten.
+— doorsnede I is een cirkelvormige doorsnede
+m v  = 30.3,82 = 114,6N f    ,                    '
+p A  = 3.10 .
+5   tu 0,1'
+= 2356,2 » |
+- doorsnede. 2 loodrecht op de uittredesnelheld is in. feite een deel
+van een kegeloppervlak. De kracht vanwege de stromende vloeistof
+verdeelt zich over die
+kegelmantel.(fig.II)
+Fig.II
+R
+2a
+D.3.I6.
+Wanneer we de resultante bepalen van al deze krachtjes, dan merken
+we dat alle radiale komponenten diametraal tegenover elkaar ge-
+legen elkaar twee aan twee kompenseren.
+Er blijft telkens enkel een axiale komponente over. Al deze axiale
+komponenten kunnen, samengesteld worden tot een axiale resultante
+i—
+R_  = m v cos45°=30.I,77.   \     = 37,5N
+ka                                                     z
+De totale kracht op de paddestoelkop is de resultante van vorige
+3 vectoren:
+F = 2508 N |
+D.3.I7.
+De schroeven van een helikopter zuigen boven lucht aan en sturen
+deze naar beneden.(fig.12)
+In doorsnede I, voldoende ver boven de schroeven, heerst nog de
+atmosferische druk en heeft de lucht een snelheid nul.
+Juist boven de schroeven heeft de lucht een zekere snelheid en
+een zekere onderdruk. De schroeven verhogen de snelheid en de
+druk. In doorsnede 2, met een diameter van IOm, bedraagt de snel-
+heid 20m/s en is de druk terug gelijk aan de atmosferische druk.
+Bepaal de hefkracht die door de schroeven op de helikopter wordt
+uitgeoefend als de soortelijke massa van de lucht gelijk is aan
+Ikg/m .
+Fig.I2
+Oplossing
+F=m (v -v )
+=PAv2(v2-Vl)
+= 1.71.5 .20(20-0)
+=71 .10 N.
+D.3.I8.
+6. De pomp van figuur 13 heeft een gewicht van 3000N.
+Ze verpompt water over een totale hoogte van 8 meter aan een
+3
+debiet van 0,I25m /s. De aanzuigzijde bevindt zich 2 meter onder
+het wateroppervlak.
+Bepaal de kracht die door'de pomp in bedrijf zal worden uitge-
+oefend op het steunvlak m n; bereken deze kracht, als een equi-
+valent kracht-koppelstelsel in het punt a.
+Opmerking: we stellen ter vereenvoudiging de watermassa gelijk
+aan deze van een kolom water met een diameter van 200 mm en een
+hoogte van 8 meter.
+,0,75 tm
+Oplossing.
+G  = 3000 N
+G„ = 1000
+Tl 0,2'
+. 8=251 N
+Fig.I3
+m  = IOOO.O,I25=I25kg/s
+Q
+V2   = ~
+VI   =     A
+0,125.4           x_   no       ,
+—ï----------r—  =   15,92   m/s
+2                TC.0,1
+Q                0,125.4           -   c.c    ,
+.  _  -----2----------__  _   2,546m/s
+I             TC.0,25
+2
+PT              VI             H              P3             V3
+hi+—+ ""2?- = h3+7T + l?
+0   +
+1000.9,81
+2,546
+2.9,81
+2+0+0
+p     =   16 3 79   Pa
+D.3.I9.
+We noemen de krachten die door het steunvlak op de pomp in-a worden
+uitgeoefend X  en Y ; het moment M  (fig.I4)
+a     a                                a
+Fig.I4
+Evenwichtsvoorwaarden.
+X -m v_ cos 45°=0
+a    2
+X -I25.I5,92.cos45°=0
+a
+X  = 1407 N
+a
+Y -G -Gn+p A -m v^ sin45°-+m vT = 0
+a  I  2  I I    2                         I
+Y  = 3000+251+125.15,92 sin45°-l6379. %  °'25-- -125.2,546
+a                        ^                                                                4    ■•      '
+= 3535,75 N
+M -r(Gx+Go)0,I + (p.A )0,I+m vT-O,I+mv  cos45°.I , 5
+a   I  2  '   *± I  7     I       ^
+-m v  sin45°.0,85=0
+2'
+M  =(3000 + 251)0,1-CI6379. %'°i25—40,1-125.2,546.0,1
+a                                                            4
+- I25.I5,9 2.cos45°.I,5+I25.I5,9 2sin45°.0,85
+=-701,8Nm
+= 701,8Nm in de wijzerzin.
+De pomp oefent dus op het steunvlak een kracht uit
+X  = 1407 N naar links
+Y  = 3535,75 N naar beneden
+a
+en een moment M  = 701,8 Nm in de tegenwijzerzin.
+D.3.20.
+7.
+Gegeven: een tuinsproeier met een waterdebiet van 700 liter per
+uur. (fig.15) De snelheid van het water t.o.v. de rotor is I2m/s
+Bepaal: a. het aanloopkoppel.
+b. het nominaal toerental.
+300
+Fig.15.
+Fig.16.
+Oplossing^
+a. Het aanloopkoppel._
+Bij de aanvang heeft het molentje nog geen snelheid.
+Het water stroomt dus naar buiten met een absolute snelheid van
+I2m/s onder een hoek van 15° met de vertikale.
+Het massadebiet door elke arm=350/3600 kg/s.
+Op figuur Iö^werden de krachten vanwege de stromende vloeistof
+in de uittreedoorsneden voorgesteld. Het water treedt in het
+molentje langsheen een buis in het centrum van het molentje. De
+krachten vanwege de vloeistof in de intreedoorsnede staan lood-
+recht op het blad in het centrum van het molentje. Ze hebben geen
+moment t.o.v. de rotatieas.
+De krachten van het stromende water in de uittree vormen dus een
+koppel U:
+U=2m v  cos!5°.r
+= 2
+350
+3600
+=0,338 Nm
+I2.cosl5°.0,I5
+D.3.2I.'
+b. Het nominaal toerental.
+Onder invloed van dit koppel gaat het molentje beginnen draaien
+Het water krijgt dus een sleepsnelheid en de absolute snelheid
+verandert van richting. (fig.I7)
+Fig.I7.
+Het nominaal toerental wordt bereikt op het moment dat er geen
+koppel meer is m.a.w. wanneer de beide krachten invelkaars verlengde
+liggen en dus door het rotatiepunt wijzen. Er is dus geen koppel
+als de drager van de absolute snelheid door de draaias gaat.
+Figuur 17 stelt het molentje voor op dit ogenblik.
+Om de overeenkomstige hoeksnelheid te kunnen bepalen moet de
+sleepsnelheid worden bepaald.
+v  = v  sinoc
+s    r
+=   12   sina
+Bepalen  van   sina.
+De  afstand   a  =   (I502+302+2;I50.30.cos75° )^
+160,4
+sin   105°
+a   =   160,4   mm
+150
+sina
+sina  =  0,90
+v     =   I2.0,9=I0,84m/s
+üj     =
+n
+10,84
+0,1604
+=   67,58   rad/s.
+60cü
+271
+=   645   tr/min
+D.3.22.
+8. Een waaier van een centrifugaalpomp heeft een breedte van 50mm.
+Het water komt met een radiale absolute snelheid tussen de
+schoepen aan de ingang.(fig.18 )
+De diameter aan de ingang = 75 mm.
+De diameter aan de uitgang = 300 mm.
+De waaier draait aan 500tr/min in de wijzerzin.
+De raaklijn aan de schoep maakt aan de ingang een hoek van 45° met
+de radiale richting; aan de uitgang een hoek van 60°.
+De relatieve snelheid, dus de snelheid van het water t.o.v. de
+bewegende schoep, wordt raaklijnig aan de schoep verondersteld
+zodat er geen stootverliezen optreden.
+3
+De soortelijke massa van de vloeistof = 1000 kg/m "
+g = 9,81 m/s2.
+Bepaal: - het debiet
+- het motorkoppel dat moet uitgeoefend worden
+- het vermogen dat de motor moet leveren
+- de totale opvoerhoogte die de pomp geeft
+- het. statisch drukverschil aan in-en uitgang van de
+waaier.
+50
+Fig.I8
+D.3.23
+Oplossing^
+De ingang van de waaier noemen we doorsnede I.
+De uitgang van de waaier noemen we doorsnede 2.
+a. De snelheden aan de ingang van de waaier. (fig.I9)
+(v )_
+s I
+271.500
+60
+0,075
+= 1,9635 m/s
+(v )T = {v L=I,9635 m/s
+al    si
+(v ) = V(v )2+(v )2
+r I     al   si
+=VI,96352+I,96352
+(v ) = 2,7768 m/s
+• r I
+Fig.I9.
+(Vr)
+(v<)
+SJ1
+b. De snelheden aan de uitgang van de waaier.(fig.20)
+(v ) =0,150. 2%£°°   =7,854 m/s
+s 2                         60
+(v ) ronbepaald in grootte en
+a z
+richting.
+(v )^:-bepaald in richting: de
+r 2   r
+richting van de schoepvorm
+-onbepaald in grootte
+Er geldt:
+(v K=(v )9+(v )
+a z   s 2   r 2
+zodatr(v )0 cosa=(v )0cos60° (I)
+a 2        r 2
+i
+(v Ksincc=(v ) -(v )osin60°(2)
+a 2       s 2   r 2
+Fig.20
+D.3.24.
+c- Continuïteitsvergelijking- Het debiet.
+Om de snelheden in de einddoorsnede te bepalen moeten we de
+continuïteitsvergelijking toepassen:
+qi - q2
+qz = 7CdI.b.(va)I
+= %.0,075.0,05.1,9635=0,02313 m /s
+q_ = 7id_ b.(v )  cösa = 0,02313
+c.               <L               ad
+(3)
+(I) en (3): (v )ocos60°= Z^^l,  nc-
+r2                    7ï.0,3.0-,05
+(v )_ = 0,9817 m/s
+r 2    1
+(I): (v )  cosa = 0,491 m/s
+a c.
+(2)  (v )_ sina = 7,0038 m/s
+a 2                     7
+(v )^ = 49,2946 (m/s)2
+a 2     '
+(v ). = 7,0209 m/s
+a 2    '
+D.3.25
+d. Het motorkoppel.
+Fig.2I.
+Op de waaier werken volgende krachten.(fig.21)
+- het motorkoppel in de draaizin U
+^^                                        m
+- de kracht vanwege de stromende vloeistof
+- aan de ingang van de waaier:
+A.
+de krachtvectoren vanwege de druk en de krachtvectoren die
+overeenkomen  met m (v )T staan loodrecht op de cilinder-
+a I                                      r
+vormige intreedoorsnede. Deze krachten hebben geen moment
+t.o.v. de rotatieas.
+- aan de uitgang van de waaier:
+de krachten vanwege de druk staan loodrecht op de cilinder-
+vormige uittreedoorsnede en hebben geen moment t.o.v. de
+rotatieas.
+de krachten die overeenkomen met de komponente m (v )„ hebben
+3.   z
+de richting van de absolute snelheid aan de uittree. Enkel de
+tangentiële komponenten hebben een moment t.o.v. de rotatieas,
+Het resulterend moment vanwege de vloeistofkrachten t.o.v. de
+rotatieas.
+M= [m(v )  sina] R =23,13.7,0038.0,15=24,30 Nm.
+Vermits de rotor met konstante hoeksnelheid draait, geldt:
+U =M=24,30 Nm. "}
+D.3.26
+e. Het vermogen
+P=U .w
+m
+24,30 -2%   50°
+60
+= 1272,42 W
+f. De opvoerhoogte van de pomp.
+P=pgQHp
+127 2,4 2=1000.9,81.0,02313.H
+H  = 5,60m
+P
+P
+Het drukverschil aan in-en uitgang   van de waaier
+Bernoulli:
+2                                             2
+pVI       ..                     P V2
+pi+ ---_---. +pgHp = p2+'
+o       O       O
+Ap=p2-pi = pgH + -|- (v  - Vj)
+Ap=I000.9,8I.5,6+  I°°°  (7,02I2-I,96352)
+= 36 216 Pa
+D.3.27*
+Opmerkingen.
+a.  De pomp levert in de waaier een opvoerhoogte H =5,6m
+Deze bestaat uit twee komponenten:
+- een statische drukhoogte (om de druk te verhogen)
+Ap      32 216      _ _Q„
+= 7?" =  1000.9,81  = 3'284 m
+- een dynamische drukhoogte (om de snelheid te verhogen)
+2      2
+V2     VI     7,0209      1,9635     _. ___
+2g     2g  ~  2.9,81      2.9,81     ^>^-o
+Een centrifugaalpomp geeft dus in de waaier aan de vloeistof zo-
+wel een statische drukverhoging als een dynamische drukverhoging
+b.  Deze dynamische druk wordt in het slakkenhuis gereduceerd en om-
+gezet in statische druk.
+Indien de snelheid in het slakkenhuis wordt gereduceerd tot bv.
+2m/s dan wordt de statische drukverhoging:
+De totale drukhoogte = 5,60m
+2*
+De dynamische drukhoogte = -— Q Q — = 0,20m
+<_ . y , ö 1
+De statische drukhoogte- 5,6-0,2=5,4m
+De statische drukverhoging:
+5,4.1000.9,81=52974 Pa
+=0,5 3 bar.
+D.3.28.
+c. De opvoerhoogte van een pomp.
+Bekijken we de uitdrukking die H  geeft van naderbij:
+P      u -w
+p.  _   m    _  M.o)
+p ~  Qpg  ~   Qpg  "  Qpg
+m [ (v ) sina ] R?co
+Qpg
+Qpg [(v ) -(v ) sin60° ] R w
+Qpg
+= f (v ) „-(v ) _ sin60° 1 Rna)
+L  s <l        r 2       J  2
+De opvoerhoogte is dus onafhankelijk van p.
+Het pompvermogen is dat wel.
+De opvoerhooqte H  is echter wel afhankelijk van Q omdat zowel
+P
+(v )_ als (v )_ afhankelijk zijn van het debiet,
+s 2       r 2
+Uitgaande van de stelling van hoeveelheid beweging en impuls
+zal in de cursus over centrifugaalpompen worden aangetoond dat
+de totale opvoerhoogte kan berekend worden met volgende uit-
+drukking:
+(v   )l-(v   )l            (v   )l-(v   )l              (v   )*-(v>)l
+a2al                s2sl                   rlr2
+H =--------------+•--------------- +
+'P        2g                                2g                                  2g
+_  7,02O.92-I,96352     7 , 8542-1,96352     2 , 77682-0 ,98I72
+2.9,81       +      2.9,81      +       2.9,81
+=5,6m.

@@ -1,0 +1,48 @@
+[T.I.6.]
+
+# Hoofdstuk  2: Viscositeit
+
+## Dynamische viscositeit
+
+Newtoniaanse vloeistoffen       Niet-Newtoniaanse vloeistoffen
+Lineair snelheidsverloop       Niet-lineair snelheidsverloop
+v                                                                          dv
+h                                                        I  '!    dh
+X - T, Hf"                                                           t . T,  dV
+h                                                                  '  dh
+Eenheden van dynamische viscositeit
+M.K.S. : Pa.s
+c.g.s. : Poise (P) = 100 cP.
+Verband: 1 Pa.s=I0P=I000 cP.
+2. Kinematische viscositeit.
+Tl
+V = ---
+P
+Eenheden van kinematische viscositeit
+M.K.S.:m2/s.
+c.g.s.: I St=I00 c St
+2     4        6
+Verband: lm /s = I0  St - 10  cS.t
+3. Verband tussen kinematische en dynamische viscositeit.
+___________________________________ _ ____________________
+v = 3L_
+P
+M.K.S.                                             c.g.s.
+_ 2                                                                    ___
+V : m /s                                         V :• c St
+Tl : Pa.s                                         T] : c P
+3
+p : kg/m                                        p : kg/l.
+Het verband tussen de kinematische, de dynamische en de prak>
+tische eenheden van viscositeit wordt gegeven in tabellen.
+4.  De viscositeit in functie van de temperatuur.
+Geen algemene theorie.- ofwel tabellen
+- ofwel een normogram.
+5^^De^formule^van^Ubbelohde:     W -W?
+__                                           _                                                  __
+logT -logT
+2
+met W=loglog( v  +0,8)  y(mm /s)      T(K)
+W =m(logT -logT )+W
+x       m     x   m
+o • o. •

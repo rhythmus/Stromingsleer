@@ -1,0 +1,40 @@
+[T.7.1]
+
+# HYDRODYNAMICA. DE WET VAN BERNOULLI
+
+## De kontinuïteitsvergelijking
+
+PlVl=P2A2V2
+Indien  p=konstant
+AIVI=A2V2
+f     V2            AI
+of
+VI            A2
+Met  een_cirkelvormige  normaaldoorsnede^
+De  wet  van_3ernoulli.
+Een  ideale   stroming  langsheen   een   stroomlijn.
+a.   Als_hoogtevergelijking.
+2
+P     v
+.c— + —._--- +h=konstant = H
+pg     2g
+b. Als_drukvergeli jking._
+2
+pv       .
+p+ —*~z— + pgh=pgH
+c. Als snelheidsvergelijking.
+2
+d. Als energievergelijking.
+2
+p      v
+m —c— + m —-— + rnqh = mg H
+P       .2
+Veralgemeende wet van Bernoulli.
+2                                                                 2
+Pi  -  VI                                             P2      V2
++ —~-- + h, +H . -H ' -H  = ----- + —■=--- + h.
+pg    2g     I  t  a w   pg     2g     2
+Geleverd vermogen van een centrifugaalpomp.
+P=pgHQ
+HOEVEELHEID BEWEGING EN IMPULS.
+?.=(p A +m v )-(p A +m v )+  G*

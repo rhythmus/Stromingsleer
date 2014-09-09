@@ -1,0 +1,3060 @@
+
+HS.l.
+Krachten vanwege druk op de omgeving.
+We formuleren de methodes, die kunnen gebruikt worden om een onderdeel van een con-
+structie 'vrij te maken' van een vloeistof of van een gas, d.w.z. de druk vanwege de vloei-
+stof of het gas te vervangen door een stelsel van één of meerdere krachten, die volledig
+equivalent zijn met het stelsel van elementaire drukkrachten dF = p dA. We gaan er steeds
+van uit dat
+- het fluïdum zich in rust bevindt
+- de elementaire drukkrachtjes loodrecht staan op het oppervlak] e dA
+We beschouwen nu verschillende gevallen.
+1. Kracht vanwege een gelijkmatige drukverdeling.
+1.1. Op een vlakke wand.
+					
+Fic	C^ cd*) juur 1	■			F
+		i	IT'r		
+			ik     i ft siK               N	jjTrTnTrpTT-rr^S	
+We beschouwen een willekeurige vlak gedeelte uit een wand van een reservoir, waarop de
+vloeistof een druk uitoefent, die in alle punten van die wand dezelfde is. Dat zou, zoals
+bijvoorbeeld in figuur 1 voorgesteld, een gedeelte uit de (horizontale) bodem (of uit het
+deksel) van een verticaal geplaatst vloeistofreservoir kunnen zijn. De kracht vanwege de
+gelijkmatige druk p:
+- staat loodrecht op de vlakke wand
+- moet in het zwaartepunt van het oppervlak geplaatst worden
+- wordt berekend als: Fz = p A
+Fysica van Fluïda 1998-1999
+1.2. Op een gebogen wand.
+HS.2.
+	S                    k                ^S.		
+			
+		F    Jj	
+	%M:;i	£-0W	
+			
+			
+	fczz^		
+	w__^		
+	*   >-*=^          -^x., ■*		
+	v^   ^		
+Figui	XX 1		
+Gaat het om een gebogen wand dan stelt A de pro-
+jectie voor van het gebogen oppervlak.
+In figuur 2 werd de kracht voorgesteld op het bol-
+vormig deksel van een oliereservoir. De druk is in
+alle punten van dit oppervlak gelijk aan de
+dampdruk, die in de gaswolk boven de vloeistof
+heerst.
+2. Kracht vanwege een variërende druk.
+2.1. Probleemstelling.
+		-/	
+4		y i-	dA   1 V
+	\   ï		/
+		\\^	/
+Figuur	3		
+Is de wand niet horizontaal geplaatst, dus verticaal
+of schuin, dan is de druk niet meer in alle punten
+van de wand dezelfde; de druk in de vloeistof vari-
+eert immers lineair met de diepte onder de vloeistof-
+spiegel: Phydr = P g h.
+In figuur 3 wordt bijvoorbeeld een vlakke schuine
+wand voorgesteld. De druk geeft aanleiding tot ele-
+mentaire krachtjes dF, die:
+loodrecht staan op het elementair gedeelte dA van de wand
+gelijk zijn aan dF = p dA, dus groter worden naarmate de druk p toeneemt.
+Fysica van Fluïda 1998-1999
+HS.3.
+Deze elementaire krachtj es moeten samengesteld (herleid) worden tot een stelsel van
+krachten, dat zo eenvoudig mogelijk te bepalen is. Uit de cursus 'Beginselen van Mechani-
+ca' weten we dat de eenvoudigste vorm van zulk equivalent krachtenstelsel een resulteren-
+de kracht is met een grootte, die kan bepaald worden uit het equivalentieprincipe toegepast
+op het het translatieaspect, terwijl de ligging van de resultante uit de momentsvergelijking
+moet gevonden worden. We vermelden hier enkel de resultaten van zulke berekeningen
+voor een aantal bijzondere gevallen.
+2.2. Drukkracht op een verticale vlakke wand, rakend aan de vloeistofsplegel.
+&
+Figuur 4
+Sc
+tl
+i/		
+		.
+£ i		R,-ï
+EU    ^é		
+:=^\^~Z	^        \                                              \	'
+F^r   1	......     ■■■i—    _____   _____   _____ _' ------\             F \------   3	i
+	sr                                      \	4«t
+		
+Z-
+d
+0>
+In figuur 4 stellen we, als voorbeeld, een verticaal geplaatste rechthoekige wand voor, die
+bovenaan raakt aan de vloeistofspiegel. De hoogte van de rechthoek noemen we a, zijn
+breedte noemen we b. We wensen de prismatische hydrostatische drukverdeling op die
+wand te vervangen door één enkele kracht, die volledig equivalent is met het stelsel van
+elementaire krachtj es dF = p dA, die allen loodrecht staan op die verticale wand, en dus de
+horizontale richting hebben.
+Op basis van het equivalentieprincipe voor het translatieaspect van dit krachtenstelsel kan
+aangetoond worden dat de resulterende kracht kan berekend worden met:
+FD = pghzA
+De uitdrukking (p g hz) stelt de hydrostatische druk voor ter hoogte van het zwaartepunt Z
+van het oppervlak A.
+Bij het rechthoekig oppervlak wordt dit: Fd = (p g a/2) (ab) = (p g a2 b)/2.
+Fysica van Fluïda 1998-1999
+HS.4.
+Deze kracht moet echter, om ook voor wat het rotatieaspect betreft equivalent te zijn, in
+het zogenaamde drukpunt D geplaatst worden dat dieper onder de vloeistofspiegel ligt dan
+het zwaartepunt Z. Toepassing van het equivalentieprincipe leidt voor een rechthoekig op-
+pervlak tot de ligging van het drukpunt D, dat kan aangegeven worden met zijn diepte on-
+der de vloeistofspiegel:
+hD = (2a)/3
+In tabel 1 werden de resultaten van zulke berekeningen voor enkele eenvoudige wandop-
+pervlakten samengevat. Hierin werden telkens de ligging van het zwaartepunt Z en van het
+drukpunt D aangeduid, samen met de formule, die de vervangende resulterende kracht laat
+berekenen in functie van de geometrische gegevens van het oppervlak. Het komt er op aan
+deze gegevens op een gepaste manier over te nemen in een tekening die de 'vrijgemaakte'
+wand voorstelt.
+2.3. Drukkracht op een ondergedompelde verticale vlakke wand.
+Als voorbeeld beschouwen we in figuur 5 een verticale rechthoekige wand, waarvan de
+bovenzijde zich hi meter onder de vloeistofspiegel bevindt.
+							
+'-—-■ 1	?	i <			T 1 ! t-	ËA. ..tl.	
+<		a 2 1		, z			i > <j ^
+							
+							
+							
+	•   F&	1-----------*■					
+							
+							
+							
+							
+							
+							
+							
+Figuur 5							
+De drukverdeling die op de wand terecht komt kan bekeken worden als een superpositie
+van een gelijkmatige druk pi = p g hi en een lineair variërende druk p2 = p g h', die elk
+door een equivalente kracht kunnen vervangen worden:
+Fysica van Fluïda 1998-1999
+HS.5.
+1):
+- vanwege de gelijkmatige druk (de druk aan de bovenzijde van het oppervlak):
++ in het zwaartepunt van het oppervlak
++ Fz = p!A= pghiA
+-  vanwege de lineair variërende druk (de waarden kunnen afgelezen worden in tabel
++ in het fictieve 'drukpunt' D' van het oppervlak
++ FD> = p g (a2 b)/2
+2.4. Drukkracht op een schume vlakke wand.
+Dezelfde principes blijven geldig. De equivalente krachten moeten wel loodrecht op de
+schuine wand getekend worden in de punten die kunnen afgelezen worden in tabel 1. De
+hoek a in de formules van tabel 1 stelt de hoek voor tussen de vloeistofspiegel en het vlak
+van de wand.
+In het voorbeeld van figuur 6 is:
+Fz = (p g h sin oc) a b
+Fd' = (p g h sin oc) (a2 b)/2
+Fysica van Fluïda 1998-1999
+2.5. Drukkracht op een gebogen wand.
+HS.6.
+In figuur 7 werd als voorbeeld een parabolisch gebogen wand voorgesteld. De drukkrach-
+ten kunnen herleid worden tot een stelsel van 2 krachten:
+- om de kracht Fd te vinden, behandelt men Ax , de projectie van de gebogen wand op
+een verticaal vlak, als een verticaal geplaatste vlakke wand. In het voorbeeld is dat
+een rechthoek.
+- de kracht Fz is gelijk aan het gewicht van het vloeistofvolume dat zich tussen de ge-
+bogen wand en het vloeistofoppervlak bevindt. Deze kracht wordt uiteraard in het
+zwaartepunt van dit volume geplaatst. De zwaartepunten van enkele oppervlakken
+werden in tabel 2 opgenomen.
+Opmerking:
+Bevindt de vloeistof zich aan de 'bolle' zijde van het gebogen oppervlak, dan gaat het om
+een opwaartse stuwkracht, die met behulp van de wet van Archimedes kan bepaald wor-
+den.
+Fysica van Fluïda 1998-1999
+HS.7.
+2.6. Drukkracht op een samengestelde wand.
+Vermits we enkel een goed te bepalen krachtenstelsel willen vinden die de invloed van de
+druk weergeeft, kan het superpositiebeginsel op de wand toegepast worden. Men behandelt
+dus elk deel van de wand afzonderlijk met de principes die hierboven werden besproken.
+Figuur 8 geeft een voorbeeld.
+3. De wet van Archimedes.
+De opwaartse stuwkracht die een voorwerp vanwege de druk in de omringende vloeistof
+ondervindt, is gelijk aan het gewicht van een ingebeelde hoeveelheid vloeistof, die het vo-
+lume van het voorwerp zou vervangen. Deze kracht wordt in het volumezwaartepunt van
+het voorwerp geplaatst. Tabel 3 geeft enkele zwaartepunten van volumes.
+Fysica van Fluïda 1998-1999
+SA8.
+ZWAARTEPUNTEN, DRUKPUNTEN, DRUKKRACHTEN.
+Voorstelling, Zwaartepunt Z, Druk punt D
+Drukkracht   Ej
+a2b   ■
+fL = pg-^sm(x
+F = pgnr2sin cl
+F^pg-j^sincL
+h-i-r
+3
+8
+F=pgl-r3 sina
+D   y 3
+.2
+r-       ah
+Fspg       5l„a
+HslUL z.
+S.192.
+Zwaartepunten van Oppervlakken
+Voorstelling
+Oppervlakte
+xz
+yz
+y
+kwart cirkel
+^	
+z/\	•
+/        \	
+/        \	X
+JET
+T
+4r_
+3jv
+il
+3te
+halve cirkel
+/er
+T
+0
+4r
+3jt
+parabool
+Ai =-ab
+3
+Ao =-ab
+xz, -—b
+3_
+10
+x7o =~b
+z2    5
+yZi-Ta
+yz2 =
+3
+8a
+parabool
+a
+Ai =-ab
+1    3
+At =-ab
+xz,
+xz5
+= 8b
+-b
+yz,--a
+3
+5
+yz2=~a
+_3_
+10
+kwart ellips
+jrab
+k
+a
+4a
+3tt
+4b
+3te
+ZaJUlJ
+S.193.
+Zwaartepunten van Volumes
+Voorstelling
+Naam
+Volume
+Zv
+Halve bol
+^R3
+3
+8
+■R
+Kegel
+,    |„R2H
+4
+■H
+Pyramide
+\.x/A\\
+^ABH
+3
+•H
+Halve Ellipsoïde
+-ttR2H
+3
+8
+■H
+Paraboloïde
+-jzR2H
+2
+•H
+<^
+i
+6
+o
+>
+7"
+d
+*
+U,
+H   9    \
+t
+<0O
+Ü-N
+LLr
+R
+yo
+É
+bo
+i
+o"
+-3V        '
+O
+II'
+beo1	
+0"    ft.	
+v*     er	
+o%      ♦	On,
+<L   w	v \
+•       vo	
+J    ol	
+<üp   Qrxy	
+Qsi   Oo	
+"   "
+0
+•j
+2
+Lu
+		o
+		ij
+		NO 0N
+0		u:
+rl		/
+LL		
+1	0 II	«
++		*
+LiC	"JJ-O	cq
++	1	O"
+d ><	?*	uT
+CC
+
+w
+<1
+I)
+z:"
+>o
+«
+N
+U.N    Uft
+0
+1/
+><
+O
+•f
+us>
+l
+luw
+!
+O
+tl
+i
+<M^
+*.
+
+7*
+H
+0~
+©
+
+"^uiiUji
+J^Blli^
+G/O                       <•                         ^J
+OU
+4
+^
+t
+xj
+^
+j.
+Xa
+Ö
+-------*f* --
+Xa
+x^
+£
+>•
+XQ
+*T
+5
+; *>|i
+li
+iï
+xo
+Qx     Of
+cero   ^O
+<*o    cl-,
+II
+II
+k
+3
+up
+1 *>
+X om
+PS/    O* '
+Il    /ƒ
+O'
+n
+•f.
+ie
+f
+7
+ie
+6
+X
+r-x
+O
+I
+ie
+i
+^
+7^
+3~0
+X>N
+*
+ie
++
+X)N
+ie
+
+On
+x>h o-Ho
+ie
+k* .£
+<oN
+ƒ
+or
+0S
+OM
+OM
+e
+
+S.59.
+Qy De klep van figuur 46 bevindt zich in een vertikale wand en
+heeft een gewicht G=8000N.
+3
+De soortelijke massa van de vloeistof p=IOOO kg/m .
+Bepaal de minimale zuigerkracht die nodig is om de klep te
+2
+openen (fig.47) Stel g = IO m/s .
+Fig.46,
+Fig.47.
+Oplossing:
+In toepassing 2 hebben we de resulterende drukkracht en drukpunt
+bepaald voor dezelfde v/and. Om de zuigerkracht te bepalen is dat
+niet nodig. We maken de klep vrij. (fig.48)
+De invloed van de vloeistof stellen we voor door twee krachten
+F  en F , die we bepalen uit de tabel pag.C■46.
+FA=Pg
+ah
+2
+= 10
+2
+1.2
+20
+kN
+FB=P9 —
+r =10
+2'
+80
+kN
+Statisch evenwicht van de klep
+(A)  x:X + ~-f£- + -f2- -FV =0
+B        B      L
+(B)  M
+y:Y-8000=0
+20
+.I-h
+80
+371
+a   3   •*"•"  3  ' 8
+F2=I9 kN;  Y=8 kN;  X=~I4,3 kN.
+Fz.2=0
+Fig.48.
+Oefeningen 1.1.
+Eigenschappen van Fluïda
+1.    Een opslagtank met een gewicht van 3 000 N heeft een inhoud van 3,2 m en is gevuld
+met een vloeistof. Opslagtank en vloeistof wegen samen 43 000 N. Reken met g = 9,81
+m/s . Bepaal:     a. het soortelijk gewicht van de vloeistof
+b. de soortelijke massa van de vloeistof
+c. het soortelijk volume van de vloeistof
+d. de relatieve dichtheid van de vloeistof
+Oplossing:
+a. y = 12 500 N/m3
+b. p = 1 274,2 kg/m3
+c. v = 7,84.10'4 m3/kg
+d. 5=1,2742
+•                                                                                                                                        9                                                                      0
+2.    De gravitatieversnelling bedraagt op de aarde 9,81 m/s , op de maan 1,635 m/s . Bepaal
+voor kwik zowel op de aarde als op de maan :
+a. de soortelijke massa bij 20 °C (zie tabel 1.2)
+b. het soortelijk gewicht bij 20 °C
+c. het soortelijk volume bij 20 °C
+d. de relatieve dichtheid bij 20 °C
+Oplossing:
+a. pa = pm = 13 545,8 kg/m3
+b. ya = 132 884,3 N/m3; ym = 22 147,38 N/m3
+c.va = Vm=7,38.10"5m3/kg
+d.5a = 5m= 13,5458
+3.    Bepaal de gemiddelde compressiemodulus en de gemiddelde compressiecoëfficiënt van
+de vloeistof waarvoor volgende experimentele gegevens worden opgetekend:
+- bij een druk van 35 bar bedraagt het volume 1,000 m
+- bij een druk van 240 bar bedraagt het volume 0,990 m
+Oplossing:    Em = 2,05.109Pa
+Xm = 4,878.10"10 m2/N
+4.    Bepaal uit tabel 1.4 de waarde pm van water in de zone van 4 °C tot 50 °C. Vergelijk het
+resultaat met de waarde in tabel 1.3.
+Fysica van Fluïda 1998-1999
+Oefeningen 1.2.
+5.     Schat uit tabel 1.3 de temperatuurscoëfficiënt van water in het temperatuursinterval van
+10 °C tot 40 °C. Bereken, ter controle, de soortelijke massa ervan bij 30 °C en vergelijk
+deze met de waarde opgegeven in tabel 1.3.
+2
+Oplossing: de temperatuurscoëfficiënt bedraagt 0,25 kg/m K
+r         2
+6.    Het reservoir van een koortsthermometer bevat een volume kwik van 10.10" m (=10 cc)
+bij 36 °C. Het capillaire buisje heeft een doorsnede van 0,1 mm . Over welke hoogte
+stijgt het niveau van de kwik in deze koortsthermometer als de lichaamstemperatuur tot
+38 °C stijgt, (tabel 1.2)
+Oplossing: Ah = 35,55 mm.
+7.    Een centrale verwarmingsinstallatie bevat 500 liter water bij 20 °C. Op zolder staat een
+cilindervormig open expansievat met een diameter van 0,4 m. Hoeveel stijgt het waterni-
+veau in het expansievat als de watertemperatuur tot 90 °C toeneemt, (tabel 1.3). Welke
+drukstijging zou er ontstaan zonder de aanwezigheid van het expansievat. (tabel 1.4)
+Oplossing:    Ah=13,5cm
+Ap = 727,6 bar.
+8.    Een gesloten reservoir is volledig gevuld met een vloeistof waarvan de soortelijke massa
+890 kg/m3 bedraagt bij 20 °C. De temperatuurscoëfficiënt van de vloeistof bedraagt 0,2
+kg/m3K. De compressiemodulus is gelijk aan 8.109 Pa. Het beschikbaar volume in het re-
+servoir is door uitzetting van het reservoir toegenomen van 0,5 m3 bij 20 °C tot 0,502 m3
+bij 40 °C. Bepaal de drukstijging die in het reservoir is opgetreden door deze tempera-
+tuursstijging.
+Oplossing:   Ap = 41 bar.
+Fysica van Fluïda 1998-1999
+Oefeningen 2.1.
+Viscositeit
+Bereken de dynamische viscositeit r\ in Pas voor de volgende vloeistoffen:
+a. v = 5,6.10"4 m2/s; de relatieve dichtheid bedraagt 2
+b. r,= 0,0158 P
+c. v = 5 000 cSt; p = 1,2 kg/liter
+Oplossing:    a. r) = 1,12 Pas;
+b.  n = 0,00158 Pas;
+c.  n = 6 Pas
+De viscositeit van een olie bedraagt 155 SSU, de relatieve dichtheid ervan 0,932. Bepaal
+door lineaire interpolatie in de tabellen 1.7 en 1.8
+a. de viscositeit van de olie in °E
+b. de viscositeit van de olie in Rel
+c. de kinematische viscositeit
+d. de dynamische viscositeit
+Oplossing:
+a. 4,47 °E;
+b.  136,1 Rel;
+c.  v = 33,2.10"6 m2/s;
+d.  Ti = 0,0309 Pas
+Een dunne plaat scheidt twee Newtoni-
+aanse vloeistoffen. De dikte van elk
+vloeistoflaagje bedraagt 30 mm. De dy-
+namische viscositeit van de ene vloei-
+stof is het dubbele van de dynamische
+viscositeit van de andere vloeistof. Om
+de plaat een constante snelheid te geven
+van 0,3 m/s is een kracht nodig van 27
+N per m2 plaatoppervlak. Bepaal de vis-
+cositeit van beide vloeistoffen.
+6'
+6t
+_^ v=0,3m/s
+3----------^ 27N
+27]
+Oplossing: r\ = 0,9 Pas.
+Fysica van Fluïda 1998-1999
+Oefeningen 2.2.
+4. In een bad bevindt zich een stel zeer dunne even-
+wijdige vlakke platen, in verticale stand, 20 mm
+van elkaar verwijderd. Het bad is gevuld met een
+vloeistof met een relatieve dichtheid 0,95 en een
+viscositeit = 2 Pas. Welke kracht is er nodig om één
+van de platen met een oppervlakte van 1,5 m x 0,6
+m en een gewicht van 85 N, uit het bad te trekken
+aan een constante snelheid van 0,05 m/s? De dikte van de plaat wordt verwaarloosd en
+daarom ook de kracht van Archimedes.
+*
+Oplossing: F = 94 N.
+Een zuiger beweegt in een cilin-
+der over en weer met een gemid-
+delde snelheid v = 6 m/s. De
+smeerolie heeft een kinematische
+viscositeit v = 2,8.10"5 m2/s en
+een relatieve dichtheid 5 = 0,92.
+Bepaal het vermogen dat door
+wrijving verloren gaat.
+Oplossing: P= 1311 W
+Om op een draad een laagje isolatievemis aan te brengen wordt hij doorheen een cilinder-
+vormige opening met een diameter van 0,9 mm getrokken. De draad heeft een diameter
+van 0,8 mm. De vernis heeft een viscositeit n = 20 cP en is over een lengte van 20 mm
+volledig in contact met de draad en de wand. Met welke kracht moet er getrokken worden
+om de draad met een snelheid van 50 m/s doorheen de opening te halen?
+Oplossing: F = 1,005 N
+7.    Men meet voor ethylalcohol volgende kinematische viscositeiten op:
+-bij 10°C:vi=2.10-6m2/s
+-bij65°C:v2 = 7,5.10-7m2/s
+Bepaal de kinematische viscositeit bij 30 °C.
+Oplossing: V3 = 1,30.10"6 m2/s.
+Fysica van Fluïda 1998-1999
+Oefeningen 2.3.
+8. In een industrieel proces bewegen
+3 grote dunne vlakke platen a, b
+en c t.o.v. elkaar. Tussen platen a
+en b bevindt zich water van 20
+°C; platen b en c worden geschei-
+den door een laagje ethyleengly-
+col van 20 °C. hi het proces be-
+weegt plaat b met een snelheid
+van 4 m/s naar rechts. Platen a en
+c worden met een snelheid van 2
+m/s naar rechts bewogen.
+Materiaalgegevens:  water bij 20 °C:
+a: koperplaat Y .
+T
+0,1 cm
+.  I
+b: plastieken plaat   )  .
+water (20 °C)
+va= 2 m/s
+vb= 4 m/s
+0,2 cm     ethyleenglycol (20 °C)
+c: staalplaat  ~p
+vc= 2 m/s
+pi = 998kg/m3;v1 = 1.10'6m2/s.
+ethyleenglycol bij 20 °C:   p2 = 1110 kg/m3; v2 = 1,79.10-5m2/s
+a.  Welke krachten zijn daarvoor nodig op elke plaat per m2 plaatoppervlakte?
+b.  Welk vermogen slorpt dit proces op per m2 plaatoppervlakte? Wat gebeurt er met dit
+vermogen?
+Om dit probleem op te lossen moeten de drie platen vrijgemaakt worden.
+Oplossing:
+a.  Fa =1,996 N/m2
+Fb = 21,865 N/m2
+Fc= 19,869 N/m2
+b.  P= 131,2 W/m2
+Fysica van Fluïda 1998-1999
+Druk
+Oefeningen 3.1.
+In een cilinder met een diameter van
+50 mm bevindt zich een zuiger.
+Rechts van de zuiger zit een veer met
+veerconstante k = 1000 N/cm. Aan de
+linkerzijde wordt olie toegevoegd on-
+der een effectieve druk van 2 bar. De
+rechterzijde staat in verbinding met de
+atmosfeer. Bepaal de verplaatsing van
+de zuiger.
+Oplossing: s = 0,39 cm.
+pe= 2 bar
+Figuur 1
+Een rotor A roteert rond zijn middelpunt o. De rotor is excentrisch in een vaste cilinder
+gemonteerd. De rotor en de cilinder hebben een lengte van 100 mm. In de rotor zijn vier
+gleuven gefreesd waarin schuiven heen en weer bewegen. De veren zorgen ervoor dat de
+schuiven steeds tegen de binnenwand van de vaste cilinder aangedrukt worden. Op die
+manier ontstaan er kamers in de ruimte tussen de rotor en de cilinder. In de linker kamer
+heerst er een absolute druk van 5 bar. De rechter kamer staat in verbinding met de atmos-
+feer (1 bar). Teken de druk en maak het systeem dat bestaat uit de rotor en de schuiven in
+de getekende positie volledig vrij. Bepaal het resulterend moment dat de rotor in de wij-
+zerzin aan het draaien brengt.
+Oplossing: M = 160 Nm.
+"""""
+mar
+"7777777777"
+Figuur 2
+Fysica van Fluïda 1998-1999
+Oefeningen 3.2.
+4
+In een leiding heerst een overdruk van 0,002 bar. De atmosferische druk bedraagt 1,018
+bar. Bepaal de absolute druk en de procentuele fout die men maakt als men de atmosferi-
+sche druk gelijk stelt aan 1 bar.
+Oplossing: pabs= 1,02 bar; fout: 1,76 %
+Aan een cilindrische tank met een diameter van 10 m wordt
+een glazen buisje bevestigd. De tank wordt volledig gevuld
+met water. Men stopt de watertoevoer als het peil in het gla-
+zen buisje 1 m boven het cilinderdeksel staat. Bepaal de
+drukkracht op het deksel.
+Oplossing: F = 770,475 N.
+*10m
+7777777777777777777
+Figuur 4
+Bepaal het niveauverschil in
+de  U-vormige   differentieel-
+manometer van figuur 5 bij
+stilstand van het water.
+Oplossing: ha = hb .
+
+T~T
+kwik
+____1__W__1
+Figuur 5
+Figuur 6 stelt een systeem voor, dat
+het toerental van de dieselmotor van
+een luchtcompressor regelt in functie
+van de druk in het persvat van de
+compressor. De compressordruk
+wordt via de gesplitste leiding naar
+beide kamers van de regelcilinder
+gevoerd. Wanneer de druk kleiner is
+dan 6 bar is de veer ontspannen en
+bevindt de zuiger zich in zijn uiterst
+linker stand. De aan de zuiger ver-
+bonden tandheugel drijft de plunjer van de dieselmotor aan en zorgt in deze stand voor
+				
+	i 1	5=	U A A ^ 1	MAX.           MIN.
+			V V V vv	
+		f		Fig.3.6.
+Fig	;uui	j r6	,	
+Fysica van Fluïda 1998-1999
+Oefeningen 3.3.
+maximale injectie en maximaal toerental (1800 tr/min). Het drukreduceerventiel in de
+rechter leiding houdt de druk in de rechterkamer op 6 bar. Wanneer de compressordruk
+hoger is dan 6 bar zullen de zuiger en de tandheugel bijgevolg naar rechts bewegen. Hier-
+door verdraait de plunjer, vermindert de injectie en neemt het toerental van de dieselmo-
+tor af. Men wenst de plunjerstand van minimaal toerental (1200 tr/min) te bereiken als de
+compressordruk 7 bar bedraagt en de zuiger over 20 mm naar rechts verplaatst werd. Be-
+paal de vereiste veerconstante.
+Oplossing: k = 62,83 N/cm
+7. Bepaal de statische op voerhoogte die
+de centrifugaalpomp* van figuur 7
+minstens moet kunnen leveren. Deze
+wordt berekend door het vereiste
+drukverschil over de pomp uit te
+drukken bij middel van het begrip
+drukhoogte. De soortelijke massa
+van de vloeistof bedraagt 1200
+kg/m3. Reken met g = 10 m/s2.
+Oplossing: H = 244,33 m
+1bar
+pe = 25bar
+H-
+:i:i *»
+*+
+]S"
+x^
+Figuur 7
+8.    Figuur 8 toont twee U-vormige manometers die respectievelijk kwik en water als sper-
+vloeistof bevatten. De derde heeft ook water als spervloeistof, maar heeft een hellend
+been. Bepaal het niveauverschil in de drie gevallen. Wat is het voordeel van het hellend
+been van manometer c?
+Oplossing: a. hi = 0,15 mm
+b. en c. I12 = I13 = 2,038 mm; kleinere procentuele afleesfout.
+(      20Pa
+\ovtrdruk J
+H
+KWIK
+-pi
+WATER
+WATER
+Figuur 8
+Fysica van Fluïda 1998-1999
+Oefeningen 3.4.
+9. Een tank bevat water onder druk. De atmosferi-
+sche druk bedraagt 101320 Pa. Manometers a,
+b en c geven een effectieve druk aan. Meter c
+duidt 400 kPa aan. Meter b bevindt zich in een
+afgesloten ruimte waarin een overdruk heerst
+van 100 kPa. Bepaal:
+a.  de druk die door manometers a en b aange-
+geven wordt.
+b.  de drie nieuwe aflezingen, nadat de atmosfe-
+rische druk met 50 mbar afgenomen is.
+Oplossing: a. pa = 310 kPa; pb = 240 kPa
+b. pa = 315 kPa; pb = 240 kPa; pc = 405 kPa
+kN
+10. Gegeven:
+Yh,o=9,81
+Ycci =15,6-
+YHg= 133,4-
+m
+kN
+m3
+kN
+m3
+hj =5m	h5 = 1,5 m
+h2 = 0,5 m	h6 =2m
+h3 =2m	h7 =2m
+h4 =3m	
+Reservoir A is gevuld met
+water. In de ruimte bovenaan
+de linker manometer is er
+waterdamp aanwezig. De
+dampdruk van water bij 20
+°C bedraagt 2,34 kPa. Be-
+paal:
+a.  de absolute druk in reser-
+voir A en de effectieve
+druk in B als de atmosferi-
+sche druk 101000 Pa be-
+draagt.
+b.  de nieuwe hoogteverschil-
+len, nadat de druk in re-
+servoir A met 5 kPa toe-
+genomen en de atmosferische druk met 30 mbar gedaald is.
+Oplossing:
+a.    pAabs = 274,04 kPa
+pBeff=l 17,32 kPa
+b.    hj = 5 m;       h3 = 2,864 m; h5 = 1,520 m;   h7 =2 m
+h2 = 0,068 m; h4 = 3,432 m; h6 = 2,039 m; pBeff = 120,32 kPa
+Fysica van Fluïda 1998-1999
+Oefeningen 3.5.
+11. In een centrale verwarmingsinstallatie
+verwarmt de ketel het water tot een
+temperatuur van 90 °C. In de radiator
+koelt het water af tot 70 °C (figuur 11).
+Bepaal het drukverschil tussen a en b
+dat omwille van het temperatuurver-
+schil voor een natuurlijke circulatie in
+de verwarmingsinstallatie zorgt, (tabel
+T.1.4)
+Oplossing: Ap = 735,75 Pa
+					
+			R		
+	6m 1	'70°C			90° C
+				,	
+			K		
+	a				b
+Figuur 11					
+12. Een klep met een massa van 5 kg is in a
+scharnierend t met de vaste omgeving
+verbonden. Ze sluit een cirkelvormige
+opening met een diameter van 200 mm
+van een opslagtank af. De verbindings-
+staaf heeft een massa van 0,2 kg. Tegen
+welke overdruk is de tank met deze klep
+beveiligd? Reken met g = 10 m/s2.
+Oplossing: pnv = 1612 Pa
+25m
+A       B
+20m
+10 m
+K
+f =0,8*1
+H
+= ,ÈL
+?*1
+1..1
+Sm
+2m
+J
+f - is f
+'2  ~
+K
+hA  *
+M
+0 meter
+KWIK
+Figuur 13
+MIL
+5-
+Figuur 12
+300
+V//////////A
+200
+13. Figuur 13 stelt een cilinder voor waarvan
+de bodem zich op 2m boven een bepaald
+referentievlak bevindt. In de cilinder be-
+vinden zich drie vloeistoffen met een ver-
+schillende soortelijke massa: respectieve-
+lijk 1,5 kg/l, 1 kg/l en 0,8 kg/l. Daarboven
+bevindt zich lucht bij een onderdruk van
+0,4 bar. De atmosferische druk bedraagt
+1,020 bar. Bepaal de hoogtes hi, h2, f13 en
+I14.
+Reken met g = 9,81 m/s2.
+Oplossing:
+\ = 5,09 m; h2 = 3,92 rrr,
+h3 = 5,95 m; h4 = 1,024 m.
+Fysica van Fluïda 1998-1999
+Oefeningen 4.1.
+Hydrostatische Drukkrachten
+1. In een verticale wand bevindt zich een driehoekige plaat. In de plaat werd een cirkelvor-
+mige opening gemaakt met middelpunt a en een diameter van 2 meter. De dichtheid van
+de vloeistof bedraagt p = 1000 kg/m3. Teken het drukverloop in de vloeistof en bepaal
+daaruit de krachten vanwege de vloeistof op de plaat. Een wand, waarin een opening werd
+gemaakt kan bekeken worden als het verschil van twee wanden: men kan bijgevolg het
+superpositieprincipe toepassen om de krachten op de wand te bepalen. Reken met g = 10
+m/s2. Oplossing:    Fi = 960 kN naar rechts, 3 meter onder het vloeistofoppervlak
+F2 = 31,4 kN naar links, 2 meter onder het vloeistofoppervlak
+F3 = 31,4 kN naar links, 2,25 meter onder het vloeistofoppervlak
+2. Een rechthoekige poort (breedte: 5 meter) met een gewicht van 20 kN werd in a scharnie-
+rend aan de omgeving verbonden; in b steunt de poort op de bodem. De vloeistof in het
+reservoir is water: p = 1000 kg/m3. Teken het drukverloop in de vloeistof en bepaal daar-
+uit de krachten vanwege de vloeistof op de plaat. Bereken vervolgens de krachten die in a
+en b moeten uitgeoefend worden om de poort in evenwicht te houden. Reken met g = 10
+m/s2. Oplossing:         Xa = 300 000 N naar links; Ya = 144 715 N naar boven
+Yb = 394 900 N naar boven
+				
+		.		3°y^\
+9				\
+		■	a	y/                                                                                                                                                                                                                                                    y/                       N
+		30'		
+	Z^i^<		s'                et/^	
+	^^^X^			
+//////////$	V////sy///\		>///y////	
+Figuur 2				
+Fysica van Fluïda 1997-1998
+Oefeningen 4.2.
+In een verticale wand is een vierkantige ope-
+ning (1 m x 1 m) gemaakt. Deze wordt afge-
+sloten door een vierkantige plaat die bij mid-
+del van 4 bouten aan de wand wordt beves-
+tigd. De soortelijke massa van de vloeistof
+bedraagt p = 1200 kg/m3. Teken het drukver-
+loop in de vloeistof en bepaal daaruit de
+krachten vanwege de vloeistof op de plaat.
+Bereken vervolgens de kracht die door elke
+bout op de plaat moet uitgeoefend worden om
+ze in evenwicht te houden. Reken met g = 10
+m/s2.
+Oplossing: Fb0ven = 7 143 N; Fonder = 7 857 N
+Een regelklep (gewicht: 5000 N) werd in a
+scharnierend aan de omgeving bevestigd. De
+lengte van de klep bedraagt 1 = 1 m, de
+breedte (loodrecht op het vlak van de teke-
+ning) b = 1,2 m. De soortelijke massa van de
+vloeistof bedraagt p = 1000 kg/m3. Bepaal h
+zodanig dat er vloeistof kan weglopen wan-
+neer het vloeistofpeil de hoogte van de
+scharnier bereikt. Reken met g = 10 m/s2.
+Oplossing: h = 0,47 m
+-é3_. S
+>>,>>>,>,>>> r
+£
+!
+i\
+i—°-
+Figuur 3
+Een cilindrische leiding met een dia-
+meter van 0,4 m is aangesloten op een
+reservoir. In de leiding zit een vlinder-
+klep die rond een horizontale as a kan
+draaien. Bij gesloten stand maakt de
+klep een hoek van 60° met het hori-
+zontale vlak. In het reservoir bevindt
+zich water (p = 1000 kg/m3). Bepaal
+het koppel dat op de klep moet uitge-
+oefend worden om ze in de aangege-
+ven omstandigheden gesloten te hou-
+den. Reken met g = 10 m/s2.
+Oplossing: u = 10,88 Nm
+		
+e		p
+	w            F	
+"\€-<^	*&^t^' '"l-"-"""''	
+6Ö°/\		
+Figuur 5		
+Fysica van Fluïda 1997-1998
+Oefeningen 4.3.
+Een tank staat onder een overdruk van 400
+kPa. De tank wordt afgesloten door de
+plaat ab (10x6 m), die in a scharnierend
+werd bevestigd. De vloeistof in de tank
+heeft een soortelijk gewicht van 9810
+N/m3. Bepaal het koppel dat in a moet uit-
+geoefend worden om de tank gesloten te
+houden, indien we het gewicht van de
+poort verwaarlozen. Reken met g = 9,81
+m/s2.
+Oplossing: Ua = 171,9.106 Nm
+			
+°1			"7V
+	H20	20r	
+Figuur 6			
+7.    Een plaat ab (6x5 m) sluit een reservoir af
+waarin zich twee vloeistoffen bevinden:
+een vloeistof met een soortelijk gewicht y
+= 15 600 N/m3 tot op een hoogte van 12 m
+en H2O (pmo = 1000 kg/m3) tot op een
+hoogte van 22 m. Ei het reservoir heerst
+een overdruk van 600 kPa. Teken het
+drukverloop Ei het reservoh en bepaal
+daaruit alle krachten op de plaat. Bereken
+vervolgens het koppel dat in a moet uitge-
+oefend worden om de tank gesloten te
+houden. Reken met g = 9,81 m/s2.
+Oplossing: Ua = 77,24.106 Nm
+8.    Ei een tank bevmdt zich een vloeistof met
+een soortelijk gewicht y = 15 600 N/m3 tot
+op een hoogte van 3,6 m en H2O (pH2o =
+1000 kg/m3) tot op een hoogte van 13,6 m.
+De overdruk Ei het reservoh bedraagt 200
+kPa. De tank wordt afgesloten door de
+plaat ab (6x5m). Teken het drukverloop Ei
+het reservoir en bepaal daaruit alle krach-
+ten op de plaat. Bereken vervolgens het
+koppel dat in a moet uitgeoefend worden
+om de tank gesloten te houden. Reken met
+g = 9,81 m/s2.
+Oplossing: IL = 29.65.106 Nm
+			
+0			3 60r\b
+	70/7?	'>	
+	12m		
+Figuur 7	)		
+Fysica van Fluïda 1997-1998
+Fysica van Fluïda
+Fysica van gassen
+Fysica van Fluïda 1998-1999
+Fysica van gassen
+1. Gaswetten....................................................................................................................................................1
+1.1. De ideale gaswet.............................................................................................................................1
+1.2. De 'van der Waals - vergelijking..............................................................................................4
+1.3. De toestandsvergelijking voor reële gassen.............................................................................5
+1.4. De toestandsvergelijking voor gasmengsels - wet van Dalton..............................................8
+1.5. Voorbeelden...............................................................................................................................10
+2. Eigenschappen van gassen.........................................................................................................................12
+2.1. Dichtheid van een gas..................................................................................................................12
+2.2. Specifiek volume van een gas......................................................................................................13
+2.3. Uitzettingscoëfficiënt - Spanningscoëfficiënt - Compressibiliteit...............................................15
+2.3.1. Uitzettingscoëfficiënt p van een gas...............................................................................15
+2.3.2. Spanningscoëfficiënt 5 van een gas................................................................................16
+2.4. Thermische eigenschappen van gassen........................................................................................17
+2.4.1. Specifieke warmtecapaciteit.....................................................................,.....................17
+2.4.2. De isentropenexponent k................................................................................................17
+2.4.3. Gasconstanten en verbanden...........................................................................................17
+2.5. Voorbeelden.................................................................................................................................19
+3. Aërostatica.................................................................................................................................................21
+3.1. Krachten vanwege een gasdruk....................................................................................................21
+3.2. De 'US Standard Atmosphere'.....................................................................................................22
+3.2.1. De variatie van de luchttemperatuur in functie van de hoogte.......................................22
+3.2.2. De variatie van de luchtcfruk in functie van de hoogte...................................................23
+3.2.3. De variatie van de luchtdichtheid in functie van de hoogte............................................24
+3.2.4. Tabellen en grafieken......................................................................................................25
+3.3. Voorbeelden.................................................................................................................................26
+Fysica van Fluïda 1998-1999
+G.I.
+1. Gaswetten
+Zoals reeds eerder besproken (deel 1) is de toestand, waarin de materie zich bevindt, af-
+hankelijk van de toestandsveranderlijken p, V en T. Tussen deze grootheden bestaat er een
+verband, weergegeven door de toestandsvergelijking en/of voorgesteld in een toestandsop-
+pervlak. Andere eigenschappen van de stof worden vaak uitgedrukt in functie van deze
+toestandsgrootheden.
+1.1. De ideale gaswet
+!-1**Üs«l
+7W3»
+v ï.3
+"^#
+^^J
+Figuur 1
+Zoals zoveel fundamentele wetten in de
+fysica heeft ook 'de ideale gaswet' een
+lange geschiedenis achter de rug. De
+verschillende achtereenvolgende versies
+ervan zouden we kunnen verifiëren met
+behulp van de 'universeel opgevatte' ex-
+perimentele opstelling voorgesteld in fi-
+guur 1.
+We stellen ons voor dat we in deze op-
+stelling volgende grootheden kunnen la-
+ten variëren en opmeten:
+- het volume V
+- de druk p
+- de temperatuur T
+- de hoeveelheid aanwezig gas,
+uitgedrukt met het aantal mol n.
+Fysica van Fluïda 1998-1999
+G.3.
+In zulke vergelijking is R een grootheid, die voor elk type gas moet opgemeten worden; ze
+is in principe voor elk gas verschillend; het is een grootheid, die de materie in bovenstaan-
+de aspecten karakteriseert.
+Uit metingen bleek echter dat deze waarde voor alle gassen (nagenoeg) dezelfde is, ten-
+minste indien men de experimenten uitvoert bij temperaturen die 'hoog genoeg' zijn en bij
+'betrekkelijk lage' drukken. Men vond in die omstandigheden de waarde
+R = 8,3145
+molK
+Onder die voorwaarden spreekt men dan ook van een 'ideaalgas'.
+Hoewel de ideale gaswet in oorsprong een ervaringswet was, gebaseerd op macroscopisch
+observeerbare experimentele gegevens, kon ze later ook geverifieerd worden vanuit een
+geïdealiseerd model van een gas in de zogenaamde 'kinetische gastheorie'; hierin kon het
+begrip druk in verband gebracht worden met de kinetische energie van de gasmoleculen en
+dus met de temperatuur.
+Strikt genomen spreekt men over een 'ideaal gas' wanneer bovenstaande vergelijking gel-
+dig is voor alle drukken en alle temperaturen. Reële gassen beantwoorden het best aan deze
+geïdealiseerde vergelijking wanneer de druk betrekkelijk laag is (enkele bars) en de tempe-
+ratuur beduidend hoger is dan deze waarbij het gas door compressie overgaat in een vloei-
+bare fase: onder die voorwaarden blijven de gasmoleculen betrekkelijk ver van elkaar ver-
+wijderd (men spreekt dan van een 'ijl gas') en bewegen ze met een relatief hoge snelheid
+zodat ze goed aan het geïdealiseerd gasmodel beantwoorden. In het (p,V)-diagram worden
+de evenwichtstoestanden voorgesteld door hyperbolen (zie toestandsdiagramma - deel 1).
+De ideale gaswet leidt, indien men een welbepaalde hoeveelheid van een ideaal gas be-
+schouwt, tot volgende erg bruikbare uitdrukkingen (de 'algemene gaswet'):
+pv T	cte    (=	= nR)
+p,vx	_p2V2 T	
+Fysica van Fluïda 1998-1999
+G.4.
+f.2. De 'van der Waals - vergelijking'.
+De ideale gaswet kan theoretisch geverifieerd worden met behulp van een vereenvoudigd
+moleculair model voor een gas, waarin het volume ingenomen door de moleculen zelf en
+hun onderlinge aantrekkingskrachten worden verwaarloosd.
+De van der Waalsvergelijking voert correcties in die rekening houden met deze aspecten en
+die verwaarloosbaar worden wanneer de druk laag en/of de temperatuur hoog genoeg zijn,
+maar die belangrijk worden wanneer druk en temperatuur in de buurt komen van deze van
+het coëxistentiegebied (zie deel 1):
+a en b hierin zijn experimenteel vast te leggen gegevens, die voor elk gas verschillend zijn.
+Ruwweg gesproken hebben ze volgende fysische betekenis:
+b komt overeen met het volume dat ingenomen wordt door de moleculen zelf in
+één mol van het gas; is er n mol gas aanwezig dan nemen de moleculen zelf een
+volume in gelijk aan nb en blijft er een volume (V-nb) over waarin de moleculen
+vrij kunnen bewegen.
+a houdt verband met de aanftekkingskrachten die tussen de moleculen bestaan; er
+kan aangetoond worden dat deze krachten een extra druk tot gevolg hebben, die
+evenredig is met het kwadraat van het aantal mol n dat per volume-eenheid aan-
+wezig is: (n/V) .
+Om het relatieve belang van deze correctiefactoren in te schatten, herschrijven we de van
+der Waalsvergelijking:
+f        n2W     n
+p + a-^
+v     v2;
+V 1-----b  =nRT
+v     V
+Indien (n/V) heel klein is (in het geval van een 'ijl' gas) worden de correcties heel klein en
+gaat de 'van der Waalsvergelijking' over in de 'ideale gaswet'. Is het aantal mol n in het
+volume aanwezig groot, dan worden de correcties belangrijker.
+Fysica van Fluïda 1998-1999
+G.5.
+1,3. De toestandsvergelijking voor reële gassen.
+Reële gassen beantwoorden goed aan de 'ideale gaswet' indien ze gebruikt worden bij niet
+al te hoge drukken en bij vrij hoge temperaturen. In dat geval komen de basisassumpties -
+verwaarlozing van het moleculevolume en van de intermoleculaire krachten - goed overeen
+met de werkelijkheid. In tal van technische toepassingen maakt men echter gebruik van
+gassen en gasmengsels bij zeer hoge drukken; in dat geval wijken gegevens bepaald uit de
+ideale gaswet te veel af van de werkelijkheid. De van der Waalsvergelijking voert enkele
+wetenschappelijk gefundeerde correcties in ten aanzien van deze assumpties. In de tech-
+niek gaat men echter vaak veel pragmatischer te werk en past men de ideale gaswet aan
+met een experimenteel te bepalen correctiefactor K:
+pV = K(nRT)
+De correctiefactor K stelt de mate voor waarin het reële gas afwijkt van het ideaal gas en
+wordt experimenteel vastgelegd in functie van druk en temperatuur. Men vindt dergelijke
+waarden in tabellen en grafieken van technische vademeca.
+Tabel 1 geeft enkel waarden van K in het geval van lucht.
+Correctiefactor K voor lucht			
+drukp =	T = 0°C	T=100°C	T = 200 °C
+1 bar	1,0	1,0	1,0     .
+20 bar	0,9895	1,0027	1,0064
+100 bar	0,9699	1,0235	1,0364
+Tabel 1
+Figuren 2 en 3 geven deze waarden voor enkele gassen in grafiekvorm.
+Fysica van Fluïda 1998-1999
+G.6.
+Tafel 3   Realgasfaktor Zeiniger Gase
+1.18
+0.95
+0,90-
+0.85
+50              WO             ISO            200        bar              MO
+Stickstoff
+SO              100               150   r    200            250             300             350   bar   400
+Kohiendioxyd
+i.i
+15
+0,9
+0.8
+0.7
+Luft
+		
+	""'"^ -""'ft  j*	
+	-------<7>	
+	^_^4	
+	A	
+	*s	
+0                    100                   200     bar         300
+Sauerstoff
+Figuur 2
+Fysica van Fluïda 1998-1999
+G.7.
+Tafel 4   Realgasfaktor des überhitzten Wasserdampfes
+1,0
+0,95
+0,9
+0.85
+k
+N
+0,8
+o
+£0,75
+d
+JP
+d
+o
+0,7
+0,65
+0.6-
+0,55
+p s 0 bar
+300            400             500
+Temperatur t —
+Quelle: Warmetechnische Arbeitsmappe 1967
+Figuur 3
+700   °C    800
+Fysica van Fluïda 1998-1999
+G.8.
+1.4. Toestandsvergelijking voor gasmengsels - wet van Dalton.
+Vele gassen zijn mengsels van verschillende componenten. Een goed voorbeeld is lucht; in
+de omgeving van de aarde heeft lucht ongeveer volgende samenstelling:
+78 % N2
+21 % 02
+1 % andere gassen, o.a. waterdamp
+Elke component draagt in verhouding tot zijn relatief aandeel bij tot de totale druk in het
+gasmengsel.
+Beschouwen we bijvoorbeeld een willekeurig gasmengsel,
+dat bestaat uit een aantal m componenten i: i = 1, 2,...., m,
+die elk in een bepaalde hoeveelheid aanwezig zijn in een volume V: ni, n2, n3,..., nm.
+We noemen pi, de partieeldruk van component i,
+de druk die er zou heersen mocht het gegeven volume V enkel de hoeveelheid ni van de
+component i bevatten.
+RT
+Volgens de ideale gaswet geldt:    p{ = n; —
+De wet van Dalton stelt dat:
+de totale druk van het gasmengsel in het volume V gelijk is aan de som van de parti-
+eeldrukken:
+Met dit gegeven wordt de ideale gaswet voor gasmengsels:
+m
+P = £Pi
+i=l
+£    RT
+RT
+=nv
+n is hierbij het totaal aantal mol van alle componenten samen, aanwezig in het volume V.
+Fysica van Fluïda 1998-1999
+G.9.
+De partieeldruk kan dan als volgt geschreven worden:
+Pi
+RT
+= UJ	V
+ni	RT
+	n----
+n	V
+n,	
+	P
+n	
+waaruit:
+Of met andere woorden (wet van Dalton - 2):
+De partiële dampdruk van een gas in een mengsel verhoudt zich tot de totale druk van
+het mengsel zoals de molair e fractie van die component in het mengsel aanwezig.
+Voor een mengsel van reële gassen moeten we eventueel rekening houden met de correctie-
+factoren K[i
+m
+= SPi
+i=l
+m
+v,       RT
+i=l               V
+vit:
+v
+Fysica van Fluïda 1998-1999
+G.10.
+1.5. Voorbeelden.
+1. Bepaal het volume dat ingenomen wordt door één mol van een 'ideaal gas' bij 'gestan-
+daardiseerde druk en temperatuur'.
+Oplossing:
+Men gaat uit van volgende 'gestandaardiseerde atmosferische omstandigheden':
+T = 0 °C = 273 K
+p = 1 atm = 1013 mbar = 1,013 . 105 Pa
+Verder is:
+n = 1 mol
+R = 8,315 J/(mol)K
+Met deze gegevens schrijven we:
+V = ^
+P
+_ 1.8,315.273
+1,013.105
+= 0,0224 m3
+= 22,4 liter
+2. Bepaal de 'molaire massa' van lucht bij 1 bar en 0 °C. Lucht is een gasmengsel, bestaande
+uit 78 % stikstof, 21 % zuurstof en 1% andere gassen. De molaire massa van zuurstof en
+stikstof bedraagt respectievelijk 32 en 28 kg/kmol.
+Oplossing:
+We schatten de molaire massa van lucht door te stellen dat deze bestaat uit 80 % stikstof
+en 20 % zuurstof:
+Mlucht «0,8.28+ 0,2.32 = 28,87^7 = 28,8.10-3 kg
+kmol                  mol
+Fysica van Fluïda 1998-1999
+G.ll.
+3. De inhoud van een zuurstoftank voor diepzeeduiken bedraagt typisch 11 liter. Een
+'geledigd' reservoir bevat nog altijd 11 liter lucht bij ongeveer 21 °C en 1 atmosfeer. Lucht
+is een gasmengsel, bestaande uit 78 % stikstof, 21 % zuurstof en 1% andere gassen; de
+'gemiddelde molaire massa' van dit mengsel bedraagt 28,8 gram/mol = 28,8.10" kg/mol.
+Hoeveel kg 'bruikbare lucht' kan in de zuurstoftank opgeslagen worden, indien men deze
+met behulp van een compressor kan vullen met lucht bij een temperatuur van 42 °C en een
+overdruk van 2, lxl O7 Pa.
+Oplossing:
+We bepalen eerst het aantal mol lucht dat nog aanwezig is in een 'geledigde' tank. We
+werken hierbij met de absolute waarden voor druk en temperatuur:
+T1=21°C = 21 + 273 = 294K
+Pj = latm= 1,013.105 Pa
+V,= 1.1 liter = 11.10"3m3
+R = 8,315     J
+molK
+5   1 1   1 A-3
+*1 =
+PïV,     1,013.10M1.HP    ..„     ,
+ülj_ =----------------------_ o 456 mol
+Rij           8,315.294
+We bepalen op een gelijkaardige manier het aantal mol lucht in een gevulde tank:
+T2=42°C = 42 + 273 = 315K
+p2=2,10.107 Pa overdruk
+= 2,10.107+1,013.105 Pa
+= 211.105Pa
+V2=llliter = ll.l<r3m:
+R = 8,315
+-3 _3
+Ï.IO
+J
+molK
+p2V2     21U0MUQ-3    __,     ,
+n2 =         =--------------------= 88,6 mol
+2     RT2          8,315.315
+Het aantal mol lucht dat bij de vulling aan de tank wordt toegevoegd bedraagt dus:
+n = n2 - n, = 88,6 - 0,456 = 88,1 mol
+Het aantal kg lucht dat opnieuw kan gebruikt worden bedraagt: m = 88,1.28,8.10"3 = 2,54 kg
+Fysica van Fluïda 1998-1999
+G.12.
+2- Eigenschappen van gassen
+2. 1. Dichtheid van een gas.
+De ideale gaswet kan als volgt herschreven worden:
+pV = nRT = —RT
+M
+m: de totale massa van het gas in het volume V aanwezig
+M: de molaire massa van het gas
+inR
+T = pRjT
+VM
+p: de dichtheid van het gas
+Rii de individuele gasconstante; deze is voor elk gas verschillend; in tabel 2
+werden deze waarden voor enkele gassen opgenomen.
+Tabelle IJ   Thermische Stoffwerte von Gasen bei 1 bar und 0 °C							
+Stoff	Luft	02	N2	H2	NH3	co2	
+Spezifische Warmekapazitat tp	1004	914,8	1038,7	14 199	2060,2	816,5	J/(kg K)
+Spezifische Warmekapazitat c\	717	655	741,9	10 075	1572	627,6	J/(kg K)
+Isentropenexponent x	1.4	1,4	1.4	1.41	UI	U	
+Individuelle Gaskonstante R-,	287	259,8	296,8	4124	488,2	188,9	J/(kgK)
+Moiare Masse M-,	29	32	28	2	17	44	kg/kmol
+tabel 2
+De dichtheid van een ideaal gas kan dan bepaald worden uit:
+p         M
+p = —-— = P-----
+R{T       RT
+De dichtheid van een reëel gas kan gevonden worden door gebruik te maken van de vroeger
+reeds besproken correctiefactor K met:
+p             M
+K.R.T       K.RT
+Fysica van Fluïda 1998-1999
+G.13.
+De dichtheid van een gasmengsel kan gevonden worden met:
+m        V,        V,
+P = — = P, —L + Po —- + ..
+r    V        V        V
+p = P1n1+p2n2 + ...
+pi, P2,...: de dichtheid van elke gascomponent
+ni, ii2,...: het aandeel van elke component uitgedrukt in volumepro-
+centen
+2.2. Specifiek volume van een gas
+In plaats van de dichtheid p wordt vaak gebruik gemaakt van het specifiek volume v:
+- voor een ideaal gas:
+1 _ R-T _ R T
+p      p      M p
+voor een reëel gas:
+p         p         M p
+De gaswetten kunnen hiermee herschreven worden (bemerk hierbij de overeenkomst met de
+vroegere formuleringen):
+voor een ideaal gas:
+pv = RiT
+voor een reëel gas:
+Fysica van Fluïda 1998-1999
+G.14.
+Figuur 4 geeft als alternatief voor deze formule het specifiek volume van oververhitte stoom
+als functie van druk en temperatuur.
+Dergelijke gegevens vindt men ook terug in tabelvorm.
+Tafel 5   Spezifisches Volumen von Wasserdampf
+nach VDI-Wasserdampftafeln
+	10
+	8
+is	
+	4
+	3
+'2	"       2
+c 0	-  jö! i   kg
+É	
+	j     '-0
+c	)       0,8
+>	
+u a	)      0,5
+	;     0,4
+0 «♦-	?      0,3
+b	4
+	f     0,2
+u	1
+	0,1
+	0,08
+	0,06
+	0,05
+	0,04
+	0,03
+0,02
+0,01
+0,008
+0,006
+0,005
+0,004
+0,003
+0,002
+0,001
+0,5 bar
+200
+300 bar
+300       400       500
+Temperatur   t --------
+Figuur 4
+Fysica van Fluïda 1998-1999
+'  G.15.
+2.3. Uitzettingscoëfficiënt- Spanningscoëfficiënt - Compressihiiiteit.
+2.3.1. Uitzettingscoëfficiënt $ van een gas.
+Net zoals bij vloeistoffen kan de toename van volume bij stijgende temperatuur uitgedrukt
+worden bij middel van de kubieke uitzettingscoëfficiënt van een gas, gedefinieerd als volgt:
+P
+ï av
+VdT
+P geeft de relatieve volumetoename per graad temperatuurstijging bij gelijk blijvende druk en
+wordt uitgedrukt in:
+[e] 4
+Bij linearisatie geldt in een beperkt temperatuursinterval:
+V(T + AT) = V(T) + AT = V(T)(l + p AT)
+Voor een ideaal gas geldt:
+Indien V =------dan geldt: —
+p                     ÖT
+nR
+P = ;
+i av
+vaT
+J_nR
+V p
+of:
+In het geval T = 273,15 K = 0 °C:
+P0 = —ï— = 0,003661 —
+0    273,15                 K
+Deze waarde geldt voor alle gassen in zover ze voldoen aan de ideale gaswet. Laboratorium-
+metingen bevestigen dit merkwaardig resultaat.
+Fysica van Fluïda 1998-1999
+G.16.
+2.3.2. Spanningscoëfficiënt 5 van een gas.
+Houdt men het volume van een gas constant, dan varieert de druk evenredig met de tempera-
+tuur. Deze variatie kan uitgedrukt worden met behulp van de spanningscoëfficiënt 5, gedefi-
+nieerd als volgt:
+5 =
+1 dp
+pöT
+8 geeft de relatieve dniktoename per graad temperatuurstijging bij gelijk blijvend volume en
+wordt uitgeohukt in:
+ral=—
+1 J    K
+Voor een ideaal gas wordt dit:
+muien p	-           uai V
+pöT	1 nR v    P V
+6 = 1 T	
+nRT                dp
+dan geldt:
+dT
+nR
+V
+of:
+Voor een ideaal gas zijn de uitzettings- en de spanningscoëfficiënt dus identiek.
+Fysica van Fluïda 1998-1999
+G.17.
+2.4. Thermische eigenschappen van gassen.
+2.4.1. Specifieke warmtecapaciteit.
+De specifieke warmtecapaciteit is de hoeveelheid warmte, die nodig is om de temperatuur
+van 1 kg van een bepaald product met 1 K te wijzigen. Deze grootheid wordt uitgedrukt in
+kgK
+In deel 1 hebben we reeds gewezen op het feit dat men een onderscheid moet maken tussen
+de specifieke warmtecapaciteit cp, die gemeten wordt bij constant gehouden druk, en cy,
+die gemeten wordt bij constant gehouden volume. Het verschil heeft te maken met het feit
+dat met een volumewijziging ook een energie-uitwisseling via arbeid plaats heeft. Bij
+vloeistoffen verschillen deze waarden niet veel en rekent men gewoonlijk met een benade-
+rende waarde: c « cp « cv.
+Bij gassen is de volumewijziging beduidend en moet men dus wel degelijk een onder-
+scheid maken tussen cp en Cy: cp > cy.
+2.4.2. De isentropenexponent k.
+Deze wordt gedefinieerd als de verhouding van vorige gegevens:
+K = -^of
+cv
+Cv=KCp
+2.4.3. Gasconstanten en verbanden.
+In het voorgaande werd gesproken over twee types gasconstanten:
+-   de individuele gasconstante Ri, die verschillend is voor elk gas:
+-   het is de mechanische arbeid, die door één kg gas per graad temperatuurstijging
+aan de omgeving kan afgegeven worden
+-   eenheden zijn: ——
+kgK
+-   de universele gasconstante R, die voor alle gassen identiek is:
+-   het is de mechanische arbeid, die door één mol gas per graad temperatuurstij-
+ging aan de omgeving kan afgegeven worden
+-   eenheden zijn:-------
+molK
+Fysica van Fluïda 1998-1999
+G.18.
+Er bestaan volgende verbanden tussen allerlei voornoemde grootheden:
+R_P_PV
+1    pT     T
+M;
+Mi is de molaire massa van stof i.
+In de thermodynamica zal aangetoond worden dat:
+Ri=c -cv=(k-1)cv=-—c
+K
+In tabel 2 vinden we een aantal van deze waarden terug.
+Fysica van Fluïda 1998-1999
+G.19.
+2.5. Voorbeelden.
+1. Bepaal voor chloorgas CI2 bij 25 °C en onder een overdruk van 5 bar volgende grootheden:
+- de dichtheid
+- het soortelijk gewicht
+- het specifiek volume
+- de individuele gasconstante
+De molaire massa van chloorgas bedraagt M = 71 kg/kmol.
+Oplossing:
+pM      6.105.71.1Q-3              kg
+p = -— =--------------------= 17,2 —2-
+RT    8,315.(273 + 25)           m3
+y=p,g = 17,2.9,81 = 169 4
+m
+P           kg
+R=j2315  =n7>1   K
+M    71.KP             kgK
+2.  Bepaal de dichtheid van lucht bij 20 °C en bij 0 °C, telkens bij een 'normale' luchtdruk en
+in de veronderstelling dat lucht bij deze omstandigheden kan aangezien worden als een
+ideaal gasmengsel met een gemiddelde molaire massa M = 28,8 . 10 "3 kg/mol.
+Oplossing:
+= PaM = 1,013.105.28,8.1Q-3 ^12Q kg
+p20    RT20       8,315.(273+20)        'm3
+= pa M = 1,013.105.28,8.IQ"3 =   29 kg
+Po     RT0        8,315.(273 + 0)         '     m3
+3.  Bepaal het soortelijk gewicht van lucht bij een temperatuur van 30 °C en een absolute druk
+van 470 kPa.
+Oplossing:
+= pM = 470.IQ3.28,8.IQ'3 _        kg
+P_RT " 8,315.(273 + 30)  "  '     m3
+N
+y=p.g = 5,37.9,81 = 52,7
+m3
+Fysica van Fluïda 1998-1999
+G.20.
+4. Figuur 5 stelt een compressor voor, die lucht onder druk levert aan de verbrandingskamer
+van een gasturbine. Aan de ingang
+van de compressor ontstaat een on-
+derdruk van 1300 Pa, waardoor lucht
+uit de omgeving wordt aangezogen.
+De temperatuur van de lucht bedraagt
+aan de ingang van de compressor Ti =
+30,6 °C. Na compressie wordt de
+lucht bij een temperatuur van Tu =
+35,6 °C en onder een overdruk van
+1000 Pa in de verbrandingskamer ge-
+blazen.
+Bepaal de dichtheid van de lucht aan in- en uitgang van de compressor. We rekenen met
+een individuele gasconstante voor lucht van 287 J/(kg K). De omgevingsdruk bedraagt 1
+bar.
+			feTo l~ri 7-i 'out Pout •	boiler	
+	Room air •				
+		^Fan			
+		£      ])			
+Figuur	5				
+Oplossing:
+Pi =
+pf           (1-0,013).IQ5
+RiTi
+Pu =
+_     Pu      _
+R;TU
+287.(273,15 + 30,6)
+(1 + 0,01). IQ5
+287.(273,15 + 35,6)
+= U3
+1,14
+kg
+m3
+m3
+Het verschil tussen de dichtheid van de lucht aan de in- en de uitgang van de compressor is
+dus erg gering. We zouden ons kunnen afvragen of dit verschil in praktijk al of niet rele-
+vant is en we eventueel niet kunnen blijven werken met de dichtheid aan de ingang van de
+compressor. Eén en ander wordt duidelijk indien we bijvoorbeeld de opgemeten druk aan
+de uitgang van de compressor zouden gebruiken om de temperatuur Tu te schatten:
+Pi
+T =
+Pi           (1-0,013).IQ5
+Ri^
+Pu   _
+287.(273,15 + 30,6)
+(1 + 0,01).105
+= U3 4
+m
+u    R;Pi        287.1,13
+= 311,4K = 38,3°C
+De fout op de emdtemperatuur van (38,3 - 36,5) = 1,8 °C zou erg belangrijk zijn indien
+men hiermee een energiebalans zou opstellen.
+Fysica van Fluïda 1998-1999
+G.21.
+3. Aërostatica
+3.1. Krachten vanwege een gasdruk.
+De evenwichtsvergelijking van Euler gaf bij vloeistoffen, die een nagenoeg constante
+dichtheid p vertonen, aanleiding tot het begrip 'hydrostatische druk': deze neemt lineair
+toe met de diepte onder de vloeistofspiegel. Vullen we een reservoir geheel of gedeeltelijk
+met een vloeistof dan ontstaat er door dit lineair drukverloop op de wand een ongelijkma-
+tig verdeelde kracht: de onderzijde van de wand wordt relatief zwaarder belast dan de bo-
+venzijde. We stellen de resultante van deze drukverdeling voor door de drukkracht Fd, die
+we in het drukpunt D moeten plaatsen (figuur 6).
+o,
+J
+F
+Rz=l
+Z
+3^
+2-	i - 1	i 3	==\       F
+\S> "			\      J)
+			\=±n
+l
+Figuur 6
+Vullen we (een betrekkelijk klein) reservoir echter met een gas, dan gaan we ervan uit de
+dichtheid, de temperatuur en de druk in alle punten van het gas dezelfde is. De druk kan
+bepaald worden uit de gaswetten:
+nRT
+p = pRiT
+De kracht vanwege deze druk op een gedeelte van de wand van het reservoir is dan gelijk-
+matig verdeeld. De resultante ervan moet in het zwaartepunt van het oppervlak A geplaatst
+worden en kan berekend worden als:
+Fz = p.A
+Fysica van Fluïda 1998-1999
+G.22.
+3.2 De 'US Standard Atmosphere'.
+Bekijken we de enorme luchtmassa omheen het aardoppervlak, dan liggen de zaken wel
+een beetje anders: de dichtheid van de lucht, de temperatuur en de druk variëren dan met
+de hoogte boven het aardoppervlak; in de vliegtuigbouw, de ruimtevaart en de meteorolo-
+gie moet met deze variatie wel degelijk rekening gehouden worden. We berekenen ze in de
+veronderstelling dat de veranderingen in chemische samenstelling van de lucht, de variatie
+van de gravitatieversnelling en de invloed van de aardrotatie verwaarloosbaar zijn.
+3.2,1. De variatie van de luchttemperatuur in functie van de hoogte.
+We moeten een onderscheid maken tussen verschillende gebieden in de atmosfeer, die ook
+nog eens van plaats tot plaats op de aarde verschillen; zo begint de stratosfeer, die aan de
+evenaar op ongeveer 17 km hoogte begint, aan de polen reeds vanaf 8,5 km boven zeeni-
+veau. In figuur 7 werden de verschillende delen van de atmosfeer voorgesteld, zoals ze ge-
+bruikt worden in de 'US Standard Atmosphere'.
+-60    -40   -20        0    +20
+(a)                   Temperature, °C
+lonosphere
+Stratosphere
+Troposphere
+VV,  ."r„v ■■■-■wvTWilif.Vy.-^J^.
+40       80     120
+(b)      Pressure, kPa
+Figuur?
+-   in de troposfeer, tot op ongeveer 11 km hoogte, neemt de temperatuur nagenoeg li-
+neair afin functie van de hoogte;
+-   in de stratosfeer, van ongeveer 11 km tot ongeveer 20,1 km hoogte, heerst er een
+constante temperatuur van -56,6 °C;
+-   in de ionosfeer neemt de temperatuur terug toe.
+Met deze gegevens berekenen we nu de drukvariatie in de tropo- en in de stratosfeer. In de
+ionosfeer kan de 'luchtlaag' niet meer als een continuüm aangezien worden.
+Fysica van Fluïda 1998-1999
+G.23.
+3.2.2. De variatie van de luchtdruk in functie van de hoogte.
+Combinatie van de evenwichtsvergelijking van Euler (1) met de ideale gaswet (2) levert:
+dp = -pgdz
+(1)
+P =
+pM
+RT
+dp = -g—— dz
+F         5RT
+dp    - gM dz
+R    T
+(2)
+(3)
+3.2.2.a. Drukvariatie in de VS Standard Troposphere'.
+In vergelijking (3) voeren we de temperatuursvariatie , T = T0 - B. z , in
+To : de temperatuur op zeeniveau = 15 °C = 288,15 K
+B : 0,00650 K/m
+dp    - gM      dz
+p        R   (T0-Bz)
+p,dp _ -gM z,     dz
+pJo7"    R   oJ(T0-Bz)
+-gM/    dz
+RB „'(i_z)
+T
++ gM2fd^~z)
+RB o/^o
+p     +gM
+In— =
+RB
+In
+T
+In— = ln
+T
+T
+B
+_o_
+B
++gM
+RB
+/
+P(z) = Pc
+Bz
++gM
+\   RB
+V      TJ
+(4)
+Fysica van Fluïda 1998-1999
+G.24.
+3.2.2.h. Drukvariatie in de VS Standard Stratosphere'.
+De temperatuur is hierin constant: Tc = - 56,6 °C = 216,7 K
+Vergelijking (3) wordt in dit geval:
+dp     -gM dz
+jdp_-gMz,
+Pc P         RTC   zc
+p     -gM/         x
+In— = ——-lz-zr)
+Pc      RTC v       c)
+-gM(z-zc)
+p(z) = pce    RTc                   (5)
+3.2.3. De variatie van de luchtdichtheid in functie van de hoogte.
+Deze wordt gevonden door substitutie van bovenstaande uitdrulddngen (4) en (5) in de
+gaswet (2).
+3.2.3.a. Luchtdichtheid in de VS Standard Troposphere'.
+M
++gM
+(     Bz^ M
+R(To-Bz)
+P(z) = ^7^—^Po 1-V                       (6)
+V       XJ
+3.2.3.b. Luchtdichtheid in de VS Standard Stratosphere'.
+p(z) = rFPcG                               (7)
+Fysica van Fluïda 1998-1999
+G.25.
+3.2.4. Tabellen en grafieken.
+De hierboven besproken waarden voor de 'US Standard Atmosphere' spelen een belangrij-
+ke rol in praktijk. Zo dienen ze onder andere als een soort referentiewaarde voor heel wat
+parameters, die gebruikt worden in de luchtvaart. Eerder dan ze met bovenstaande formu-
+les te berekenen worden ze overgenomen uit opgestelde grafieken en tabellen zoals deze
+van figuur 8 en van tabel 3.
+Table A.I     Properties of the U.S. Standard Atmosphere (SI units)
+Geometrie
+Alritude
+z(m)
+Temperature
+T(K)
+Pressure
+p(Pa)
+Density
+P (kg/m3)
+Gravitational
+Accéleration
+g (m/s2)
+Viscosity
+]L (N-s/m2j
+Kinematic
+Viscosity
+v«(m7s)
+-5000	320.7	1.778 E5	1.931	9.822	1.942 E-5	1.006 E-5
+-4000	314.2	1.596 E5	1.770	9.819	1.912 E-5	1.081 E-5
+-3000	307.7	1.430 E5	1.619	9.816	1.882 E-5	1.163 E-5
+-2000	301.2	1.278 E5	1.478	9.813	1.852 E-5	1.253 E-5
+-1000	294.7	1.139 E5	1.347	9.810	1.821 E-5	1.352 E-5
+0	288.2	1.013 E5	1.225	9.807	1.789 E-5	1.461 E-5
+1000	281.7	8.988 E4	1.112	9.804	1.758 E-5	1.581 E-5
+2000	275.2	7.950 E4	1.007	9.801	1.726 E-5	1.715 E-5
+3000	268.7	7.012 È4	9.093 E-1	9.797	1.694 E-5	1.863 E-5
+4000	262.2	6.166 E4	8.194 E-1	9.794	1.661 E-5	2.028 E-5
+5000	255.7	5.405 E4	7.364 E-1	9.791	1.628 E-5	2.211 E-5
+6000	249.2	4.722 E4	6.601 E-1	9.788	1.595 E-5	2.416 E-5
+7000	242.7	4.111E4	5:900 E-1	9.785	1.561 E-5	2.646 E-5
+8000	236.2	3.565 E4	5.258 E-1	9.782	1.527 E-5	2.904 E-5
+9000	229.7	3.080 E4	4.671 E-1	9.779	1.493 E-5	3.196 E-5
+10000	223.3	2.650 E4	4.135 E-1	9.776	1.458 E-5	3.525 E-5
+15000	216.7	1.211 E4	1.948 E-1	9.761	1.422 È-5	7.300 E-4
+20000	216.7	5.529 E3	8.891 E-2	9.745	1.422 E-5	1.599 E-4
+30000	226.5	1.197 E3	1.841 E-2	.9.715	1.475 E-5	8.013 E-4
+40000	250.4	2.87i E2	3.996 E-3	9.684	1.601 E-5	4.007 E-3
+50000	270.7	7.978 El	1.027 E-3	9.654	1.704 E-5	1.659 E-2
+60000	255.8	2.246 El	3.059 E-4	9.624	1.629 E-5	5.324 E-2
+70000	219.7	5.520 EO	8.754 E-5	9.594	1.438 E-5	1.643 E-l
+80000	180.7	1.037 EO	1.999 E-5	9.564	1.216 E-5	6.058 E-l
+90000	180.7	1.644E-1	3.170 E-6	9.535	1.216 E-5	3.837 EO
+Tabel 3
+Fysica van Fluïda 1998-1999
+G.26.
+U
+kgmi3
+1200T     U
+mbar
+1000+     1.0
+.   800-ï 0j8
+^600
+Q  400
+o-
+|o,6
+i3
+0.4
+200-    02
+O1
+0          2          4          6
+Bi ld 3.3   Nonn-Atmosphare
+8          10
+Höhe  z
+12          14
+16
+52
+Figuur 8
+										
+										
+										
+Beispiel	»^k    ^^W									■
+9=0.715 kg/m3										
+				^						
+				$Z						
+										
+										
+♦ 20
+°C
+0
+-20    3
+S
+-40
+-60
+18 km 20
+3.3. Voorbeelden.
+1. Bepaal de luchtdruk op 11 km hoogte, de grens van de stratosfeer.
+Oplossing:
+Formule (4) wordt:
+gM    9,81.28,8.10'
+RB     8,315.0,0065
++gM
+5,23
+e
+Pc=Pc
+1-
+Bz
+\
+RB
+W
+f
+= l,0133.10f
+0,0065.ÏLIO3^5,23
+288,15
+= 0,228.105 Pa
+Fysica van Fluïda 1998-1999
+G.27.
+2. Bepaal de luchtdruk op 15 km hoogte dus ergens in de stratosfeer. Vergelijk deze bere-
+kende waarde met deze op grafiek 8 en in tabel 3.
+Oplossing:
+Formule (5) wordt:
+-gM(z-zc)
+P = Pce    RTc
+-9581.28,8.10"3(15-11).103
+= 0,228.105 e       8>315-216'7
+= 0,122.105 Pa
+3. Een luchtballon heeft een massa van 500 kg en heeft een volume van 700 m . Tot op
+welke hoogte kan deze ballon opstijgen?
+Oplossing:
+De ballon stijgt zo lang tot de opwaartse stuwkracht, die kan bepaald worden uit de wet
+van Archhnedes, in evenwicht is met het gewicht van de ballon; de ballon 'zweeft' dan
+'vrij' door de lucht:
+FA=G
+p.g.V = 500.g
+500    5           kg
+V      7          m
+Uit tabel 3 lezen we af dat deze dichtheid bereikt wordt op ongeveer 5300 meter hoogte.
+Deze (benaderende) waarde lezen we ook af op grafiek 8 en zou kunnen berekend wor-
+den uit formule (6).
+Fysica van Fluïda 1998-1999
+Fysica van Fluïda
+Oefeningen
+Fysica van Fluïda 1998-1999
+G.28.
+4. Oefeningen
+1.    Een kubieke meter lucht weegt 12 N onder een druk van 1013 hPa en bij een tempe-
+ratuur van 15 °C. Bepaal uit deze gegevens het specifiek volume van lucht in dezelfde
+condities.
+m3
+Oplossing: v = 0,818-—
+kg
+2.    Bepaal het aantal moleculen en het aantal mol in 1 m lucht bij 1013 hPa en 0°C.
+Oplossing: 44,63 mol
+3.    Men meet voor een ijl gas een specifiek volume op van 0,65 m /kg onder een druk van
+200 hPa en bij een temperatuur van 40°C. Bepaal de individuele gasconstante voor dit
+gas evenals het moleculair gewicht ervan.
+J                        N
+Oplossing: R{ =41.53——:   G = 1,964—-
+kgK                    mol
+4.    Een kubieke meter stikstof onder een druk van 340 kPa en bij een temperatuur van 40
+°C wordt isotherm samengedrukt tot een volume van 0,2 m3. Hoe groot is de druk bij
+het einde van deze compressie. Bepaal eveneens de elasticiteitsmodulus bij het begin
+en bij het einde van de compressie.
+Oplossing: p2 = 1700 kPa; El = 340 kPa; E2 = 1700 kPa
+5.    In een cilindrische zuiger bevindt zich oorspronkelijk 0,120 m lucht onder een druk
+van 1 atmosfeer (=1013 hPa). Via een isotherme compressie wordt het volume gere-
+duceerd tot 0,05 m3. Bepaal de druk in deze eindtoestand.
+Oplossing: p2 = 2,43 bar
+6.    Een reservoir met een inhoud van 20 liter bevat 0,28 kg helium bij 27 °C. De molaire
+massa van helium bedraagt 4 g/mol.
+a.  hoeveel mol helium bevat het reservoir?
+b.  bepaal de druk in het reservoir.
+Oplossing: n = 70 mol; p = 87,3 bar
+7.    In een cilindrische opslagtank bevindt zich 0,5 m stikstof bij 27 °C en onder een druk
+van 1,5 x 10 Pa. Bepaal de druk in het reservoir wanneer het volume 4 m bedraagt en
+de temperatuur 327 °C.
+Oplossing: p2 = 3,75.104 Pa
+8.    Bij het begin van de compressieslag bevat de cilinder van een dieselmotor 800 cm3
+lucht onder een druk van 1013 hPa en bij een temperatuur van 27 °C. Op het einde van
+de compressie werd de lucht gecomprimeerd tot een volume van 75 cm  onder een
+overdruk van 2,25x106 Pa. Bepaal de temperatuur op het einde van de compressie.
+Oplossing: T2 =380°C
+Fysica van Fluïda 1998-1999
+G.29.
+9.    Een persoon vult bij het inademen zijn longen (inhoud 6 liter) volledig met lucht on-
+der een druk van 1013 hPa. Door het spannen van de buikspieren wordt het longen-
+volume gereduceerd tot 5,5 liter. Welke druk ontstaat hierdoor in de longen, in de ver-
+onderstelling dat de temperatuur van de lucht gelijk blijft.
+Oplossing: p2 = L1.105 Pa
+10.  De wand van een gasfles met een inhoud van 2,5 liter werd berekend om een druk van
+100 atmosfeer (1 atmosfeer =1013 hPa) te kunnen weerstaan. Men vult de fles met 8
+mol van een nagenoeg ideaal gas bij een temperatuur van 23 °C. Tot welke tempera-
+tuur mag het gas in deze fles opgewarmd worden?
+Oplossing: Tmax = l 08 °C
+11.  Hoeveel moleculen bevat een pint van 25 cc gevuld met zuiver water? De molaire
+massa van water bedraagt 18 g/mol.
+Oplossing: 8,36.1024 moleculen
+12.  Op een winterse dag, bij een temperatuur van 5°C en een druk van 1,03 atmosfeer (1
+atmosfeer = 1013 hPa), meet men de bandenspanning van een autoband met een in-
+houd van 0,015 m : deze bedraagt 2 atmosfeer overdruk. Bepaal de bandenspanning
+na 30 minuten rijden, wanneer de temperatuur van de banden 47 °C bedraagt, waar-
+door het volume uitgezet is tot 0,016 m3.
+Oplossing: p2 = 2,24 atm = 2,27 bar (overdruk)
+13.  Schat het aantal mol, moleculen, atomen, waaruit uw professor bestaat, uitgaande van
+de veronderstelling dat hij:
+•     90 kg weegt (een onderschatting)
+•     voor het overgrote deel uit water (een overschatting) (H2O) bestaat bij 37 °C
+en 1 atmosfeer
+•     de moleculaire massa van water 18 g/mol bedraagt
+•     elke watermolecule uit drie atomen bestaat.
+Oplossing: 5000mol:   3.1027 moleculen;   9.1027 atomen
+14.  Een fles van 1,2 liter wordt gevuld met zuurstof en afgesloten met een "waterslof', dat
+ervoor zorgt dat de druk in de fles gelijk blijft aan 1 atmosfeer (=1013 hPa). Men ver-
+warmt de fles tot een temperatuur van 400 K. Men sluit nu ook het "waterslot" af zo-
+dat geen zuurstof uit de fles meer kan ontsnappen. Men laat de fles afkoelen tot 27 °C.
+a.    Hoe groot is de druk in de fles?
+b.    hoeveel gram zuurstof bevat de fles?
+De moleculaire massa van zuurstof bedraagt 32 g/mol.
+Oplossing: p2 = 0,75 atm = 0,76 bar;   m = 1,17 g
+Fysica van Fluïda 1998-1999
+G.30.
+15.  Het werkingsprincipe van een warme-lucht-ballon is gebaseerd op het feit dat de
+dichtheid van warme lucht bij eenzelfde omgevingsdruk lager is dan deze van de om-
+gevende koude lucht. Welke temperatuur moet de warme lucht in een ballon met een
+volume van 500 m hebben om een last van 250 kg (bovenop het gewicht van de
+warme lucht) te kunnen vervoeren in een luchtlaag waar de temperatuur 0 °C en de
+druk 1 atmosfeer bedraagt. De dichtheid van de omgevende koude lucht bedraagt dan
+1,29 kg/m3.
+Oplossing: T = 174 °C
+2
+16.  Een experimentele ballon heeft een inhoud van 500 m . Hij wordt gevuld met water-
+stofonder atmosferische omstandigheden (1013 hPa).
+a.  hoeveel reservoirs waterstof heeft men nodig om de ballon volledig te vullen? Men
+gebruikt reservoirs met een inhoud van 2,5 m , die de waterstof bewaren onder een
+druk van 2,5x106 Pa. We veronderstellen dat de temperatuur van de waterstof bij
+het overslaan niet wijzigt.
+b.  hoeveel ballast (bovenop het gewicht van de hoeveelheid waterstof in de ballon)
+kan men met deze ballon vervoeren in de veronderstelling dat hij moet zweven in
+een luchtlaag, waar de temperatuur 0° C en de dichtheid van de omgevende lucht
+1,29 kg/m3 bedraagt? De molaire massa van waterstof bedraagt 2,02 g/mol.
+c.  hoeveel ballast kan men in dezelfde omstandigheden vervoeren indien men helium
+zou gebruiken in plaats van waterstof? De molaire massa van helium bedraagt 4
+g/mol.
+Oplossing: 8,1 reservoirs;   600 kg;   556 kg
+Fysica van Fluïda 1998-1999
+tc(   i> * 2-1 üi
+1.    Een theoretisch voorbeeldje van energie-opname en -verbruik bij eten en drinken...
+a)   Op de verpakking van vanille-roomijs staat aangegeven dat de energetische waarde
+ervan 855 kJ per 100 g bedraagt. Wanneer het ijs gegeten wordt, komende uit de
+diepvries, bij een temperatuur van -18°C, wordt door het lichaam echter ook meteen
+energie verbruikt om het ijs op de lichaamstemperatuur van 37°C te brengen.
+Veronderstel de warmtecapaciteit van roomijs gelijk aan deze van water, in het
+volledige te beschouwen temperatuurgebied, dus 2 kJ/kgK bij temperaturen onder het
+vriespunt en 4.19 kJ/kgK bij temperaturen boven het vriespunt. Veronderstel een
+latente smeltwarmte van 348 kJ/kg. Bereken de netto energie-opname na het eten
+van een portie roomijs van 150 g. (oplossing: 1201 kJ)
+b)    Bereken hoeveel energie door het lichaam wordt verbruikt om na het drinken van een
+glas water (20 cl) uit de ijskast (6°C) deze hoeveelheid water op te warmen tot de
+gemiddelde lichaamstemperatuur van 37°C? (oplossing: 26 kJ)
+c)    Gebruik de resultaten gevonden onder a en b om te bepalen welke hoeveelheid
+water bij 6°C theoretisch moet gedronken worden om de netto energie-opname na
+het eten van 150 g roomijs te compenseren, (oplossing: 9,2 liter)
+2.    Onderstel de verbrandingswarmte van stookolie gelijk aan 46000 kJ/kg, en onderstel dat
+hiervan in een verbrandingsketel 73% nuttig gebruikt wordt om het ketelwater te
+verwarmen.
+a)   Als de dichtheid van stookolie 0.81 kg/liter bedraagt, hoeveel liter stookolie verbruik je
+op die manier om 500 liter ketelwater op te warmen van 20°C tot 75°C? (oplossing:
+4,24 liter)
+b)   Een andere manier om het ketelwater op te warmen zou zijn om stoom te laten
+condenseren en de condensatiewarmte die daarbij vrijkomt te gebruiken. Deze
+condensatiewarmte bedraagt 2256 kJ/kg. Hoeveel kg stoom is dan nodig, als het
+rendement van de warmte-overdracht in dit geval 94% bedraagt? (oplossing: 54,3 kg)
+c)    Met een stookolieprijs van 16 BEF/liter, en een prijs voor stoom van 29 Euro/ton, wat
+is dan de voordeligste manier om het ketelwater op te warmen? (oplossing: stoom
+(63,56 BEF t.o.v. 67,78 BEF))
+3.    Uit 5 kg nat wasgoed moet 2 kg water verdampt worden om het wasgoed te drogen.
+Hoeveel minuten moet het wasgoed in de droogkast draaien tot het droog is, als de
+droogkast een nuttig droogvermogen heeft van 1900 W? Het wasgoed wordt in de
+droogkast gestopt bij een temperatuur van 30°C. Gebruik de standaardwaarden voor
+warmtecapaciteit en verdampingswarmte van water, (oplossing: 44,7min)
+4.    Over de noodzaak van koeling in elektronica: stel dat bepaalde onderdelen van een PC
+niet warmer mogen worden dan 90°C om nog gewaarborgd goed te kunnen werken. Stel
+•     dat deze onderdelen volledig uit koper bestaan (Cp> koper = 390 J/kgK), en tezamen 62 g
+1-     wegen, voor een gezamenlijk verbruikt vermogen van 8 W. Indien de onderdelen niet
+gekoeld zouden worden en er bovendien geen warmte-uitwisseling met de omgeving kan
+gebeuren, hoe lang (minuten) zou je met de PC kunnen werken totdat de kritische 90°C
+bereikt wordt? (oplossing: slechts 3,48 min)
+5.    Een vereenvoudigde manier om warmtecapaciteiten van stelsels te berekenen is door de
+warmtecapaciteit van het stelsel te beschouwen als een gewogen gemiddelde van de
+warmtecapaciteiten van de samenstellende componenten. Dit geeft:
+Cp.stelsel = (CpjComp.1 • Tlcomp.1 + ■•• + CpComp.n ■ rncomp.n) / ( mCOmp.1 + ■■• + n"lCOmp.n)
+Toegepast op de afwas:
+a)   Als je de gootsteen vult met 5 liter water van 50°C, wat is de eindtemperatuur
+(evenwichtstemperatuur) als je in het water 10 borden plaatst? De massa van 1 bord
+is 110 g, neem de warmtecapaciteit ervan gelijk aan 879 J/kgK en onderstel de
+temperatuur van de borden initieel gelijk aan 20°C. Veronderstel hierbij het stelsel
+water + borden als gesloten; d.w.z. dat het water enkel afkoelt door warmte-
+overdracht naar de borden en niet door warmte-overdracht naar de lucht. Gebruik
+bovenstaande wegingformule om een totale warmtecapaciteit voor het stelsel borden
++ water te berekenen, (oplossing: 48,7°C)
+b)   Bereken de globale warmtecapaciteit opnieuw na toevoeging van 1 liter water van
+55°C aan het tot evenwicht gekomen eerste stelsel, (oplossing: 3,68 kJ/kgK)
+Stromingsleer en Thermodynamica
+Hydrodynamica
+Fysica van Fluïda 1998-1999
+De vloeistofstroming
+Aanpak:       Lagrange       vs.            Euler
+(punt)                                           (controlevolume)
+Fundamentele Stromingsbegrippen:
+loopbaan
+stroomlijn
+stroombuis
+stationaire stroming
+ideale stroming
+1D-, 2D-, 3D-stroming
+Stromingsgrootheden:
+debiet  (volume -, massa -, gewichts -)
+stroomsnelheid
+(stroomversnelling)
+Stromingswetten:
+Regel van Castelli - Continuïteitsvergelijking
+Wet van Bernoulli - Energievergelijking
+Impulswet - Veralgemeende wet van Neton
+(Energie)verliesberekeningen
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Stromingsleer en Thermodynamica
+Propellertheorie
+Fysica van Fluïda 1998-1999
+Pr.l.
+Propellerwerking: theorie van Froude
+Model- en werkingscondities
+'V
+fc
+Actuating disk
+
+*—r
+ff
+vi
+Pi = Patm= O
+Pi = Pj
+atm
+®
+vu = vi+Av
+Pu=Patm=0
+vu = % + Av
+Pu=Patm
+1
+Fysica van Fluïda 1998-1999
+Pr.2.
+-    de stroming wordt bekeken door een waarnemer die meebeweegt met de constante snelheid
+vv van het voertuig, waaraan de propeller verbonden is
+-    het gaat om een verliesvrije stationaire stroming (ideale fluïdumstroming)
+-    de schroeven worden beschouwd als een mfinitesimaal dunne schijfvormige actuator
+(actuating disk), die energie aan het fluïdum toevoegt onder de vorm van een drukverho-
+ging
+-    in een doorsnede i 'ver' vóór de actuator bedraagt de druk pi = patm = 0, de snelheid van het
+fluïdum t.o.v. de bewegende waarnemer bedraagt vi; in doorsnede u 'ver' achter de actuator
+bedraagt de druk pu = patm = 0, de snelheid t.o.v. de bewegende waarnemer bedraagt er vu
+= Vj + Av;
+-    ter hoogte van de actuator bedraagt de snelheid van het fluïdum vi = vi = vs en de druk be-
+draagt er pi > p2
+Modelvergelijkingen
+Wet van Bernoulli:
+Pi    ,   V?   _  Pi    ,   Vs
+pg    2g    pg    2g
+"      f'      .TT      P2      .     tl
+(1)
+9      Hp=- + ^   (2)
+pg    2g             pg    2g
+2l. + A = K + A        (3)
+Pg    2g    pg    2g
+Pi'.■xL+H=Jk+i (4)
+Pg    2g             pg    2g
+Continuïteitsvergelijking:
+nd2
+m = pq = pvsAs = pvs —^            (5)
+Impulswet:
+De kracht vanwege het stromend fluïdum op de propeller bedraagt
+F.=A1(p2-p1) = ^(p2-p1)-                       (6)
+Fs = m(vu - Vj) = pq(vu - Vj) = pvsAs(vu - v{)    (7)
+Fysica van Fluïda 1998-1999
+Pr.3.
+Fysica van Fluïda 1998-1999
+Pr.4.
+Uitwerking
+De snelheid van Froude:
+uit (2) en (4) volgt:
+Hp=ML = lLzi   (A)
+Pg           2g
+uit (6) en (7) volgt:
+Fs = As(P2 -Pi) = PvsAs(vu -Vj)
+(P2-Pi) = PV8(vu-Vi)                             (B)
+- uit (A) en (B) volgt:
+P2-P1 =vu~vf
+Pg           2g
+Pg               2g
+Vs(Vu-Vi) = (Vu+Vi)(Vu-Vi)
+g                      2g
+V   + V-
+vs = —------              (de snelheid van Froude)
+of ook:
+v„ + v-     v- + Av + v-     2v- + Av           Av
+V   =—------— — —------------------ =----------------= V-H-------
+2                 2                  2            '     2
+De snelheid van de fluïdumstroom ter hoogte van de actuator, die vanuit de bewegende waar-
+nemer geobserveerdw wordt, is gelijk aan het rekenkundig gemiddelde van de intrede- en de
+uittredesnelheid.
+of nog:
+Av
+de snemeidstoename vóór de actuator is gelijk aan de snemeidstoename na de actuator: —
+Fysica van Fluïda 1998-1999
+Pr.5.
+Het geïnduceerd vermogen en het theoretisch propulsierendement (het rende-
+ment van Froude)
+De energiehoogte, die door de actuator aan het stromend fluïdum wordt toegevoegd wordt ge-
+geven door vergelijking (A). Vanuit deze energiehoogte kan het geïnduceerd vermogen be-
+paald worden, dat is het vermogen dat door de actuator (de propellerschroeven) aan het stro-
+mend fluïdum toegevoegd wordt:
+2         2                 2        2               2        2
+V   — V                V   — V             V   — V-
+Pp-qpgHp-qpg-V-^^qp-V'-^^-V^   (D)
+zg                 z                z
+Het vermogen dat nuttig aangewend wordt om de propeller te verplaatsen bedraagt:
+Pn = Fs-vv = Pq(vu-vi)vv=m(vu-v.)vv    (E)
+Vergelijken we deze twee waarden met elkaar dan vinden we het theoretisch propulsierende-
+ment of het rendement van Froude:
+„      = T1     = ^ Vu - Vi) Vv  = 2( Vu - Vi) Vv  =        2<X - Vi) Vv
+^th    %        . v2-v2            v2-v2         (v +v.)(v -v.)
+2
+r,  =     2Vy     = Vv =      2Vy
+F    K+v)    vs     (2^+Av)
+Het werkelijk rendement:
+In het voorgaande werd de stroming verlies- en wervelvrij verondersteld. In werkelijkheid
+moet men rekening houden met de hydraulische verliezen via het hydraulisch rendement t|h
+en met de verliezen in het mechanisme dat de energie (of het vermogen) overdraagt van de
+motor via de schroeven naar het stromende fluïdum via het mechanisch rendement r)mech-
+Het werkelijk rendement wordt:
+^werk = U'f -"Hh ,Tlmech
+Fysica van Fluïda 1998-1999
+Pr.6.
+Toepassing: propellerpropulsie in stilstaand fluïdum
+We nemen aan dat een voertuig zich met constante snelheid vv in het stilstaande fluïdum
+voortbeweegt. De stuwkracht van de propeller is dan gelijk aan de weerstandskracht vanwege
+het omgevende fluïdum op het bewegende voertuig.
+Bij stilstaande lucht krijgen we: Vi = vv
+De voornaamste formules worden:
+v + v
+de snelheid van Froude :        v„ - —------
+s
+2
+het rendement van Froude:     r)  - —---------Y— - —-------
+_ v„        2v„             2v„                1
+F ~'
+vs     (vu+vv)    (2vv + Av)    (1+*L)
+2v/
+nd2
+de stuwkracht:                      Fs = rh(vu - vv) = pvsAs(vu - vv) = pvs -y-(vu - vv)
+7ld                                           Tixf        2       2
+Fs = P-^(vu + vv)(vu - vv) = p-^(v2u - v2v)
+het stuwvermogen:                Pn = Fs. vv - pq(vu - vv)vv = rh(vu - vv)vv
+Y2 _ Y2            V2 — V2
+het geïnduceerd vermogen:    Pp=qpgHp=qp —------- = ril—-------
+het vermogenverlies:
+2          2
+V  -v
+Pverlies = Pp " Pn = hl-^ - hl(Vu - Vy )Vy
+(Vu ~ VvXVu +Vv)-2(VU - VvK
+2
+"verlies ~ m
+Pverlies = y [(Vu ~ VVXVU + Vy - 2Vy)]
+Pv«üo.=y[(v«-vvXvu--vv)]
+p        =È(V  _v)2
+verlies        «  V * u         v /
+Fysica van Fluïda 1998-1999
+Pr.7.
+Toepassing: helikopter - hangende vlucht in stilstaande lucht: _vv = vi = O
+feu
+-x-----
+< r    i '
+t
+©  Vj = 0
+Pi = Patm= °
+— (2
+© v1 = vs=v2
+Pi > p2
+U'   V
+® vu = vs + Av
+Pu=Patm=0
+de snelheid van Froude
+s     2
+v          2v
+het rendement van Froude:     nF = —- =-------— = 0
+vs     (vu+vv)
+het heeft echter geen zin om over propulsierendement te spreken; de propeller
+zorgt immers alleen maar voor een hefkracht, zonder verplaatsing.
+Fysica van Fluïda 1998-1999
+Pr.8.
+de hefkracht:               Fh = mvu = 2mvs = 2pAsvs
+waaruit:
+het 'hefvermogen': komt nu in de plaats van het nuttig stuwvermogen uit vorige toe-
+passingen; het gaat om een schijnbaar vermogen dat gevonden wordt uit het product
+van de hefkracht en de luchtsnelheid ter hoogte van de propeller
+F              F
+P =R.v =E    '     h— -  '—*
+rhv2u
+n      h'  s      hl'2pAs     ^[2pAs
+dit hefvermogen kan ook berekend worden als: Pn = Fh. vs = mvu. vs =
+z
+het geïnduceerd vermogen:
+Pp=qpgHp=qp^ = riA
+zoals verwacht blijkt dat alle vermogen dat aan het stromende fluïdum wordt
+toegevoegd inderdaad gebruikt wordt om de hefkracht te realiseren; er is dus
+ook geen Verlies' in de strikte zin.
+het werkelijk rendement: we moeten uiteraard ook bij een helikopter nog wel rekening
+houden met de hydraulische verliezen (aanpassingen aan het gebruikte hydraulische
+model) en de mechanische overbrengingsverliezen: r)werk = t)h .r|mech
+Voorbeelden:
+1.  Een schip vaart met een constante snelheid vv = 10 km/uur. De propellerschroeven hebben
+een diameter ds = l meter en leveren een stuwkracht Fs = 10 kN.
+Bepaal:      a. het waterdebiet
+«
+b.  het motorvermogen
+c.  het (nuttig) vaarvermogen
+d.  het propulsierendement
+2.  Welk motorvermogen moet er geïnstalleerd worden om een helikopter met een massa van
+1000 kg op te tillen en in hangende vlucht te houden indien de diameter van de propeller 2
+meter bedraagt? We rekenen met g = 10 m/s . De hydraulische verliezen worden geschat
+op f|H = 0,9; de mechanische verliezen op r)mech = 0,8. Wat wordt dit vereist vermogen in-
+dien men met een propellerdiameter van 3 meter werkt?
+Fysica van Fluïda 1998-1999
+De windturbine: model van Froude
+Model- en werkingscondities
+Pr.9.
+"777771------X
+P|
+®
+Vj
+= Patm= °
+generator J—»>
+©      ®
+v1 = vs=v2
+Pi > p2
+®
+vu = Vj - Av
+PU=Patm=0
+Av/2
+—}—
+vu = Vj-Av
+Pu=Patm
+I__
+Fysica van Fluïda 1998-1999
+Pr. 10.
+Door de propeller in omgekeerde zin aan te wenden kan uit een stromend fluïdum (bvb wind)
+energie gewonnen worden.
+-    het gaat om een verliesvrije stationaire stroming (ideale fluïdumstroming)
+-    de schroeven worden vervangen door een infrnitesimaal dunne schijfvormige receptor
+{actuated disk), die energie aan het fluïdum onttrekt onder de vorm van een drukverlaging
+-    in een doorsnede i 'ver' voor de receptor bedraagt de druk pi = patm = 0, de snelheid van het
+fluïdum bedraagt er vï; in doorsnede u 'ver' achter de receptor bedraagt de druk pu = patm =
+0, de snelheid bedraagt er vu = vi - Av;
+-   ter hoogte van de receptor bedraagt de snelheid vi = \2 = vs en de druk bedraagt: pi < p2
+Modelvergelijkingen
+Wet van Bernoulli:
+(1)
+Pi	,vf.	Pg	v? 2g	
+pg	2g			
+Pr	|    's	-Hr =	.P2	f2 1
+Pg	2g		Pg	2g
+P2	2g	_P« ,	^	
+Pg		Pg	2g	
+Pi	,V-	-H =	•P»H	v2 h   u
+Pg    2g       r    pg    2g
+(2)
+(3)
+(4)
+Continuïteitsvergelijking:
+m = pq = PvsAs = pvs —^           (5)
+Impulswet:
+F.=Ai(p1-p2) = ^-(p1-p2)                         (6)
+Fa = m(vi " vu) = P.q(Vi - vu) = pvsAs(Vi - vu)    (7)
+Fysica van Fluïda 1998-1999
+Pr.ll.
+Fysica van Fluïda 1998-1999
+Pr.12.
+Uitwerking
+De snelheid van Froude
+uit (2) en (4) volgt:
+.2          2
+Ut=2lZ2± = ?iZ^   (A)
+pg           2g
+- uit (6) en (7) volgt:
+Fs = As(Pi -P2) = PvsAs(vi - Vu)
+(Pi-p2) = Pvs(vi-vu)                             (B)
+- uit (A) en (B) volgt:
+P1-P2 _v?-vu
+Pg           2g
+PVs(Vi-Vu)^Vf-Vu
+Pg               2g
+g                      2g
+V- +v
+v„ = —------              de snelheid van Froude
+of ook:
+_ vi + vu _ Vj + Vj - Av _ 2vj - Av _        Av
+s                                                                                     —     ■'
+2                2                 2           '     2
+De snelheid van de fluïdumstroom geobserveerd ter hoogte van de receptor is gelijk aan het
+rekenkundig gemiddelde van de intree- en de uittreesnelheid.
+of nog:
+Av
+de snelheidsafhame vóór de receptor is gelijk aan de snelheidsafhame na de actuator: —
+Fysica van Fluïda 1998-1999
+Pr.13.
+Het turbinevermogen
+De energiehoogte, die door het stromend fluïdum aan de receptor wordt afgestaan wordt ge-
+geven door vergelijking (A). Vanuit deze energiehoogte kan het vermogen bepaald worden,
+dat door de turbine uit het stromend fluïdum kan gehaald worden:
+v2_v2              v2_    2               2        2
+Pr=qpgHr=qpg^—^- = qp-i—-i = m-^—*■    (D)
+2g                 2                2
+Het turbinerendement
+Om het turbinerendement te bepalen wordt het bovenstaande vermogen vergeleken met het
+totale vermogen dat in het stromend fluïdum aanwezig is. Dit wordt berekend met:
+Pfl=pViA8^-      .
+Merk op dat wordt gerekend met As > Ai; het is immers enkel uit het gedeelte As dat energie
+kan gewonnen worden door de turbine.
+Vergelijken we deze twee waarden met elkaar dan vinden we het turbinerendement:
+nAv(vf-v2„)
+_Pr_pAsvs^^_V5(vf_va)
+'Ith        t>                                       2                                 3
+Pfl        pAsvA
+V     s    i   2
+f      M       V    2     2,        (l + %l-(^)2)
+-   =(vi+vu)(v, -v«)=        Vj               Vj
+^th                  2vf                                  2
+Het maximaai turbinerendement
+Door voorgaande uitdrukking af te leiden en nul te stellen kan het maximaal turbinerendement
+gevonden worden samen met de bijbehorende snelheids verhouding:
+rith,m!«=0!593 = 59,3%   bij   vu=2l
+Men kan dus met een windturbine maximaal 59,3 % van de totale energie die in de wind zit
+recupereren. Omwille van turbulenties en het niet verliesvrij zijn van de stroming ligt het ren-
+dement nog lager. De oude windmolens halen een rendement van om en bij de 15 %. Moderne
+windturbines voor de opwekking van elektriciteit bereiken een rendement van 48 %.
+Fysica van Fluïda 1998-1999
+Pr.14.
+Voorbeeld:
+De bladen van een windturbine hebben een diameter ds = 5,5 meter. De windsnelheid bedraagt
+9 m/s.
+a.  Welk elektrisch vermogen mag men met deze installatie maximaal verwachten indien men
+de hydraulische verliezen op 20 % schat en de mechanische overbrengingsverliezen op 16
+%.
+b.  Bepaal de axiale belasting die de windturbine bij deze windsterkte ondervindt.
+Oplossing:
+a. We berekenen eerst het vermogen dat met de installatie maximaal uit de windsnelheid kan
+gehaald worden. Het maximaal rendement wordt bereikt bij:
+v     9
+v, =—------ = — = 6m/s
+2         2
+In dat geval vinden we:
+v2-v2           Tid2     v2-v2
+Pr=m-^-----^ = pvs-^vs-^-----s-
+2                4           2    .
+7i5,52     92 - 32
+P = 1,22.6.—2— .6.-—— = 6260W
+4           2
+Dit is het vermogen dat men maximaal uit de wind kan halen; het komt overeen met
+59,3 % van het vermogen dat in de wind aanwezig is.
+Om het verwachte elektrisch vermogen te bepalen moeten we dit maximaal vermogen nog
+vermenigvuldigen met het hydraulisch en met het mechanisch rendement:
+Pd = Mhydr-M.ech.Pr = 0,8.0,84.6260 = 4207 W
+b. De axiale turbinebelasting bedraagt:
+red2
+Fa=PVsAs(Vi-Vu) = PVs^(VI-Vu)
+tu.5,52
+Fa = 1,22.6.——(9-6) = 1043N
+Fysica van Fluïda 1998-1999
+E.31.
+3.Een vloeistoflaag heeft een dikte van 0,6m en een viscositeit
+van I p. De snelheid van het bovenste vloeistoflaagje=IO m/s.
+(fig.I7) Bereken de snelheidsgradiënt —-- en de schuifspanning
+in de punten   y=0   y=0,2   y=0,4 en y=0,6m.
+in de drie volgende gevallen
+a.voor een Newtoniaanse vloeistof
+b.indien een parabolische snelheidsverdeling verondersteld wordt
+c.indien een cirkelvormige snelheidsverdeling verondersteld wordt
+Oplossing.'
+De snelheid in functie van y
+Voor het rechtlijnig verloop
+10
+v=I0-
+0,6
+(0,6-y)
+Ca)
+0,6m
+Voor een parabolisch verloop
+v=I0-
+10
+(0,6-y)
+(b)
+0,36
+Voor een cirkelvormig verloop
+100 (rs  c      ,2
+(0,6-y)
+V =I0°-  0,36
+De snelheidsgradiënten
+(c)
+Eig.17.
+(a)
+(b)
+dv
+10
+dy
+dv
+0,6
+20
+dy
+0,36
+(0,6-y)
+(c) 2v
+Mv
+200
+dy   O,36
+dv  _  100   0,6-y
+(0,6-y)
+dy
+IP=I0"IPas
+0,36
+Y	i     Rechte (a)			Parabool (b)			Cirkel		(c)
+	V	dv dy	dv 1 " ^  dy	V	dv dy	dv t=^  dy	V	dv dy	dv dy
+O	0	16,66	1,666	0	33,33	3,33	0	oo	c*=>
+O,2	3,333	16,66	1,666	5,555	22,22	2,22			
+O,4	6,663	16,66	1,666	8,888	II,II	1,11			
+0,6	10	16,66	1,666	10	0	0			
+Opmerking.
+Zoals in opmerking 4 (pag.23) reeds vermeld kan het snelheids-
+profiel niet rakend zijn aan een vaste wand omdat x   dan on-
+eindig zou zijn. De veronderstelling dat het snelheidsprofiel
+cirkelvormig was is dus fout.
+Oefeningen 5.1.
+Wet van Bernoulli
+De werking van een waterkrachtcentrale is gebaseerd op het feit dat het water aan de
+hoogpeilzijde onderaan de waterdam een hogere energie-inhoud heeft dan het water op
+dezelfde plaats van de dam aan de laagpeilzijde.
+a.  Maak een principeschets van zulke installatie.
+b.  Bepaal het vermogen dat per meter peilverschil en per eenheidsdebiet onder aan de
+dam beschikbaar is om een waterturbine aan te drijven, die op zijn beurt via een gene-
+rator de elektrische energie opwekt. Reken met p = 1000 kg/m3 en g = 10 m/s2.
+c.   Stel dat een waterdam voor een peilverschil van 30 meter zorgt. Welk debiet moet mi-
+nimaal (indien men zonder verliezen rekent) over de waterturbines geleid worden om
+een krachtcentrale van 300 MW (300 Megawatt) te kunnen realiseren?
+Oplossing:
+b.  10 kW
+c.   1000 m3/s
+Uit een open reservoir, waarin het
+peil constant gehouden wordt,
+stroomt water door een aangeslo-
+ten leiding. Het water mondt aan
+het einde van de leiding uit in de
+vrije atmosfeer. Reken met p =
+1000 kg/m3 en g = 10 m/s2.
+Schets het stroombeeld en bere-
+ken:
+a.  de snelheid waarmee het water
+uit de leiding stroomt
+b.  de statische overdruk in het
+wijde gedeelte van de leiding
+c.  het debiet
+d.  het vermogen waarover men
+beschikt aan de uittreedoor-
+snede.
+Oplossing:
+a.  v = 4 m/s
+b.  p = 7,5 kPa
+c.  q = 0,002827 m3/s
+d.  P = 23 W
+Fysica van Fluïda 1998-1999
+Oefeningen 5.2.
+3. Twee zeer grote open reservoirs zijn met
+elkaar verbonden door de aangegeven
+leiding. De verliezen in de leiding wor-
+den verwaarloosd. Bepaal:
+a.  de snelheid v en het debiet waarmee
+de vloeistof het laagste reservoir
+binnenstroomt.
+b.  de overdruk in de punten a en b van
+de leiding.
+c.  teken de theoretische energielijn.
+d.  Welk pompvermogen zou men in het
+punt a van de leiding moeten instal-
+leren om het debiet te verdubbelen? Schets de nieuwe energielijn
+Reken met p = 1000 kg/m3 en g = 10 m/s2.
+Oplossing:
+a.  v = 10 m/s en q = 19,6 l/s
+b.  pa = 0,47 bar
+pb = 0,2 bar
+d. P = 5,9 kW
+4. Een pomp is aangesloten op een zuiglei-
+ding met een diameter van 0,2 m. Het
+pompdebiet bedraagt 0,08 m /s. De vloei-
+stof heeft een soortelijke massa p = 800
+q                                                              9
+kg/m . Reken met g = 10 m/s . Schets het
+stroombeeld in deze installatie. Bepaal de
+absolute druk in de punten b en d van de
+zuigleiding indien
+a.  de weerstandshoogte in de zuigleiding
+wordt verwaarloosd.
+b.  de weerstandshoogte in de zuigleiding 1
+meter bedraagt.
+De atmosferische druk bedraagt 1,013 bar. Bepaal in beide gevallen eveneens het minimaal
+te installeren pompvermogen (dat is het vermogen van een pomp die uitsluitend het debiet
+zou leveren en geen bijkomende drukverhoging, wat betekent dat de druk in het punt c van
+de installatie terug de atmosferische druk zou zijn). Teken telkens de energielijn.
+Oplossing:
+a.  pb = 0,872 bar; pd = 1,027 bar; P = 1488 W
+b.  pb = 0,747 bar; pd = 1,027 bar; P = 2128 W
+Fysica van Fluïda 1998-1999
+Oefeningen 5.3.
+5.  Een centrifugaalpomp verpompt een vloei-
+stof met een soortelijke massa p = 1100
+kg/m . De toestroomhoogte bedraagt 2
+meter, de pershoogte 20 meter. Op het
+aanzuigoppervlak staat de atmosferische
+druk, die 1 bar bedraagt. Het persvat staat
+onder een overdruk van 5 bar. Pers- en
+zuigleiding hebben een diameter van 60
+mm. Bij een debiet q = 0,00425 m /s meet
+men volgende drukken:
+- net voor de pomp 0,2 bar overdruk.
+- net na de pomp 8 bar overdruk.
+Reken met g = 10 m/s .
+a.  Bepaal alle weerstandsverliezen bij dit debiet.
+b.  Schets de energielijn voor deze installatie en geef alle relevante numerieke waarden aan.
+c.  Bepaal de opvoerhoogte van de pomp bij dit debiet.
+d.  Bepaal het pompvermogen bij dit debiet.
+e.  Geef numeriek en overzichtelijk aan hoe dit vermogen aangewend wordt.
+f.   Bepaal de statische opvoerhoogte, die de pomp minstens moet kunnen realiseren.
+g.  Schets op één grafiek:
+* de pompkarakteristiek van de centrifugaalpomp
+* de leidingskarakteristiek
+* het werkingspunt van de pomp
+* de belangrijkste berekende getalwaarden
+en bespreek kort.
+Oplossing:
+a. Hwz = 0,07 m; Hwp = 7,39 m; b. (2 m; 1,931 m; 72,840 m; 65,455 m); c. Hp = 70,91 m
+d. Pp = 3315 W; e. drukverhoging: 2125 W; hoogteverschil: 842 W; verliezen: 349 W
+f. Hpst> 63,45 m
+6.  We beschouwen dezelfde installatie van deze in opgave 5; de diameter van de zuigleiding
+blijft 60 mm; de diameter Van de persleiding bedraagt nu echter 50 mm.
+a.  Bepaal de vereiste opvoerhoogte en het vereiste vermogen van de pomp om hetzelfde
+debiet te leveren; er mag aangenomen worden dat de verliezen in de persleiding evenre-
+dig zijn met het kwadraat van de vloeistofsnelheid in de persleiding.
+b.  Bepaal in dat geval de druk aan de uitgang van de pomp.
+Oplossing:
+a. ongeveer 78,84 meter; b. ongeveer 8,89 bar overdruk
+Fysica van Fluïda 1998-1999
+Oefeningen 5.4.
+7. Doorheen een verticaal geplaatste straal-
+pijp wenst men benzeen te laten stromen
+aan een debiet q = 0,3 m /s bij constante
+druk in de gehele leiding, namelijk de at-
+mosferische druk. De diameter van de lei-
+ding in doorsnede A bedraagt 300 mm.
+Reken met g = 9,81 m/s2.
+a.  Bepaal de diameter d die in doorsnede b
+vereist wordt opdat de druk er ook ge-
+lijk zou zijn aan de atmosferische druk.
+b.  Bepaal de snelheid in doorsnede B.
+Oplossing:
+a. d= 181 mm
+b.  v= 11,65
+		300				
+i	L	"				= A
+6m       \						
+1	\					
+			1 d		r	
+						
+8. Doorheen het verticaal geplaatste con-
+vergent van de figuur stroomt water. In
+doorsnede 1 bedraagt de vloeistofsnel-
+heid vi = 3 m/s. Het soortelijk gewicht
+vanCCl4 bedraagt y=15600 N/m3.
+a.  Toon aan dat door de meting in de U-
+buis, voorgesteld in de figuur, de
+weerstandshoogte over doorsnede 1 en
+2 kan bepaald worden.
+b.  Bepaal Hw indien y = 0,2 meter be-
+draagt; reken met g = 8,91 m/s .
+Oplossing:
+v?  '                Pcci
+a.   Hw=h1+ —+ (y-h1)------4-y
+2g                  Ph2o
+b.   Hw = 0,34m
+r-
+200
+hi=0,8m
+CCI
+4
+Fysica van Fluïda 1998-1999
+Oefeningen 5.5.
+20 mm—*■
+1
+JL
+qp
+------ 200 mm
+______L_
+p¥2-
+3    JL
+ji_2m
+ir
+9.  Doorheen een leiding met een diameter di =
+200 mm stroomt water aan een debiet qi = 50
+l/s. De overdruk in doorsnede 1 bedraagt pi =
+4 bar. Op de leiding wordt een aftakkraan met
+een diameter d2 = 20 mm aangesloten. De uit-
+stroomopening ervan bevindt zich 2 meter
+boven de hoofdleiding. Het water stroomt er
+in de vrije atmosfeer. Er wordt geen rekening
+gehouden met wrijvingsweerstanden. Reken
+met p = 1000 kg/m3 en g = 10 m/s2. Teken het stroombeeld en bepaal het debiet in door-
+snede 2 en het debiet en de druk in doorsnede 3.
+Oplossing: q2 = 8,7 l/s; q3 = 41,3 l/s; p3 = 4,004 bar
+10.  De tekening stelt schematisch een afvulin-
+stallatie voor. De installatie bestaat uit een
+verticaal opgesteld cilindrisch reservoir B
+met een diameter de = 2 meter dat tot een
+hoogte hè = 3 meter gevuld is met een
+vloeistof p = 1250 kg/m . Het vloeistofni-
+veau in reservoir B wordt op constant peil
+gehouden door een gepaste aanvoer van
+vloeistof via de pompinstallatie. Om zui-
+verheidsredenen worden de ruimte boven
+de vloeistof in het reservoir B en de vul-
+ruimte C onder een lichte overdruk gehouden van respectievelijk pB = 0,125 bar en pc =
+0,1 bar. De vloeistof stroomt onderaan het reservoir B doorheen een opening met een di-
+ameter de = 10 cm in tonnetjes, die zich in ruimte C bevinden. De vloeistof wordt vanuit
+een reservoir A onder atmosferische druk aangevoerd bij middel van een pomp. Het ni-
+veau van de vloeistof in het reservoir A bevindt zich 0,3 meter boven de uitstroomope-
+ning C; de pomp brengt de vloeistof in het afvulreservoir binnen via een leiding die zich
+0,5 meter onder het vloeistofniveau in reservoir B bevindt. Reken met g = 10 m/s . Teken
+het stroombeeld in deze installatie en bepaal:
+a.  het afvuldebiet
+b.  de tijd die nodig is om 2000 liter vloeistof in tonnetjes te brengen
+c.  het te installeren pompvermogen om het vloeistofniveau in reservoir B constant te
+houden.
+d.  Teken de energielijn.
+Oplossing:
+a. q = 62,8 l/s; b. t = 31,8 seconden; c. P = 2906 Watt.
+i
+Fysica van Fluïda 1998-1999
+Oefeningen 6.1.
+Wet van Bernoulli: leidingsweerstanden
+1.  Water van 80 °C stroomt door een nieuw gecoate stalen buis met bmnendiameter d = 100
+mm. Het debiet bedraagt 80 l/s; de absolute ruwheid bedraagt k = 0,05 mm. Bepaal de
+weerstandshoogte per 100 m leiding.
+Oplossing: Hw = 89,37 m.
+2.  Door een horizontaal geplaatste buis met een diameter d = 200 mm en een ruwheid k = 2
+mm stroomt ruwe petroleum van 40 °C aan een debiet van 10 l/s. De petroleum heeft bij 40
+°C een dichtheid p4o °c = 860 kg/m3 en eén viscositeit v40 °c = 4.10"6 m2/s. Bepaal de druk-
+daling over 100 m leiding bij deze stroming.
+Oplossing: Ap = 901 Pa
+3. Een vloeistof met een viscositeit v = 50
+cSt stroomt uit een reservoir door een
+leiding met een lengte 1 = 100 m, een dia-
+meter d = 40 mm en een ruwheid k = 0,1
+mm. Bepaal het debiet bij uitstroming in
+de atmosfeer.
+Oplossing: q = 0,74 l/s
+4. Door een rechte leiding een verval te geven van 8 mm per lopende meter blijft de druk in
+de leiding constant. De viscositeit van de vloeistof bedraagt v = 1,8 cSt.De buisdiameter is
+200 mm; de ruwheid bedraagt k = 0,5 mm. Bepaal het debiet.
+Oplossing: q = 34,7 l/s
+Voor het leidingsysteem van bijgaande
+figuur kunnen de opvoerhoogte Hp en de
+weerstandshoogtes Hwi,2 tussen doorsne-
+den 1 en 2 uitgedrukt worden in functie
+van het debiet: HP = 50-2q2
+HWi,2 = 4q2
+a.  Bepaal via het (H,q)-diagram van de-
+ze installatie het debiet waaraan vloei-
+stof verpompt wordt.
+b.  Bepaal de opvoerhoogte van de pomp bij dit debiet.
+c.  Bepaal het vereiste pompvermogen indien er water verpompt wordt
+Oplossing: a. q = 2,58 m3/s; b. Hp = 36,67 m; c. P = 947 kW
+						©	
+		h = ■	■				
+			= 10m				
+							
+	© Sn liyy,fi.ië'\smm		G ■	p			
+							
+							
+							
+Fysica van Fluïda 1998-1999
+Oefeningen 6.2.
+6. Een watertoren moet met behulp van een
+nieuwe gecoate stalen buis van 2 km lang
+een debiet kunnen leveren van 2 m /s bij
+uitstroming in de vrije atmosfeer. Bepaal
+de vereiste buisdiameter.
+Oplossing: d = 800 mm >763 mm
+7. De ruwheid van de leiding van een pom-
+pinstallatie bedraagt k = 0,08 mm. De
+verpompte vloeistof is water. De lengte
+van de leiding aan de aanzuigzijde van de
+pomp bedraagt lz = 10 m, deze aan de
+perszijde van de pomp lp = 350 m. De di-
+amaters zijn respectievelijk dz = 100 mm
+en dp = 75 mm. Boven de vloeistof in het
+persreservoir heerst een overdruk van 20
+bar. Het onderste reservoir is open De
+pomp levert een debiet q = 10 l/s. Reken met p = 1000 kg/m3, v = 1.10"6 m2/s en g = 10
+m/s . Alle plaatselijke verliezen worden verwaarloosd.
+a.  Bepaal alle weerstandsverliezen bij dit debiet.
+b.  Bepaal de opvoerhoogte van de pomp bij dit debiet.
+c.  Schets de energielijn voor deze installatie en geef alle relevante numerieke waarden aan.
+d.  Bepaal het pompvermogen bij dit debiet.
+e.  Geef numeriek en overzichtelijk aan hoe dit vermogen aangewend wordt.
+f.   Bepaal de statische opvoerhoogte, die de pomp minstens moet kunnen realiseren.
+g.  Schets op één grafiek:
+* de pompkarakteristiek van de centrimgaalpomp
+* de leidingskarakteristiek
+* het werkingspunt van de pomp
+* de belangrijkste berekende getalwaarden
+en bespreek kort.
+h. Bepaal de piëzometrische druk aan de in- en de uitgang van de pomp (deze liggen beiden
+2 meter boven de laagste vloeistofspiegel)
+Oplossing:
+a. Hwz = 0,17 m; Hwp = 26,2 m; b. Hp = 248,4 m; c. (0 m; - 0,17 m; + 248,20 m; 222 m)
+d. Pp = 24,84 kW; e. drukverhoging: 20 kW; hoogteverschil: 2,2 kW; verliezen: 2,64 kW
+f. HPst > 222 m; g.; h. p^ = 0,225 bar onderdruk; pUit = 24,594 bar overdruk
+Fysica van Fluïda 1998-1999
+Oefeningen 7.1,
+Impulswet: krachten vanwege stromende vloeistof
+1. Door een horizontaal geplaatst bochtstuk
+met een constante diameter d = 900 mm
+stroomt water (p = 1000 kg/m3) aan een
+debiet q = 2,83 m /s. Aan de ingang van
+het bochtstuk meet men een piëzometri-
+sche overdruk pi = 34500 Pa. Bepaal de
+krachtcomponenten vanwege de stromende
+vloeistof op dit bochtstuk (zonder rekening
+te houden met het gewicht van de vloei-
+stof), indien:
+a.  de stromingsverliezen in het bochtstuk verwaarloosd worden.
+b.  rekening gehouden wordt met de weerstandscoëfficiënt £ = 0,3 in het bochtstuk.
+Reken met g = 10 m/s . Teken alle krachten op het bochtstuk: maak het dus vrij.
+Oplossing:
+a.  bochtstuk: F = -(21948 + 12589)ex + (21948 +12589)ey N
+b.  bochtstuk: F = -(20060 +12589) ex+(21948+ 12589) eyN
+2. In het systeem van vraagstuk .1 werd achter
+het bochtstuk nog een vemauwer geplaatst,
+die de diamater van de leiding reduceert tot
+750 mm. Bepaal de krachtcomponenten
+vanwege de stromende vloeistof op het
+bochtstuk en de vemauwer (zonder reke-
+ning te houden met het gewicht van de
+vloeistof), indien:
+a.  de    stromingsverliezen    verwaarloosd
+worden.
+b.  rekening gehouden wordt met de weerstandscoëfficiënt C\ = 0,3 in het bochtstuk en C^ =
+0,2 in de vemauwer.
+c.  de vemauwer de leidingsdiameter reduceert tot 600 mm en met dezelfde weerstands-
+coëfficiënten gerekend wordt.
+Reken met g = 10 m/s2. Teken alle krachten op het bochtstuk en op de vemauwer.
+Oplossing:
+a. bochtstuk: zie La; vemauwer: F = [(21948 +12589) +(-10537- 18140)]ex N
+(20060 +12589) + (-7424 -1-8140)
+(20060 +12589) + (+5282 - 28325)
+b.  bochtstuk: zie 1 .b; vemauwer: F =
+c.  bochtstuk: zie l.b; vemauwer: F =
+ëxN
+êxN
+Fysica van Fluïda 1998-1999
+Oefeningen 7.2.
+3. De tekening stelt een leidingsplitsing
+voor dat volledig in een horizontaal vlak
+gelegen is. Er stroomt water door met een
+2
+soortelijke massa p = 1000 kg/m . Het
+water stroomt in doorsnedes 2 en 3 vrij in
+de atmosfeer. De stroomsnelheid in door-
+snede 2 bedraagt V2 = 12 m/s. Er wordt
+geen rekening gehouden met de stro-
+mingsverliezen en met het eigen gewicht van de vloeistof. Reken met g = 10 m/s . Be-
+paal:
+a.  de snelheden vi en V3 in doorsnedes 1 en 3, evenals de druk pi in doorsnede 1.
+b.  de krachten vanwege de stromende vloeistof op dit leidingsgedeelte.
+Oplossing:
+a.  vi = 8,33 m/s; v2 =' 12 m/s; v3 = 12 m/s; pi = 37278 Pa overdruk.
+b.   F = 243e„+25e„N
+y	© 11		^\^t®
+	o'		
+	11	X	
+			
+3.b. Los het vraagstuk 3 opnieuw op, maar houd nu rekening met de stromingsweerstanden.
+Tussen doorsnede 1 en 2 wordt de weerstandscoëfficiënt geschat op £122 = 0,2 en tussen
+doorsnede 1 en 3 op d©3 = 0,3. Bepaal eveneens de weerstandshoogte Hwi,2 tussen door-
+snede 1 en 2 en Hwi)3 tussen doorsnede 1 en 3.
+Oplossing:    a. vi = 8,22 m/s; V2 = 12 m/s; v3 = 11,53 m/s; pi = 52652 Pa overdruk.
+b.  F = 522ex-lëyN
+c. Hwi,2 = 1,44 m; HwU = 1,99 m
+4. Uit een mondstuk, aangesloten op een persluchtleiding,
+stroomt 6 kg lucht per seconde. In doorsnede A (7500 mm )
+staat de lucht onder een piëzometrische overdruk van 14 bar
+en bedraagt de snelheid va = 45 m/s. De lucht verlaat opening
+B aan een snelheid van 360 m/s en komt in de atmosfeer te-
+recht. Reken met g = 10 m/s .
+a.  Bepaal het kracht-koppel-stelsel dat men in het punt A
+moet uitoefenen om het mondstuk in evenwicht te houden.
+b.  Bepaal de weerstandscoëfficiënt voor dit mondstuk, in de
+veronderstelling dat de dichtheid van de lucht ter hoogte van doorsnede A p = 14.1,2
+2
+kg/m bedraagt
+Oplossing:
+a.  Xa = 1871 N horizontaal naar rechts; Ya = 9690 N verticaal naar beneden; ua = 1122
+Nm in wijzerzin.
+b.  £ = 0,3
+	^&o	
+	1	Kb
+		
+	A	mi 1
+		T'
+Fysica van Fluïda 1998-1999
+Oefeningen 7.3.
+5. Men spuit 900 liter water per minuut over een cilin-
+dervormige plaat. Het water heeft een snelheid van
+40 m/s. Bepaal de kracht die het water uitoefent op de
+plaat. Bepaal eveneens twee punten van de werklijn
+van de resultante. Reken met g = 10 m/s2 en met p =
+1000 kg/m3.
+Oplossing: F = 311 N; twee punten van de werklijn:
+- het middelpunt 0
+- het midden van de plaat.
+6. Een waterstraal wordt met
+een snelheid vi = 18 m/s in
+het midden op een gehelde
+vierkante plaat (zijde 1 = 1,2
+m) gespoten. De diameter
+van de waterstraal bedraagt
+50 mm. De plaat is in B
+scharnierend aan de omge-
+ving verbonden. Reken met g
+= 10 m/s2 en met p = 1000
+kg/m . Bepaal:
+a.  de kracht F om de plaat in
+evenwicht te houden evenals
+b.  de krachten in scharnier B.
+Oplossing: a. F = 159 N; b. Xb = 556 N naar links; Yb = 138 N naar beneden.
+7. Water stroomt aan een debiet q = 400 l/min
+doorheen een spuitstuk van een brandweerslang.
+We veronderstellen dat de stroming doorheen het
+spuitstuk geen weerstand ondervindt. Bepaal:
+a.  de overdruk in doorsnede A.
+b.  het kracht-koppel-stelsel, dat in het punt A
+uitgeoefend moet worden om het spuitstuk in
+evenwicht te houden.
+c.  het debiet en de uitstroomsnelheid indien men
+i-   200	
+js^Nfc^s	s%
+	
+xKjo	
+in het spuitstuk zou moeten rekening houden met een weerstandscoëfFiciënt £ = 0,2
+9                                                                  9
+Reken met g = 10 m/s en met p = 1000 kg/m .
+Oplossing: pA = 5,48 bar; b. XA = 1279 N; YA = 1500 N; uA = 31,26 Nm; c. vB = 30,3 m/s
+(tegenover 33,2 m/s); q = 365 l/min.
+Fysica van Fluïda 1998-1999
+Oefeningen 7.4.
+8.  Een sneeuwruimer wordt met een con-
+stante snelheid v = 0,5 m/s in een
+sneeuwmassa gedreven. Hierdoor komt de
+sneeuw ter hoogte van doorsnede 1 in de
+machine aan een snelheid vi = 0,5 m/s
+t.o.v. de machine. De sneeuw verlaat de
+machine aan doorsnede 2. De dichtheid
+van de sneeuw bedraagt p = 104 kg/m .
+We rekenen met g = 10 m/s . Ai = 0,12
+9                                          9
+m ; A2 = 0,03 m . Tip: beschouw het sys-
+teem in een observatiestelsel dat meebeweegt met de constante snelheid van de sneeuw-
+ruimer en teken daarin het stroombeeld van de sneeuw. Bepaal:
+a.  de kracht F en het vermogen die een persoon moet uitoefenen.
+b.  de zijdelingse wrijvingskracht W om de ruimer op een rechte baan te houden.
+c.  het nuttig vermogen, dat door de motor van de machine moet geleverd worden om de
+sneeuwstroom te realiseren.
+Oplossing: a. F = 3,12 N; P = 1,56 W; b. W = 6,24 N; c. P = 11,7 W
+9.  Het experimenteel Hover-voertuig van de
+tekening heeft een massa m = 2,1 ton. De
+motoren zuigen boven het voertuig lucht
+aan en blazen deze onderaan weer uit.
+Hierdoor ontstaat tussen het voertuig en de
+bodem een overdruk, die voor een draag-
+kracht zorgt. De snelheid van de lucht
+doorheen de cirkelvormige instroomope-
+ning (doorsnede 2 met straal r2 = 1 meter)
+bovenaan bedraagt V2 = 45 m/s. De uitstroomopening onderaan (doorsnede3) is eveneens
+cirkelvormig en heeft een straal r3 = 3 m. We rekenen met g = 10 m/s en met piucht = 1,22
+kg/m en zonder verliezen. We verwaarlozen het effect van het hoogteverschil en veronder-
+stellen dat de lucht niet samengedrukt wordt. Teken vooraf het stroombeeld van de lucht, te
+starten vanaf een doorsnede 1 ergens (ver) boven het voertuig, waar de lucht in rust is en de
+druk gelijk aan de atmosferische druk. Bepaal:
+a.  de onderdruk, die in doorsnede 2 bovenaan het voertuig ontstaat.
+b.  de overdruk die in doorsnede 3, onderaan het voertuig, moet gerealiseerd worden om de
+vereiste draagkracht te leveren zodat het toestel over de bodem kan zweven
+c.  het vermogen dat de motoren moeten leveren om de vereiste luchtstroom te realiseren.
+Oplossing:
+a. p2 = - 1235 Pa; b. p3 = + 850 Pa; c. P = 122 kW
+Fysica van Fluïda 1998-1999
+Oefeningen 7.5.
+10. Water (dichtheid p) wordt verticaal omhoog gespoten.
+Het water verlaat de spuitmond (diamater d) met een
+snelheid u. De bal heeft een massa m. Bepaal:
+a.  de hoogte die de waterstraal bereikt zonder aanwezig-
+heid van de bal.
+b.  de hoogte h waarop met deze waterstraal de bal in
+evenwicht gehouden wordt.
+Oplossing:
+a.  h
+b. h =
+u
+2g
+u2
+/
+8g
+m
+Y
+2g       V7Tpud )
+11. Alle elementen van de pompinstallatie van tekening
+zijn aan elkaar vast verbonden zodat de installatie
+als een onvervormbaar voorwerp kan bekeken wor-
+den. In gebruik bedraagt de opvoerhoogte van de
+pomp Hp = 22,5 meter. In de einddoorsnede stroomt
+het water in de vrije atmosfeer. Reken met g = 10
+m/s2 en met p = 1000 kg/m3. Alle stromingsverlie-
+zen worden verwaarloosd. Teken het stroombeeld
+en bepaal:
+a.  Het pompdebiet en het pompvermogen.
+b.  Het kracht-koppelstelsel dat in het punt a moet
+uitgeoefend worden om de pompinstallatie in
+evenwicht te houden.
+Oplossing:
+a.  q=l,40m3/s;PP = 314kW
+b.  Xa = 23,9 kN; Ya = 5,0 kN;   ua = 14,3 kNm
+0O,6m
+0O,3m
+W/////A
+0 0,75m
+1.2m
+1,8m
+1,5m
+12. Een tuinsproeier bestaat uit drie gebogen buizen
+met een diamater d = 5 mm. Bij rotatie wordt de
+sproeier afgeremd door een wrijvingskoppel uw -
+0,5 Nm. Bepaal het nominaal toerental bij een
+sproeierdebiet van 1,2 liter/sec of dus 0,4 l/s per
+arm.
+Oplossing: ri = 742,9 tr/min
+Fysica van Fluïda 1998-1999
+Oefeningen 7.6.
+13.  Wanneer de pomp P voorgesteld in
+de figuur niet werkzaam is, is er
+geen debiet in het systeem en wordt
+de veer niet belast. Nadat de pomp
+in werking werd gesteld en er door
+de uitstroompijp met diameter 12
+cm een debiet q stroomt, bedraagt
+de veerkracht 2000 N. Er mag aan-
+genomen worden dat het waterni-
+veau in het reservoir onveranderd
+blijft en dat het reservoir opgesteld
+staat op massa- en wrijvingsloze
+wieltjes. Alle stromingsverliezen
+mogen verwaarloosd worden. Bepaal:
+a.  het debiet
+b. het vermogen dat in deze situatie door de pompmotor verbruikt wordt.
+Oplossing:
+a. q = 0,162 m3/s; b. PP =15,5 kW
+14.  De waaier van een centrifugaarpomp
+heeft een breedte van 50 mm. Het wa-
+ter komt met een radiale absolute snel-
+heid tussen de schoepen aan de ingang.
+De diameter aan de ingang bedraagt 75
+mm, deze aan de uitgang 300 mm. Het
+toerental van de waaier bedraagt 12500
+tr/min in de wijzerzin. De raaklijn aan
+de schoep maakt aan de ingang een
+hoek van 45° met de radiale richting;
+aan de uitgang een hoek van 60°. Men
+veronderstelt dat de relatieve snelheidsvector van het water t.o.v. de bewegende schoep de
+richting heeft van de schoep, zodat er geen stoorverliezen optreden. Reken met p = 1000
+kg/m3 en g = 9,81 m/s2. Bepaal het debiet, de totale opvoerhoogte en het vermogen van de
+pomp. Vergelijk de uitkomsten met deze bekomen in de nota's waarbij het toerental van
+de pomp 500 tr/min bedraagt.
+Oplossing:
+q = 0,069 m3/s      (x3)
+H = 50,5m          (x3)
+P = 34352 W       (x3)
+Fysica van Fluïda 1998-1999
+10.1.
+I.
+Oefeningen fluïdomechanica. Reeks 10.
+Plaatselijke weerstanden.
+Het niveauverschil van het water in de twee bekkens bedraagt 50m
+De verbindingsleiding bestaat uit drie delen.
+D =750 mm
+D^=600 mm
+L =L =L =3000m.
+D  = 900 mm
+De ruwheid van de leiding k=0,I5 mm. De intree is scherpkantig.
+Bepaal het debiet.
+Bepaal het aandeel van de plaatselijke weerstanden in de totali-
+teit.
+	-==-		
+		(D	
+K
+x
+50m
+Oplossing:
+3
+Q=0,873   m  /s
+1,7°/

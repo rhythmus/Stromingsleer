@@ -1,0 +1,456 @@
+# HOOFDSTUK 1: De vloeistofstroming
+
+Kinematica  en fundamentele begrippen
+
+## 1.1. INLEIDING
+
+In de klassieke mechanica van punten beschrijft de kinematica de
+beweging in termen van plaats, snelheid en versnelling zonder te
+speuren naar de oorzaken van de beweging, (de krachten)
+In dit hoofdstuk gaan we na op welke wijze en met welke parameters
+de beweging van een vloeistof, een stroming, kan beschreven worden
+Een vloeistofstroming kan op twee manieren worden beschreven
+- volgens de methode van Lagrange
+- volgens de methode van Euler.
+Onderstaande tabel geeft het verschil tussen beide werkwijzen.
+Ter vergelijking is ook de werkwijze, gebruikelijk in de kinematica
+van de puntmassa's, in de eerste kolom opgenomen.
+
+Kinematica van de puntmassa's	-------------  -.....- ■■-—_______^—____________„« Vloeistofstroming	
+	Lagrange	Euler
+Men bekijkt: - I stoffelijk punt - op ?£de plaatsen - dus op een ^d tijdstip Men bepaalt: bv. de snelheid - van dat ene punt - op diefde plaatsen - dus op een ^d tijdstip	Men bekijkt: - I vloeistofdeeltje - op ?£de plaatsen - dus op een ^d tijdstip Men bepaalt: bv. de snelheid - van dat ene vloeistofdeeltje - op die ^de plaatsen - dus op een ^d tijdstip	Men bekijkt: - ^de  vloeistofdeeltjes - op i^de plaatsen - en op hetzelfde tijdstip. Men bepaalt: bv. de snelheid - van die ?£de vloeistofdeeltjes • - op j^de plaatsen - maar op hetzelfde tijdstip.
+
+[D.1.2.]
+
+De methode van Lagrange komt dus helemaal overeen met deze gebruikt
+bij de kinematica van de stoffelijke punten.
+Men kan aan elk vloeistofdeeltje op een bepaalde plaats en op een
+bepaald tijdstip de karakteristieken verbinden, die nodig zijn om
+de vloeistof en zijn stroming te beschrijven: bvb. plaats, snelheid,
+versnelling, druk , dichtheid ...
+Men volgt elk individueel vloeistofdeeltje en gaat de verandering
+na van elke parameter in plaats en tijd.
+De methode van Euler leidt in de fluïdomechanica tot een meer ele-
+gante methode voor de meeste praktische problemen.
+Hierbij wordt niet elk vloeistofdeeltje individueel gevolgd.
+Men vestigt de aandacht gelijktijdig op alle punten van een hoeveel-
+heid vloeistof, die op een bepaald ogenblik een bepaalde ruimte
+vu 11. (f i g.I)
+Fig.I.
+Aan elk van deze punten worden karakteristieken gekoppeld zoals
+druk en snelheid. Men gaat nu niet de hoeveelheid vloeistof volgen in
+zijn beweging; men blijft integendeel de oorspronkelijke ruimte be-
+kijken, waardoorheen de vloeistof stroomt. Men gaat nu na hoe de para-
+meters in deze ruimte veranderen in funktie van de tijd. Men maakt
+dus eigenlijk op een bepaald ogenblik een globale situatieschets van
+de stroming in een welbepaalde ruimte en men gaat na hoe de situatie
+in dezelfde ruimte van moment tot moment wijzigt, terwijl ze door de
+vloeistof doorstroomd wordt.
+D.I.3.
+1.2. DEFINITIES VAN DE FUNDAMENTELE STR0MI8GSBEGRIPPEN.
+I.2.I. De_loopbaan.,
+De loopbaan van een vloeistofdeeltje is de meetkundige plaats van
+de posities welke op verschillende momenten door dit ene deeltje
+worden ingenomen. We nemen van een gekleurd vloeistofdeeltje een
+foto op verschillende ogenjalilcken. Dit vloeistofdeeltje bevindt
+zich op de verschillende oqenblikken t_ ... t
+r                                           ^                         I      n
+op de plaats p ... p . (fig.2) De kromme hierdoor is de loopbaan
+van dit vloeistofdeeltje.
+Fig.2.                                                                 Fig.3.
+1^2.2. De stroomlijn.
+De stroomlijn is de kurve waarvan de raaklijn in elk punt de
+richting heeft: van de ogenblikkelijke snelheidsvector in dit punt.
+De stroomlijnen zijn dus raakkrommen aan de snelheidsvectoren op
+een gegeven ogenblik.
+In figuur 3 wordt een stroomlijn voorgesteld. Op een bepaald ogen-
+blik is de snelheid
+-van het eerste vloeistofdeeltje dat zich bevindt in
+toestand I: v .
+-van het tweede vloeistofdeeltje dat zich bevindt in
+toestand 2: v^.
+-enz.
+Opmerking.
+Het begrip loopbaan verwijst in feite naar de aanpak van Lagrange,
+waarbij een punt in de tijd wordt gevolgd doorheen de ruimte.
+Het begrip stroomlijn daarentegen verwijst naar de aanpak van Euler:
+men legt op een bepaald ogenblik de karakteristieken van een stelsel
+van punten vast.
+D.I.4.
+I.2.3._De stroombuis^
+Stroomlijnen kunnen elkaar niet snijden, vermits in het snijpunt
+geen twee verschillende snelheden kunnen optreden.
+Een stroming kan dus op elk ogenblik beschreven worden door een
+bundel van stroomlijnen die elkaar niet snijden.
+De omhullende van zulke bundel noemt men een stroombuis.
+Het is een wiskundig theoretisch begrip. Indien de vloeistof
+echter door een leiding stroomt dan vormt de wand een stroombuis
+en dan heeft het begrip ook een echte fysische betekenis.
+1.2.4. Stationaire_stroming.__
+~lndien.de snelheid, gekoppeld aan vaste punten in de ruimte (Euler)
+niet wijzigt in functie van de tijd noemt men de stroming stationair
+of permanent.
+- Eenparig stationair^ de snelheid is bovendien gelijk op ver-
+schillende plaatsen, bv. bij de stroming doorheen een leiding
+met een konstante diameter waardoorheen een konstant debiet gaat.
+(fig.4) We nemen aan dat in een dwarsdoorsnede van zulke buis
+alle deeltjes dezelfde snelheid hebben.(ideale vloeistof)
+Wanneer de stroming stationair is dan verandert deze niet inde
+tijd. Ze is bovendien in alle doorsneden dezelfde: vIm=v2m=lc te
++
+t
+-*»
+y1m       j----%
+-1m                I---*2m
+Fi>g.4.                                                    Fig.5.
+— Niet eenparig stationair, (fig.5)
+ëë"nëïhëden zIjn"nü"wëriconstant in de tijd, maar zijn verschil-
+lend in verschillende doorsneden.
+v  = konstant
+lm
+v   = konstant                       vIm f v2m
+Bij de Stationaire stroming blijft het beeld van de stroming steeds
+hetzelfde hoewel er zich steeds andere vloeistof in de ruimte bevindt
+de stroming wordt beschreven door steeds dezelfde bundel van stroom-
+lijnen. Alleen in dit geval zal een vloeistofdeeltje, dat zich op
+een bepaalde stroomlijn bevindt, deze stroomlijn blijven volgen.
+De stroomlijn is dus ook de stroombaan van alle deeltjes die langs-
+heen die stroomlijn stromen.
+D.I.5.
+Is de stroming niet stationair dan wijzigt het beeld van de stroming
+in een bepaalde ruimte ook voortdurend, terwijl er ook steeds andere
+vloeistof door de ruimte stroomt.
+Figuur 6 stelt een niet-stationaire stroming voor; het beeld van de
+stroomlijnen verandert in de tijd.
+—-<D
+Fig.6.
+I
+2
+©
+©
+geeft de plaats van   het massadeeltje op het tijdstip t
+geeft de plaats van   het massadeeltje op tijdstip t + At
+geeft de stroomlijn   op tijdstip t
+geeft de stroomlijn   op tijdstip t + At
+geeft de str^oombaan   dat door het deeltje gevolgd wordt.
+We zien duidelijk dat bij een niet-stationaire stroming de stroom-
+baan verschilt van de stroomlijnen, die wel steeds rakend zijn aan de
+stroombaan en dus in de tijd van vorm wijzigen.
+In deze tekst wordt enkel de stationaire stroming behandeld.
+D.I.6.
+1.2.5. Ideale vloeistofstroming.
+Op bladzijde E.2. hebben we een ideale vloeistof gedefinieerd.
+Geven we aan deze vloeistof een stationaire stroming dan verkrijgen
+we een ideale vloeistofstroming.
+Omwille van de wervelingen die meestal optreden bij het stromen
+van een vloeistof door de leiding, zal een reële stroming waar-
+schijnlijk niet stationair zijn.
+Er is echter wel een duidelijk onderscheid te maken tussen de
+stroming van een vloeistof in de persleiding van een centrifugaal-
+pomp en in deze van een zuigerpomp zonder perswindketel.
+a. In de persleiding van een centrifugaalpomp is het debiet kon-
+stant en dus ook de gemiddelde snelheid in een bepaalde door-
+snede. Deze stroming kan benaderd worden beschouwd als een
+stationaire stroming.
+b. In de persleiding van een zuigerpomp is er wel een debiet en
+een snelheid tijdens de persslag; tijdens de zuigslag is de
+snelheid er gelijk aan nul.
+Er is hier dus een grote snelheidsvariarie; de stroming kan
+niet meer als stationair worden beschouwd.
+In deze tekst wordt enkel de stationaire stroming behandeld.
+In aanvang behandelen we bovendien, enkel de stroming van ideale
+vloeistoffen zonder weerstanden om de fundamentele wetten te
+situeren.
+De resultaten uit zulke theoretische modelstudie zullen echter
+. niet helemaal met de werkelijkheid overeenstemmen. Voor de stroming
+van reële fluïda met weerstanden moeten de basiswetten aangepast
+worden met proefondervindelijk bepaalde correktiefactoren.
+D.I.7 .
+1.2,6. Eén-, twee- en driedimensionele stromingen.
+Men spreekt van een drie-dimensionele stroming indien de veranderin
+van de snelheid moet bestudeerd worden
+- langsheen de stroomlijnen
+- en in twee richtingen dwars op de stroomlijnen.
+Een volledig beeld van de stroomlijnen is slechts weef' te geven
+in een ruimtelijke voorstelling of door twee voorstellingen in twee
+verschillende vlakken.
+Beschouwen we de overlaat van figuur 7.
+Fig. 8. geeft de contractie van de stroomlijnen in het vertikale vl.
+Fig.9. geeft de contractie van de stroomlijnen in het horizontale
+vl ak.
+Fig.7.
+Fig.8
+Fig.9.
+D.I.8.
+Men spreekt van een twee-dimensionele stroming indien de verandering
+van de snelheid moet bestudeerd worden
+- langsheen de stroomlijn
+- en in één richting dwars op de stroomlijnen.
+Het beeld  van de stroomlijnen kan nu voorgesteld worden in een
+vlak.
+Is de breedte van de drempel van de overlaat gelijk aan de totale
+breedte van het kanaal (fig.IO) dan wordt'de zijdelingse contractie
+uitgeschakeld. Het verloop van de stroomlijnen wordt weergegeven
+door figuur II.
+Fig.ro,
+»ii»
+Men spreekt van een één-dimensionele stroming indien de stroming
+enkel moet bestudeerd wprden langsheen de stroomlijnen. Dit impli-
+ceert dat in alle punten van een doorsnede dwars op de stroomlijnen
+dezelfde parameters gelden.
+Over het algemeen  is dit niet het geval. De stroming in buizen kan
+echter goed bestudeerd worden met behulp van het één-dimensionele
+model.
+Als grootheden neemt men dan de gemiddelde waarden van de para-
+meters over de dwarsdoorsnede.
+. D.I.9.
+1.2.7. Het controle-volume.
+In de mechanica van de vaste stof bekijkt men een zekere hoeveelheid
+materie op verschillende ogenblikken.
+In figuur 12 worden 2 massa's A en B bekeken op twee verschillende
+ogenblikken.
+A1              A2
+r~
+i______i
+B:
+I"!
+\B0
+i____\ 2
+Fig.I2
+In de fluïdomechranica zou Lagrange precies hetzelfde doen.
+Hij zou een aantal vloeistofdeeltjes volgen in hun stroming.
+Figuur 12 toont dezelfde vloeistofdeeltjes op 2 verschillende ogen-
+blikken.
+1     2
+rr--r
+i >? i
+l_f_J
+i_____i
+Fig.I3.
+Fig.I4.
+Volgens de werkwijze van Euler beschouwen we een controle-volume.
+Het is een bepaald volume vast in de ruimte. In figuur 14 nemen we als
+controle-volume bv. het volume begrepen tussen de twee normaaldoor-
+sneden I en 2. Doorheen de controle-oppervlakken I en 2 kan vloei-
+stof in- of uitstromen.
+Het controle-volume kan gelijk welke vorm hebben maar verandert niet
+in grootte of vorm in functie van de tijd.
+Bij stroming zal zich steeds andere vloeistof in dit controle
+volume vinden.
+D.I.IO.
+1.2.8. Het_de5iet.
+Onder debiet verstaan we de hoeveelheid vloeistof die per tijdseen.-
+heid door een normaaldoorsnede stroomt.
+We spreken over:
+3
+- het_volume-debiet als de hoeveelheid vloeistof in m  wordt
+uitgedrukt
+Symbool : Q      _
+Dimensies [Qj= ----
+Q = Av
+A = oppervlakte
+v =. de normaalkomponente van de snelheid in de doorsnede
+- het_massadebiet als de hoeveelheid vloeistof in kg wordt uitge-
+drukt.
+Symbool : m
+Dimensies: [m] = kg/s.
+- het gewichtsdebiet als de hoeveelheid vloeistof in N wordt uit-
+gedrukt.
+Symbool : <5
+Dimensies   :   [<3j   =   N/s
+Ö  =   gm  =   gpp  =   gpAv
+D.I.II.
+1.2.9. De stroomsnelheid en de stroomversnelling.
+De stroomsnelheid is in alle punten van een dwarsdoorsnede niet
+overal even groot.
+Bestuderen we de stroming echter als één-dimensionaal dan verstaan
+we onder de stroomsnelheid de gemiddelde snelheid in die doorsnede.
+Q
+V = V  = —r—
+m    A
+Q = het debiet
+A = het oppervlak van de normaaldoorsnede.
+Bij een stationaire stroming zijn Q en v konstant over de tijd
+in een bepaalde doorsnede.
+Voor de versnelling verwijzen we naar de kinematica van de stoffe-
+lijke punten.
+De versnelling in een bepaald punt van een stroomlijn kan opge-
+splitst worden in twee komponenten:
+— tangentieel, rakend aan de stroomlijn
+dv    dv    ds       dv
+a,  =---------    = --:--- . ----- = V
+'t    dt     ds     dt       ds
+-^ normaal, loodrecht op de stroomlijn
+2
+a
+n   p . "*
+p = de kromtestraal van de stroomlijn.
+D.I.I2.
+1.3. DE CONTINUÏTEITSVERGELIJKING.
+DE REGEL VAN CASTELLI.
+In een controlevolume kan geen massa gecreëerd worden. De massa die
+er per tijdseenheid binnenstroomt moet er ook weer uitstromen.
+Indien er slechts 2 oppervlakken zijn waarlangs er massa kan passere
+dan volgt uit het voorgaande dat
+dm.
+dm.
+dt      dt
+of iTi  ss m_
+PlVin " P2A2V2n
+vT  en v~. stelt de qemiddelde snelheidskomponente voor lood-
+In     2n                      ^
+recht op het instroom-, respektievelijk het uitstroomvlak.
+In de meeste gevallen zullen we deze oppervlakken zo kiezen dat ze
+loodrecht staan op de werkelijke gemiddelde snelheid v , respektie-
+velijk v  (fig.I5), zodat:
+PIAIVI ■ P2A2V2
+-"•»
+~v2
+Fig.15.
+Beschouwen   we  nu   in  het  controlevolume  alle  opeenvolgende  door-
+stromingsoppervlakken   loodrecht  op  de   stroming,   dan  kunnen  we  het
+bovenstaande  veralgemenen   tot  de  regel   van  Castellit
+m  ss
+dm
+dt
+=  pAv  =  kte
+doorheen   opeenvolgende  doorstromingsoppervlakken     stroomt  vloei'
+stof   aan   een  konstant  massadebiet.
+D.I.I3.
+Andere  vormen   van   de  continuïteitsvergelijking
+I.   mg   =   mg
+Het  gewichtsdebiet  is   konstant.
+2.   Indien   p   =p     =  konstant
+VIAI   =   V2A2
+Het   volumedebiet  is   konstant.
+of
+Bij een stationaire stroming zijn de snelheden in de normaal-
+doorsnede omgekeerd evenredig met de oppervlakten van deze
+doorsneden.
+Speciaal geval: zijn de normaaldoorsneden cirkelvormig met
+respectievelijk diameters d  en d  dan geldt:.
+.2
+—       v_
+%d'
+lid'
+De  snelheden   zijn  dus   omgekeerd   evenredig  met  het  kwadraat   van
+de  diameters.
+.D.I.I4.
+1.4. TOEPASSINGEN.
+I. Door de convergent van fig. 16 stroomt 3kN water per seconde
+bij een temperatuur van 20°C.
+Bepaal: I. het volumedebiet
+2. de snelheid van het water voor en na de convergent.
+Oplossing.
+I. Ö = pgAv
+Q = Av
+Dus Q =
+P9
+p = 998,2 kg/m  (pag.E.13)
+300mm
+200 mm
+Q =
+3.10'
+998,2.9,81
+= 0,306m /s
+Fig.16.
+2. v  =
+Q
+A.
+o 0,306
+7ü (0,3)
+= 4,33 m/s
+V2 =
+Q
+_  0,306.4
+te (0,2)
+= 9,74 m/s
+ofwel v  = v  (
+)  = 4,33 (
+300
+200
+)  = 9,74 m/s
+2. Een leiding met een diameter van 300mm splitst in twee leidingen
+met respectievelijke diameter van 150 mm en 200 mm. (fig.17)
+Q  = 0,3m /s
+v  = 2,5 m/s
+Bepaal Q  en v
+Oplossing^
+QI ■ VQ3
+Qj. =0,3 m3/s
+J
+300
+^3=2,5%
+Q.
+A v  .  *<0.2>
+3 3       4
+. 2,5=0,0785 m /s
+0,3-0,0785 = 0,2215 m /s
+CU
+v^, =
+A,
+0,2215.4     xo c-  ,
+•—z-------r— = 12,53 m/s.
+7. (0,15)
+Fig.17
+D.I.I5.
+3. In de dwarsdoorsnede van een cilindrische leiding met straal R
+heeft het snelheidsprofiel een parabolische vorm.
+Bereken de gemiddelde snelheid v  in functie van de maximale
+m
+snelheid vc in het centrum van de leiding (fig.I8)
+Oplossing.
+Ie methode.
+I
+v  =
+m
+A
+A vdA
+J A
+V = V   (I-
+c
+dA = 27ir dr
+2
+R
+A
+m
+v
+m
+TCR
+I
+R                     2
+TCR'
+I
+TCR'
+0
+v  (tïR -
+c
+R
+2tc
+) 2 Ter dr
+.4
+R
+)
+Fig.18.
+R'
+v  = v
+m    c
+TCR
+TCR'
+Vm    2^
+2e methode.
+I
+v  =
+m
+A
+ƒ V dA
+De integraal ƒ v dA is niets anders dan de inhoud van de
+A
+snelheidsparaboloïde.
+De inhoud van een parabololde is gelijk aan de helft van de
+inhoud van de omschreven cilinder.
+ƒ v dA =
+A
+Av
+of V
+m

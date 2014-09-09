@@ -1,0 +1,1808 @@
+[D.4.1.]
+
+# HOOFDSTUK 4. Stroming en weerstanden  in enkelvoudige   leidingen
+
+## 1. Probleemstelling
+
+Over het algemeen bestaat een installatie uit een aantal machines
+(pompen, kompressoren ...) waarin aan het fluïdum energie wordt
+toegevoegd en een aantal machines (turbines ...) waarin energie
+aan' het fluïdum wordt onttrokken.
+De machines zijn verbonden via leidingen waardoor het fluïdum
+stroomt. De leidingen bestaan uit rechte stukken, bochten, ver-
+nauwers ...
+De stroming van het fluïdum doorheen zulke installatie kan be-
+schreven worden met behulp van de veralgemeende wet van
+Bernoulli.
+2                                                             2
+PI     VI    .  ..  ..  ..    P2      V2
++ —-— + hT+H -H -H = ---- + --~--- +h^
+pg     2g     I  t  a  w   pg      2g     c
+p ,p  = de druk in doorsnede I respectievelijk 2.
+v ,v„ = de gemiddelde snelheid van het fluïdum in beide
+12      ^
+doorsneden,
+h ,h  = de ligging van de doorsneden.
+H   komt overeen met de totale hoeveelheid energie die via
+machines, opgesteld tussen' beide doorsneden, aan het
+fluïdum wordt toegevoegd.
+H   komt overeen met de totale hoeveelheid energie die door
+a   .
+de machines tussen doorsnede I en 2 wordt afgevoerd.
+H   komt overeen met de totale hoeveelheid energie die ver-
+w                                                                                                     '
+loren gaat in de leiding en in de machines.
+De wet van 3ernoulli kan aangevuld worden met de kontinuïteitsver-
+gelijking.
+Q=Av = konstant.
+D.4.2.
+Om een installatie te dimensioneren of na te rekenen moet elk van
+deze termen naar behoren kunnen bepaald worden.
+- De druk en het debiet vormen meestal de dimensioneringscriteria.
+- H  en H  zijn bepaald door de toepassing of moeten bepaald
+a     t
+worden.
+- Moeilijker is het de totale weerstandshoogte H  te bepalen.
+Praktische problemen herleiden zich dan ook in grote mate 'tot
+een zo exact mogelijk bepalen van allerlei stromingsweerstanden
+in de installatie. In dit hoofdstuk wijden we dan ook aandacht
+aan de theorieën die ten grondslag liggen van deze berekeningen.
+We behandelen afzonderlijk de weerstanden van rechte cilin-
+drische leidingen (paragraaf 3), rechte leidingen van andere
+vorm (paragraaf 4) en plaatselijke weerstanden (bochten, kleppen..)
+(hoofdstuk 5)
+De energieverliezen zijn echter niet alleen afhankelijk van de
+aard en de vorm van de leidingen maar ook van de aard van de
+stroming. Daarom wijden we eerst een afzonderlijke paragraaf aan
+de begrippen "laminaire en turbulente stroming" en hoe deze ver-
+band houden met de optredende stromingsweerstanden,
+(paragraaf 2)
+D.4.3.
+2. Laminaire en turbulente stroming.
+2.1.  Definities.
+- Is de stroomsnelheid relatief laag dan bewegen de vloeistof-
+deeltjes in evenwijdige lagen zonder zich te vermengen.
+Deze stroming noemt men laminair. Zou men de vloeistof door-
+heen een glazen buis laten stromen en brengt men hierin een
+kleurstof, dan zou men de kleurstof een dunne rechte draad
+zien trekken in de laminaire stroming.
+- Is de stroomsnelheid relatief hoog dan bewegen de vloeistof-
+deeltjes onregelmatig door elkaar. Men noemt de stroming
+turbulent. De kleurstof zal een onregelmatige gebroken' lijn
+vormen.
+2.2. Het_getal van Reynolds.
+Of een stroming laminair is of turbulent hangt niet alleen af
+- van de stroomsnelheid, maar ook
+- van de aard van de vloeistof, meer bepaald van de viscosi-
+teit.
+- van de diameter van de leiding.
+Hoe lager de snelheid, hoe regelmatiger de stroming.
+Hoe groter de viscositeit (dik vloeibaar), hoe regelmatiger
+de strorqing. (de weerstand tegen wervelingen is groter).
+Hoe kleiner de diameter, hoe regelmatiger de stroming. De
+vloeistofdeeltjes, dicht bij de buiswand, zijn immers veel
+meer beperkt in hun zijdelingse uitwijking.
+Deze drie invloedsf aktoren worden verenigd in het getal van
+Reynolds.
+Met behulp van dit dimensieloos getal kon Reynolds voor alle
+vloeistoffen op een éénvormige manier de stroomtoestand be-
+palen.
+R < 2000. De stroming is zeker laminair.
+e                                           ^
+R  > 3000. De stroming is zeker turbulent.
+2000<R < 3000. Men heeft de overgang van laminaire naar
+e
+turbulente stroming.
+D.4.4.
+Proefondervindelijk heeft men dan bepaald dat voor de overgrote
+meerderheid van de vloeistoffen en voor een stroming in relatief
+gladde rechte cilindrische leidingen, deze overgang plaatsgrijpt
+bij een waarde van ongeveer 2320.
+Deze waarde noemt men het kritische getal van Reynolds.
+R . =2320
+ekr
+Met deze waarde komt ook een kritische snelheid overeen
+v
+kr
+Rekr V                       v-
+-—E---- =2320 —7
+Bereikt in een bepaalde cilindrische leiding (diameter d) een be-
+paalde vloeistof (viscositeit v* ) de kritische snelheid (v, ) dan
+^                                                                                                                             kr
+gaat de stroming van de laminaire stroomtoestand over naar de tur-
+bulente. In feite gebeurt deze overgang niet plots exact bij deze
+waarde van v.  maar erqens in de buurt van deze waarde en min of.
+kr        ^
+meer geleidelijk.
+Opmerkingen:
+1. Om te evalueren of een stroming laminair is of turbulent zal men:
+- ofwel het -getal van Reynolds berekenen
+- ofwel de kritische snelheid.
+v< v, . De stroming is laminair.
+vD>v, . De stroming is turbulent,
+kr.                           ^
+2. Over de exacte waarde van het kritisch getal van Reynolds be-
+staat onenigheid. Dit heeft natuurlijk te maken met het feit dat
+de overgang van laminaire naar turbulente stroming niet zo plots
+gebeurt en dus niet zo duidelijk bepaald is, zodat de kritische
+waarde ook niet exact experimenteel vast te leggen is. Bovendien
+wordt hetzelfde kritische getal gebruikt voor alle cilindrische
+leidingen onafhankelijk van de ruwheid van het materiaal. Het
+kritisch getal van Reynolds moet dus bekeken worden als een ge-
+middelde waarde bekomen uit experimenten in al deze gevallen.
+D.4.5.
+3.  Het 9e-al_Xr.Q_^XQE-'-Ëri R  = --j— ^s en]<:el geldig voor rechte
+cilindrische leidingen, die volledig gevuld zijn met vloeistof.
+Ook voor andere stromingen, bv. langs een vlakke plaat, kunnen
+op gelijkaardige wijze getallen van Reynolds bepaald worden.
+4.  Het kritische getal van Reynolds, R ,  = 2320, is geldig voor
+alle vloeistoffen maar principieel ook alleen voor rechte
+volledig gevulde cilindrische leidingen.
+Voor andere stromingen kan ook een kritisch getal van Reynolds
+worden bepaald.
+bv. voor een stroming tussen evenwijdige platen.
+R .   = 1000
+ekr
+5. Omdat turbulente stromingen de grootste weerstand geven kan men
+veilig spelen door R    gelijk te stellen aan 2000.
+eic r
+6.  Het aanwenden van dimengieloze karakteristieke getallen is alge-
+meen gebruikelijk in de stromingsleer bv. gebruikt men ook het
+Machgetal dat aangeeft of de stroming van een gas subsonisch is,
+supersonisch of hypersonisch.
+7.  De grafiek op de volgende pagina geeft de kritische snelheid in
+functie van de diameter en de viscositeit.
+D.4.6.
+KRI TISCHE      SNELHEID
+V.   (TH )
+kr    s
+20
+30    40   50
+100
+300   400 500
+d(mm)
+1000
+/
+T
+D.4.7.
+2.3. Voo£5££iS!c:Ql
+Een waterleiding heeft een diameter van 4 cm.
+Bepaal de kritische snelheid. V" =1 cSt bij 20CC.
+Oplossing.
+23.20 V-     2320.10~6
+v.
+kr      d                    0,04
+=0,0575 m/s
+De kritische snelheid is dus zeer gering, zodat mag aange-
+nomen worden dat de stroming van water in leidingen bijna
+steeds turbulent is.
+2. Een olieleiding met een diameter.van 100 mm.
+i,                              Hierdoor stroomt olie met een viscositeit van 20°E en een
+3
+debiet van 30m /h.
+Is de. stroming laminair of turbulent?
+Oplossing.
+Tabel pagina E 29.
+20°E=I50cSt = I50.IO"6m2/s.
+Q     4Q
+V    -   -	A      "	A2 Ttd	
+R      = . e	vd 9	4Qd                     4Q	
+		-   s   ,2     "     tü v d 71 v d	
+R     = e	4	30                       I	I
+		3600     150. KT6	0,1
+=	707,	4	
+Re is kleiner dan 2320
+De stroming is dus laminair.
+D.4.8.
+3. Weerstand in rechte volledig gevulde_cilindrische leidingen.
+3.1. Wet van Darcy.
+Proefondervindelijk werd door Darcy bepaald dat de weerstandshoogte
+H  in een rechte cilindrische leiding
+w
+- evenredig is met
+- de snelheidshoogte       (3)
+l- het bevochtigde oppervlak  (I)
+- omgekeerd evenredig met het oppervlak van de natte doorsnede
+(2)
+- afhankelijk is van
+- de toestand van de buiswand
+- de. viscositeit van de vloeistof
+l- de aard van de stroming.
+Samengevat:
+H  = ©itdl
+w
+V
+2
+(I)  (2)
+2g
+(3)
+H  = 4©
+w
+v
+2g
+Met 4© = X
+Hierin is X  de weerstandscoëfficiënt van de leiding.
+Deze is dus afhankelijk van
+- de toestand van de buiswand, uitgedrukt bij middel van de
+absolute ruwheid k, of de relatieve ruwheid k/d.
+- de viscositeit van de vloeistof.
+- de aard van de stroming.
+Deze laatste twee faktoren zitten vervat in het getal van Reynolds
+zodat algemeen kan gesteld worden dat:
+k
+\=f(Re,
+)
+•-Re: karakteriseert de stroming
+.-k/d: aard van de wand.
+Deze functie is niet .analytisch af te leiden en steunt op empi-
+rische gegevens.
+Voor het bepalen van de weerstandscoëfficiënt X  maakt men onder-
+scheid tussen
+- laminaire stroming
+- turbulente stroming
+- hydraulische gladde wand
+(
+- hydraulische ruwe wand.
+D.4.9.
+3.2. 2f_weerstand in een leiding bij laminaire stroming.
+Bij een laminaire stroming in een cilindervormige leiding kan de
+weerstand volledig langs theoretische weg berekend worden,
+a. 2£t_snelheids]D£of iel_en 22 ^22£ÉËeIË2 snelheid bij een lami-
+. naire stroming.
+Met behulp van de viscositeitswet van Newton kunnen we nu, voor
+het geval van laminaire stroming, het snelheidsprofiel in een
+doorsnede van een cilindrische leiding bepalen.
+Men konstateert dat de snelheid aan de wanden nul is en maximaal
+in het centrum van de leiding.
+Bekijken we nu de krachten die werkzaam zijn op een cilinder
+fluïdumj met straal, r, lengte 1 en concen tri.sch met de aslijn
+van de leiding. (fig.I)
+-—- — -^ — ^-—*-^~----^'-
+l
+.cv.
+'P2
+Fig.I
+V s 'ssssssss>*/sssj s / s s/s
+2 '
+Fi = Pi Wr'
+F2   =   P2A2 = P27ir
+F     =   I   2tc   r   1         -—
+Bij   evenwicht   (konstante   snelheid)
+FT-F^-F_    =   0
+1^3
+2
+(p_-Pp).7cr     = T 27crl
+T =
+PI-p2
+21
+De schuifspanning verloopt dus lineair in.functie van de
+straal.(fig.2)
+D.4.I0.
+De viscositeitswet van Newton:
+I = - 7|
+dv
+dr
+Het   minteken   wijst   op   de   snelheidsafname   bij   toename  van   de   straal,
+zodat
+n    — n
+dv
+PI"P2
+av=-
+21
+pI-p2
+2111
+r=-Tl
+dr
+v   dv - -ƒ -
+r
+rdr
+PI-p2
+27] 1
+rdr
+v  =
+Pl"P2          2     2
+1      * ■   (R   -r   )
+47] 1
+v=
+PI~P2        2
+47] 1
+JT    (I-
+R'
+Dit   is   de  vergelijking   van   een   parabool   (fig.2)
+r" r r * /" *• r f *£ «• «• <•"
+■^   -» **   ■» --
+V/V
+V/V > / ; s / s / s >V j s s > s / * > t f
+■«•■*->■»' —
+V/W
+Fig.2
+/»>'/'    /   /   / y / <*
+Voor een laminaire stroming is dus het snelheidsprofiel in een
+doorsnede een paraboloïde. De snelheid is maximaal in het cen-
+trum.
+PI-p2        2
+R
+max             47] 1
+De  gemiddelde   snelheid   in   de  doorsnede  is:
+v
+v     =
+m
+max
+Het  debiet   bedraagt:
+2
+Q   =   v   TXR
+m
+D.4.II.
+De weerstand H  en de weerstandscoëfficiënt X   bij een laminaire
+w
+stroming.
+We noemen Ap= p -p„, de drukval die, omwille van de wrijving in
+de stromende vloeistof ontstaat in de stroming doorheen een .
+leidingsgedeelte met lengte 1. Met deze drukval komt een energie-
+hoogte overeen, die we de weerstandshoogte over het leidingsge-
+deelte 1 noemen:
+AP
+H
+Pl~p2
+w    pg       pg
+Voor een laminaire stroming hebben we net gevonden dat:
+v
+v =
+m
+max
+l
+Pl"P2
+1
+R
+2
+87]
+We kunnen dus de drukval en ook de weerstandshooqte H  uitdruk
+^    w
+ken in functie van de gemiddelde snelheid:
+PI"P2=
+8 7] v 1
+1 m
+327] v 1
+1 m
+PT-P
+H
+R'
+2
+w
+327] v 1
+1 m
+gd2
+met: V =
+"H
+.V
+v
+H = 32.2.
+w
+m
+vd   d   2g
+Denken we eraan dat de snelheid die we in de vergelijking van
+Bernoulli, in de snelheidshoogte en in het getal van Reynolds
+hebben gebruikt ook steeds de gemiddelde snelheid van de vloei-
+stof was in een leidingsdoorsnede.
+met Re =
+v d
+m
+is H
+64
+m
+V   ""■" 'V   Re    d    2g
+Vergelijken we deze uitdrukking met de hoger besproken wet van
+Darcy, dan hebben we dus volledig langs theoretische weg de
+weerstandscoëfficiënt X  kunnen berekenen:
+We bemerken dus dat  bij een laminaire stroming de weerstands-
+coëfficiënt enkel afhankelijk is van het getal van Reynolds en
+niet van de ruwheidsfaktor k.
+Het verloop van X  in functie van Re is voorgesteld op de volgende
+bladzi jde.
+D.4.I2.
+WAARDE       VA
+N    A
+S/J      LA Ml NAi RE       STROMING
+\ =
+64
+\
+0t9
+08
+07
+06
+i
+05
+Of
+0.3
+0.2
+0,1
+0,09
+0,08
+0,07
+0,06
+0,0 5
+0.04
+0.03
+0,02 l
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+	\												
+													
+													
+													
+													
+													
+						^							
+							X						
+							^						
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													V
+													\
+													
+													
+		I											
+8090100
+200
+300     400   500
+1000
+2000
+D.4.I3.
+3.3. 5e_weËEbcr!!2^ in_een leiding bij turbulente stroming.
+Zowel het snelheidsprofiel als de weerstandscoëfficiënt kunnen nu
+niet meer zuiver theoretisch berekend worden. Wel zal men vanuit
+de theoretische vaststellingen bij een larninaire stroming vertrek-
+ken en deze langs empirische weg aanpassen aan de opgemeten re-
+aliteit bij de turbulente stroming.
+a. Stroomsnel.heid bij een turbulente stroming.
+Het snelheidsprofiel langs theoretische weg bepalen voor een
+turbulente stroming is zeer omslachtig en berust trouwens steeds
+op enkele empirische benaderingen. We vermelden daarom slechts
+enkele resultaten.
+Extrapolerend vanuit de berekeningsresultaten voor de larninaire
+stroming, waar als snelheidsprofiel een parabool werd gevonden
+van tweede orde, benadert met de meetgegevens voor een turbu-
+lente stroming met een parabool van hogere orde.
+5
+- Prandtl vond voor stromingen met R <10
+e
+1/7
+v = v    (I- -§- )
+max      R
+- Nikuradse vond voor stromingen met R  = 3,24.10
+I/I2
+v=v    (I- -~ )
+max      R
+Deze vergelijkingen worden kwalitatief voorgesteld in fig.3.
+777
+%r vm
+Fig.3
+m
+D.4.I4.
+Men kan stellen dat naarmate de stroming van een bepaalde vloei-
+stof in een bepaalde leiding turbulenter.wordt (R  stijgt) de ge-
+middelde snelheid v toeneemt en de snelheid over de qanse door-
+■■ m
+snede gelijkmatiger wordt.
+Uit het snelheidsprofiel kan men ook afleiden dat in een bepaald
+grenslaagje de snelheid lager blijft dan de kritische snelheid
+zodat de stroming in dat laagje laminair blijft. Men noemt dit
+het grenslaagje van Prandtl. Het laagje heeft een dikte 6; het
+wordt smaller naarmate de snelheid, en dus ook het getal van
+Reynolds, toeneemt. Buiten dit grenslaagje is de snelheid hoger
+dan de kritische snelheid en verloopt de stroming turbulent.
+Kwalitatief kan het snelheidsprofiel als volgt verklaard worden:
+bij een hoge snelheid (groot getal van Reynolds) gaat de tur-
+bulente beweging zich instellen over het grootste gedeelte van
+de doorsnede. In het middengedeelte van de buisleiding wisselen
+de vloeistofdeeltjes gemakkelijk van plaats zodat daar de snel-
+heden veel gelijkmatiger verdeeld worden dan in het geval van
+de laminaire stroming. Door de aanwezigheid van de wand wordt
+de vrijheid van zijdelingse uitwijking van een vloeistofdeeltje
+sterk gehinderd. Er vormt zich dus een grenslaagje waar een zeer
+belangrijkeA snelheidsvariatie plaats vindt.
+D.4.I5.
+b. Wee£££andscoëfficiënt X  bij een turbulente_stroming.
+Wij grijpen, zoals bij de laminaire stroming, eveneens terug naar
+het snelheidsprofiel (fig.3). We maakten hier het onderscheid
+tussen het grenslaagje van Prandtl (dikte 6), waar de stroming
+iaminair verloopt en de rest van de doorsnede waar de stroming
+turbulent is. Het is dan ook logisch dat de weerstand tegen
+stroming eveneens verband houdt met dit grenslaagje. Men maakt
+hierbij onderscheid tussen:
+- een hydraulisch  gladde wand (fig.4)
+:£.  Fig.4
+HYDRAULISCH    GLAD
+wanneer  de  grootte  van  de  ruwheid   van  de wand   (k)   veel   kleiner  is
+dan   de  dikte  van   het   grenslaagje   (6)
+-  een  hydraulisch   ruwe wand   (fig.5)
+Fig.5.
+HYDRAULISCH  RUW
+wanneer de grootte van de ruwheid van de wand (k) veel groter is
+dan de dikte 5 van het grenslaagje. De oneffenheden van de wand
+steken dan ver buiten het grenslaagje uit en komen dus in het
+turbulente gedeelte. De weerstand wordt dan voornamelijk veroor-
+zaakt door stootwerking tegen de uitspringende gedeelten van de
+wand.
+Kriterium R
+>560
+D.4.I6
+- een technisch ruwe wand (fig.6)
+Fig.6
+TECHNISCH  RUW
+wanneer de oneffenheden van de wand van de orde van grootte zijn
+van de dikte van de grenslaag.
+Kriterium 23 < R
+e  d
+< 560
+In de tabel worden een aantal ruwheden k van gebruikelijke materi
+alen gegeven.
+Absolute ruwheid k voor enkele materialen		k (mm)
+Glas, lood, koper messing		0-0,0015
+PVC ,polye.theen		0,01^0,15
+Stalen buis (getrokken) ^	nieuw na gebruik gereinigd matig verroest zwaar verroest	0,02-0,1 •  0,15-0,20 tot 0,40 tot 3,0
+Stalen buis (gelast)	nieuw nieuw (gecoat) gebruikt, gereinigd licht verroest matig tot zwaar verroest	0,05-0,1 0,05 0,10-0,20 0,20-0,40 1,0-4,0
+Betonnen buis	glad ruw	0,3-0,8 1,2-3,0
+Gietijzeren buis	nieuw nieuw (gecoat) matig verroest sterk verroest	0,25-1,0 0,10-0,15 1,0-1,5 1,5-4,0
+Asbest-cement buis	Eternit	0,05-0,1
+D.4.I7-.
+Om X   te bepalen in functie van deze factoren heeft men zijn toe-
+vlucht gezocht tot.experimenten. De voornaamste onderzoekingen op
+dit gebied werden verricht door Prandtl-Nikuradse-von Karman en
+door Colebrook.
+I. P£a£d£l-Nid<ura^se-von Karman.
+Door Nikuradse werden een massaal aantal proeven uitgevoerd waar-
+bij de ruwheid van de buiswand kunstmatig werd verwezenlijkt door
+zandkorrels. Op die manier konden systematisch verschillende re-
+latieve ruwheden (k/d) onder kontrole worden verwezenlijkt. Deze
+hoeveelheid experimentele gegevens werden dan door von Karman
+wiskundig benaderd met een verschillende functie voor de hydrau-
+lisch gladde en de hydraulisch ruwe wand. Dit is ook logisch,
+vermits in die twee gebieden ook andere fenomenen de weerstand
+bepalen.
+- Voor de hydraulisch gladde wand.
+----- = 2 log (R  vT ) -0,8
+VT                         e
+- Voor een hydraulisch ruwe wand.
+—-— = 2 log ~r— + 1,14
+vtT        k.
+We merken hierbij op dat in het geval van de hydraulisch gladde
+wand X  opnieuw onafhankelijk is van de ruwheid k van de wand.
+Dit is logisch vermits alle ruwheden binnen' het laminair stro-
+mingsgebied blijven. De ruwheden spelen dan geen rol omdat de
+weerstand bij een laminaire stroming onafhankelijk is van k.
+De weerstand tegen stroming wordt dan in hoofdzaak bepaald door
+inwendige wrijving in de vloeistof, deels in het gebied met
+laminaire stroming, deels in het turbulente gebied.
+Voor een hydraulisch ruwe wand daarentegen is X  wel functie van
+k/d, echter niet meer van het getal van Reynolds. De weerstand
+van de' stroming wordt hier in hoofdzaak bepaald door de ruwheden
+van de wand.
+Voor het tussenliggende gebied, de technisch ruwe wand, waar de
+verschillende fenomenen zich niet zo duidelijk onderscheiden,
+werd geen goede benaderende analytische functie gevonden. Men
+heeft dit dan opgelost op de volgende manier.
+D.4.I8.
+De twee hoger aangegeven betrekkingen werden uitgezet in een
+diagram. (pag.D.4.I9) Dit diagram geeft X  in functie van R  en k/d.
+Het gebied tussen hydraulisch glad en hydraulisch ruw werd aange-
+vuld met vloeiende kurven die deze beide andere gebieden raak-
+lijnig verbinden.
+Op het diagram van Prandtl-Nikuradse onderscheiden we dan ook
+vier gebieden
+- de laminaire stroming:lineair
+- de hydraulisch gladde wand
+- de technisch ruwe wand.
+-.de hydraulisch ruwe wand
+2. c°l£"£22_
+Door Colebrook wordt geen onderscheid meer gemaakt tussen de
+verschillende gebieden. Alle experimentele gegevens werden be-
+naderd door één analytische functie geldig voor het ganse gebied.
+I      or   ,  k/d       2,51   ,
+-—- = -21og (  3 7   + ----2—" )
+v/T                           J'/L           r v/T
+e
+Ook deze functie werd uitgezet in een diagram, ('pag . D. 4. 20)
+- Voor een hydraulisch gladde wand.
+De oneffenheden zitten in het grenslaagje en worden verwaarloosd.
+: ,           2,51     , .    Re^~
+,__ = -2 log ---' __ = 2 log     —
+VT                     r v/TT       2,dI
+e
+= 2 log R V/V-2 log 2,51
+= 2 log R V/\ - 0,8 (zie Prandtl)
+^  e      '
+- Voor een hydraulisch ruwe wand.
+R  speelt geen rol; enkel de relatieve ruwheden.
+I      0 ,    k/d
+----- = -2 log
+v/T                           3'71
+= - 2 log k/d + 2 log 3,71
+= 2 log d/k + 1,138 (zie Prandtl)
+o
+CD
+O
+O
+JS  CD  .O _CD    CD
+o   o    C5 O    cj
+O   O    <=» CD    0
+O   O    O —    Kj
+-*   fo    «^
+o e»
+UI
+*CD
+CD
+o	"ei	„CD CD Nd	Cd "o	O "cd	„CD	CD	Nd
+UI							
+Co CO
+•6I'l7-G
+D.4.20.
+
+o
+I
+s
+1
+—I
+O.
+		:::			_:           . jlv.	t-=f	
+		.....	..		"""cxft-ti	rA	
+					> -Cs -Cs -ol tó\ V s o^.q cbi^	,   7	
+						r   /	
+			_\	1          er 1 *"*~   e*;		< /	
+			j	%   $		>7	
+			J	■— .  ii     T	S      CS         y      <bs\	ƒ	
+			n	ii	"7,r "	A	
+			J	^	" 7 1 ÏJ		
+			i	___l-----------------------1------------1-----------------	--/\' V f		
+			i		ji r    ,__£		
+		i			/   \    1   /■/		
+Dr}          c Cs"*       c ii		-   - -W **»     '     '      Cs 1	13    ~è^.	en     <N	-,-     V4 f   .		
+	M			Cs       Csi	■\     \   t /		
+	S	II	fe>|     cT	-o"Jlr/	-ïtpr		
+C^		j=4		i f ...	-±_ -l-W		
+«-cf		'S		4—4-	]   Af		
+		1—_E-----		^    2p-ï	zz-zA/%cz-----		
+		1		<        I	4X7*9      31		
+		'"  ''".....		t'	\   Af		
+			i	.±/\    \	■ï&t-u-		
+				&t-X--	M		
+			,4	/ \ \	)wn~   -l		
+		. ... ___ --------------------	-4^	h \-y	É=t		1 ■
+		a,__________._____	Jö	slÊsfe			
+			,_TS5t	4    4aX£ ..			
+			A	\           /			
+			$£ t -				
+		......					
+	|\	i-     4.					
+i	1 \ l\		\				
+		^Jr     ......\		-----J-.--------1----------			
+	x    1						
+	\ '      s						
+|	s*      v						
+1 y	y        ^v		-^-U^i^-				
+							
+							
+es
+Cs
+oo   £>
+^     1
+xo    t[
+xj-
+<s-|
+«XI
+tx.
+Cs
+oT~
+«CS
+fx.
+XO
+LT|
+xt
+Oo
+«Ni
+xs
+On
+oo
+Cx.
+xo
+«N
+LO
+Cs
+JIX
+On
+oo
+tx,
+VO
+uo
+<n
+«N
+x*
+Cs
+Ox~^
+00
+tx.
+xo
+uo
+OO
+«XI
+o,
+Cs
+y<
+<X|
+Cs"
+On    CS    ^x      XO       «O         xt
+**-   Cs   Cs    Cs     Cs      Cs_    ' Cs
+Cs" <^T  Cs"   Cs"     Cs"     Cs"        Cs"
+"0
+Cs
+Cs"
+tX|
+Cs
+Cs"
+Cs
+Cs
+uo
+Cs
+Cs
+Cs"
+D.4.2I.
+Opmerkingen.
+1.  In de Amerikaanse literatuur spreekt men over het Moody-diagram.
+Dit werd opgesteld op basis van de formule van Colebrook.
+Met Moody-diagram werd gepubliceerd an aangenomen door A.S.M.E.
+( American Society of Mechanical Engineers).
+2. A.S.M.E. beveelt twee types aan van het Moody-diagram.
+Type I: A=f (k/d, R ) cfr Colebrook.(pag. D.4.22)
+Dit type is geschikt voor gebruik wanneer het gebiet Q
+gekend is.
+Type 2: \=f (f/d,R  V/T") (pag.D.4.23)
+Dit type wordt gebruikt als Q te bepalen is.
+3.Vergelijking tussen de formules van Prandtl-Nikuradse en van
+Colebrook.
+- hydraulisch glad:de invloed van k/d is klein. De eerste term in
+de formule van Colebrook is te verwaarlozen waardoor deze over-
+gaat in de overeenkomstige .formule van Prandtl-Nikuradse.
+De resultaten van beide formules komen goed overeen.
+- hydraulisch ruw: de invloed van R  wordt nu klein zodat de
+e
+tweede term van de formule van Colebrook verwaarloosbaar wordt.
+Opnieuw verschijnt de overeenkomstige formule van Prandtl-
+Nikuradse. De resultaten van beide formules komen terug goed
+overeen.
+- technisch ruwe wand. De formule van Colebrook geeft iets betere
+resultaten.
+4.  Dat A onafhankelijk wordt van het getal van Reynolfs bij stij-
+gende waarden van R  blijkt ook uit de grafieken waarbij de
+kurven asymtotisch horizontaal worden.
+5. Andere formules voor het bepalen van A.
+Voorgaande formules en diagrammas zijn algemeen toepasbaar voor
+cilindrische leidingen. Soms kan gebruik gemaakt worden van een-
+voudiger formules, echter met een beperkt toepassingsgebied.
+Voorbeeld: de formules van Blasius.
+A=0,3I6 R "0'^5   VOor  f -R < IO5 ■
+7     e                                 J   e
+l - een hydraulisch gladde wand.
+Op het diagram pagina D.4.24 is de overeenkomst met de formule
+van Prandtl goed merkbaar in het aangegeven toepassingsgebied.
+D.4.22
+o> co CS * Co
+*-. o ca o co
+o o" co* co" o'
+Q
+o
+o
+5
+*-_ °> CO CS <©  *©
+oo.o o P, P
+o co" cT p p
+D.4.23.
+0)Q) N (o
+*..CCj <D CD
+CD CD" O"   CD"    cd"
+CD
+cd"
+§•
+'^            CD                10
+<v>           <N              ^                  „^
+cd      cd,        cd             cd
+cd"    cd"        cd"           cd"
+Sj
+*-^
+CD
+CD"
+CD
+CD"
+N
+Dw
+Q
+O
+O
+°O.C5    o      CD        CD
+CD  CD" CD*     CD"      CD
+CD,
+CD
+<5      VI         c
+CD        <N         "N
+<=>"    S-      ^-
+O          CD
+CD
+CD"
+CD
+O"
+§-
+D.4.24.
+Vergelijking  tussen de formules van Blasius en Prandtl-Nikuradze
+von Karman voor een hydraulisch   gladde wand.
+X
+1   0.07
+0,06
+0,05
+0,OU
+0,03
+0,02
+0,01
+0,005
+																		
+K																		
+\       V		s																
+		^	V ■^1		s.				------------									
+							»											•
+\inair				turb	ulem	.			*>		«0	X	^ ^>.	^	i			
+				Re>	3000													
+				-\									^J	%v	S V	^ n	s	'V.
+103    Z    3   C 5        70*     2    3   4 5       705      2    3   i 5        70ö      2     3  4  5
+Re
+D.4.25.
+6. De diagramma's van Nikuradse, Colebrook en Moody stellen allen
+op een grafische manier de relatie voor die bestaat tussen X.   R ,
+e
+k/d. De diagramma's werden vooral opgesteld en gebruikt om de
+omslachtige berekeningen in de ingewikkelde formules te omzeilen,
+een manier van doen die algemeen verspreid was toen men niet be-
+schikte over snelle rekenapparatuur. De diagramma's hebben nu
+echter meer een illustratieve waarde dan een reken-waarde. Men
+kan immers met een eenvoudige programmeerbare zakrekenmachine op
+een iteratieve wijze X   snel berekenen uit de formule van
+Colebrook:
+64
+X   =
+i
+R
+indien R < 2100
+= - 2 log (
+k/d
+2,51
+R vT~
+e
+)
+Vx~                      '    3'71
+Als startwaarde voor de iteratie neemt men meestal \=0,05.
+In de meeste gevallen vindt men vrij snel, in enkele iteratie-
+stappen de juiste waarde ,\. Soms treedt echter divergentie op.
+Daarom hebben verschillende auteurs getracht de formule van
+Colebrook (gebaseerd op metingen) te benaderen door een andere
+wiskundige formule die dit divergentieprobleem niet vertoont, en.
+die toelaat t\ rechtstreeks, dus zonder iteratie te berekenen uit
+k/d en R'.
+e
+Een goede benadering werd gevonden door Zigrang en Sylvester:
+2  i -2
+X  =
+A
+(B-A)
+C-23+A
+met A = -2 log (
+. B = -2 log (
+C = -2 log (
+k/d
+3,71
+k/d
+3,71
+k/d
+12
+,R
+2,51 A
+R
+3,71
+2,51. 3
+R
+D.4.26.
+9
+Deze formules laten toe om voor waardes 2100 <C R < 10 X   te beoalen
+e
+binnen een afwijking kleiner dan 0,2°/o in vergelijking met de
+waarde X  gevonden uit de formule van Colebrook. Vergeten we echter
+niet dat de formule van Colebrook ook niet exact de realiteit weer-
+geeft, vermits het een formule is die gebaseerd is op extrapolaties
+en getoetst aan empirische gegevens. Een benadering tot op 0,2°/o
+zal dan in praktijk ruimschoots volstaan.
+De formules van Zigrang en Sylvester kunnen eenvoudig op een zak-
+rekenmachine geprogrammeerd worden.
+D.4.36.
+Toepassingen.
+We gaan nu enkele stromingsproblemen oplossen door gebruik te
+maken van
+- de wet van Bernoulli
+- de continuïteitsvergelijking
+- de wet van Darcy
+H  = \ ~~---¥—     \ = f (R , k/d)
+w      d   zq                        e
+We veronderstellen in deze toepassingen dat er enkel een stromings-
+weerstand optreedt in de rechte gedeelten van de leiding. We .
+houden dus voorlopig geen rekening met alle mogelijke verliezen
+in bochtgedeelten, kleppen, e.d.
+Om de weerstandscoëfficiënt K  in deze rechte gedeeltes te be-
+palen
+- kan men gebruik maken van de vroeger besproken diagramma's en
+heeft men de keuze tussen:
+Prandtl-Nikuradse-Von Karman diagram
+Colebrook diagram
+Moody-diagram type I
+Moody-diagram type II
+- met de huidige rekenapparatuur kunnen echter .even vlot de
+formules aangewend worden. De formules van Prandtl zijn iets
+minder geschikt omdat ze het overgangsgebied van de technisch
+ruwe wand niet omvatten.
+De impliciete veranderlijken die in deze formules voorkomen
+worden op iteratieve wijze numeriek bepaald, of men gebruikt
+een benaderende formule zoals deze van Zigrang en Sylvester.
+D.4.37.
+We onderscheiden voornamelijk drie types van problemen.
+	lengte van de leiding 1	diameter d	debiet Q .	X
+type I type II type III	i # 1 ■ *	1 • 1 « -> •	I c 9 • 1 •	• ? 9 •
+Om deze problemen op te lossen kan gebruik gemaakt worden van de
+berekeningsschemas op de volgende bladzijden.
+- Enkel het probleem van type I is rechtstreeks analytisch op te
+lossen: de leiding en de stromingsgegevens zijn volledig gekend.
+- X   en dus ook de leidingsweerstand kan dan bepaald' worden.
+- De andere problemen moeten iteratief opgelost worden.
+In de problemen van type II wordt.gevraagd het debiet te berekenen
+in een gekende installatie.
+Het moeilijkste probleem is dit van type III, waarin gevraagd
+wordt een installatie te ontwerpen in gekende omstandigheden om aan
+een gevraagd debiet te voldoen.
+De oplossingsmethodes voor de vraagstukken van type I, II en III
+zijn aangegeven op pagina D.4.38, D.4.39 en D.4.40.
+Type I.
+D.4.38.
+ja v
+neen
+—»—
+Turbulent
+Berekenen van
+k/d .
+A   bepalen
+Nikuradse
+Moody I
+Moody II
+Colebrook
+grafisch
+x
+x
+X
+X
+numerisch
+x=x
+Wet van Bernoulli
+Wet van Darcy
+v = f(\)
+Type II
+D.4.39
+Startwaarde
+X
+Bereken
+v
+R
+neen
+Turbulent
+k/d
+X' bepalen
+Colebrook
+Nikuradse
+Moody   I
+grafi sch
+x
+x
+X
+numerisch
+x
+x
+R     \T~X     berekenen   en
+e
+A.'   bepalen   uit   Yioody   II
+A=A
+Wet van Bernoulli
+Wet van Darcy
+Continuïteitsvgl .
+d ^ f(X)
+v ^ f(d,X)
+Startwaarde
+A
+Berek enen
+van
+v
+R
+ja
+A
+i  _
+64
+R
+Type III
+D.4.40.
+neen
+----»—
+turbulent
+k/d
+a' bepalen
+Colebrook
+Nikuradse
+Moody I
+(Moody II)
+grafisch
+x
+x
+X
+X
+numerisch
+x
+X
+D.4.4I.
+I. Een vloeistof met een viscositeit van 100 cSt stroomt doorheen
+een buis met een diameter van 5cm met een snelheid van 2m/s.
+De lengte van de leiding is I40m.
+a.  3epaal de weerstandshoogte en de drukval in de leiding als het
+3
+soortelijk gewicht va.n de vloeistof 9 kN/m  bedraagt.
+b.  Hoe groot wordt de weerstandshoogte indien de viscositeit
+dubbel zo groot was, dus V=200 cSt?
+c. Hoe groot wordt de weerstandshoogte indien de snelheid slechts
+de helft bedraagt, dus v=Im/s en de viscositeit gelijk is ge-
+bleven aan 100 cSt.
+d.  Hoe groot wordt de weerstandshoogte als de diameter gehal-
+veerd wordt? v=2m/s.  v- =I00cSt.
+e. Wat wordt de weerstandshoogte indien de diameter gehalveerd
+wordt bij gelijkblijvend debiet?
+Oplossing. Geg: 1; d; v-*q. Dus type I.
+a. We onderzoeken eerst of de stroming laminair is of turbulent
+4=       1  n    vd        2.0,05  ^^
+- ofwel R = —r— = -------2—t~"=-1000
+v      100.10
+De stroming is laminair
+-   ofwel   v,       =   23 20        /d
+kr
+on-,^     100. IQ"             at/
+-      = 232°-----5Tol----- = 4'6m/s
+v is kleiner dan v.  . De stroming is laminair.
+kr                           r
+De stroming is laminair:
+64      64
+\ =
+R      1000
+e
+64      140
+H =
+w    1000    0,05   2.9,81
+H  = 36,53. m
+w     '
+De overeenkomstige drukval.
+Ap = pgH
+= 8000.36,53
+= 3,29.I05Pa
+=3,29 bar.
+(
+V
+D.4.42.
+b. We kontroleren terug of de stroming laminair is of turbulent'
+•2.0,05      „        ,
+R  =---------gr-- = b00. Dus laminair.
+e    200.10
+54
+A.  = — ■   dus dubbel zo groot.
+H  = 36,53.2=73,06m
+w                              '
+Ap = 6,58 bar.
+1.0,05     _^
+c.   R  = ------z----r-  =   500. Dus laminair.
+e                       —6
+100.10
+De weerstandshoogte valt nu op de helft omdat de snelheid niet
+alléén voorkomt in de snelheidshoogte ,  v   N
+( —=-- ) maar ook
+~ 2g
+\              z    ■
+in het getal van Reynolds. ( --n-- . —r— )
+^                         2                       vd      2g
+64      140     I2        TQ ^rc
+Hw = -500- " -cöTöb-  2.9,81  = 18>265m'
+Ap = 9000.18,265=1,64.I05Pa
+Ap = I,64 bar.
+,   _     2.0,025    ___      ,
+d.   R  = -----z---r— = 500. Dus laminair.
+e                     —6
+100.10
+64    140________22       TAC
+n  = "—_■ _— —~—^ _ _---- ----r———r~rr— = 14b m.
+w    500   0,025     2.9,81
+Ap = 9000.I46.I0"5=I3,I5 bar.
+e.  De diameter wordt gehalveerd bij gelijkblijvend debiet.
+De snelheid wordt dus vier maal groter.
+8.0,025    ^^                     • ' •
+R  _ .-----1---  _ 2000. Dus laminair.
+e                        —6
+100.10
+64               140               82               CQ,   c.
+Hw   = 1Ó55--------ÖT025-     2.9,81      =   584'54   m
+D.4.43.
+Opmerking.
+In   zover  de   stroming   laminair   blijft   in   alle  voorgaande   gevallen,
+kunnen   we   schrijven:
+H     =   X
+w
+v
+2
+64
+v
+z
+H      =
+w
+d
+64
+vd
+v
+H
+64
+w
+2g
+^g
+i
+d
+v    1
+2g
+V
+Z
+2g
+i
+2
+v
+Indien de stroming laminair is, is de weerstandshoogte:
+- recht evenredig met de viscositeit v (zie.b)
+- recht evenredig met de snelheid      (zie c)
+- omgekeerd evenredig met het kwadraat van de diameter, m.a.w. de
+weerstandshoogte wordt verviervoudigd als de diameter op  de helft
+valt en de snelheid konstant blijft (zie d)
+- 16 x groter als de diameter wordt gehalveerd bij gelijkblijvend
+debiet (zie e)
+Immers
+met q =
+7Cd
+2
+H
+64
+w
+2g
+v 1
+liL
+128
+z
+lid
+g.TC
+v 1
+D.-4.44.
+2. Bepaal, de weers.tandshoogte in een rechte betonnen buis met een
+diameter van 300mm, een lengte van 2000m en een ruwheid k=2mm.
+3
+Het debiet bedraagt 360m  water per uur.
+Stel V = IcSt.
+Oplossing^ Type I.
+a. Aard van de stroming.
+Q      360.4                       t /!tc  /
+v = —T- =--------------------------  = 1,415 m/s
+3600.71.0,3^
+R =
+I74I5.Q^3  = 424 40Q^ Dus turbulent
+e     1.10"°
+b. Type van de wand.
+k     0,00 2     ^ ^.„
+rg-g--- = 0,0066
+d      0,3
+R -H— = 424 40O.0,0066 = 283O>56O
+e a                              '
+De wand is hydraulisch ruw.
+c. Bepaling van de weerstandscoëfficiënt X.
+- Volgens het diagram van Colebrook: \=0,033
+- Volgens het diagram van Prandtl: \=0,033
+- Met de formule van Prandtl :
+t                           d
+= 2 log —- + 1,14
+vT~
+X=  0,0332
+d. De weerstandshoogte.
+H  . 0,033. -2222__|aï|l
+w    '       0,3    2.9,8i
+= 22,45m.
+D.4.45.
+3. Een rechte gehelde olieleiding is aan een reservoir aangesloten
+en mondt uit in de vrije atmosfeer. De diameter is 30 mm en de
+lengte 6m. Het niveauverschil tussen de uitstroomopening en het
+konstant niveau is 3 meter. (fig.II)
+De viscositeit van de olie bedraagt 75 cSt.
+Bepaal het debiet.
+Oplossing. Gegeven d en 1.
+Het is een vraagstuk van type II.
+Wet van Bernoulli.
+PI   VI
+—— + -7T~  + h-H :
+pg   2g    I  w
+PI = P2
+v ^0
+h_ = 3m
+v
+2
+2
+5/7?
+pg
+^g
++ h
+Fig.II
+v2 = v
+h2 = 0
+1
+H = X       ,
+w    d
+of v =
+v
+2g
+hi^ —
+v
+
+2g
+2g
+2^
+I+X
+1
+(I)
+De continuïteitsvergelijking
+2
+Q=VA=V
+iid'
+Het debiet kan bepaald worden indien v gekend is.
+De snelheid zullen.we moeten bepalen uit (I). Dus om de snelheid
+te bepalen moeten we X  kennen. Maar X  is functie van het getal
+van Reynolds, dus van v.
+Het probleem moet dan verder iteratief worden opgelost:
+- keuze van X
+We kunnen het getal van Reynolds niet uitrekenen omdat we de
+snelheid niet kennen. We weten wel dat het getal van Reynolds
+daalt als. de viscositeit vergroot. Gezien we hier een tamelijk
+grote viscositeit hebben veronderstel1 en we een laminaire
+stroming.
+Voor R  = 80 is X=
+64
+80
+= 0,8
+64
+= 0,032
+Voor Re = 2000 is X= ■ 2Q00
+We kiezen voor X   een waarde die tussen deze twee waarden ligt
+bv.k=0,05.
+—  v  berekenen   uit  v  =
+2qh
+I+X
+1
+D.4.46.
+-   R
+vd
+v   =
+Q)Q3v
+58,86
+I+200R
+V
+-6
+=   400   v
+75.10
+\*   uit  het   diagram  van  Colebrook,   of   \'
+laminair  is.
+64
+R
+als de stroming
+De oplossing van het probleem wordt dus:
+\=0,092
+v=I,74 m/s
+Q=vA=I,74
+Ti(0,03)
+3
+=0,00123 m /s
+Q=I,23 l/s=74 l/min.
+De weerstandshoogte bedraagt:
+Hw= °'092 -^ÖT •    lllfsi    = 2'84 ra"
+\		R =400 v e	e
+	1/  58,86 V I+200A		
+0,05	2,313	925	0,069
+■ 0,069	1,994	798	0,080
+0,080	1,858	743	0,086
+0,086	1,797	719	0,089
+0,089	1,769	708	0,090
+0,090	1,756	702	0,091
+0,091	I ,750	700	0,092
+0,09 2	1,746	699	0,09 2
+Van de drie meter verval is dus 2,84m nodig om de leidingsweerstand
+te overwinnen. Het nuttig verval, dat de snelheid levert, bedraagt
+dan nog' slechts
+3-2,84=0,I6m.
+D.4.47.
+Opmerking.
+We kunnen het probleem ook met behulp van het tweede diagram  van
+Moody oplossen.
+v =
+R =
+1 /      2qh	
+V-	^            d
+vd	d
+V	V
+—  _	d     •
+vT~
+lohd
+1
+vtT"
+29hd
+ghd
+R vT"=
+e
+v
+0,03
+-6
+2.9,81.3.0,03    __
+-----2—_-----.—i----- _ ^jy
+O
+75.10
+Ui t h_ex diagramma Moody II lezen we dan af
+0,09 < X  < 0,1
+We kunnen dan de iteratie beginnen met als eerste benaderende
+waarde \=0,09.
+D.4.48.
+Een rechte leiding werd opgesteld met een verval van 0,008 m
+(fig.12) per lopende meter zodat de druk konstant blijft. De
+diameter van de leiding bedraagt 200 mm, de ruwheid k=0,05mm,
+De viscositeit van de vloeistof bedraagt 1,15 cSt.
+Bepaal het debiet.
+Oplossing: Geg l=Im en d. Type II.
+Wet van Bern'oulli
+2
+pg
+2g
++ h -H =
+I  w
+pg
++
+V
+—1
+z
+2g
++ h
+PI = P2
+V   = V   = V
+I    2
+h  = h
+h2 = 0
+Wet van Darcy.
+H  = X
+w
+1
+2
+2g
+Ingevuld:
+Fig.I2
+0,008.- X
+2
+v     =
+0,2
+2.9,81
+*     2    0/008.0,2.9,81.2
+Of V  = ---z------r-2-----2------
+A.
+0,0314
+X
+= 0
+R  =
+e
+V
+v =
+0,2
+1,15
+°ï°314  .io6=
+X
+0,22.0,0314   _n6
+1,15 X
+0,0009 5
+X
+.10
+r vM
+e
+=3,1.10
+4
+üjlL
+\
+.10
+1#- =0'00025
+X kan nu bepaald worden
+- ofwel uit het diagram type Moody II
+- ofwel uit de formule van Colebrook
+D.4.49.
+vT~
+= -2 log (
+k/d
+3,71
+lilL
+3,1.10
+vT"
+=-2 log (
+0,00025
+3,71
+2,51
+3,1.10
+vT"
+= 6,11
+X = 0,017
+v
+0,0314
+0,017
+= I,36m/s
+Q = 2,56 m /s
+D.4.50.
+5. Een gietijzeren leiding (k=I,6 mm) met een lengte van 300m is
+aangesloten aan een open reservoir. De uitstroomopening ligt
+20 m onder het niveau van het reservoir. (fig.I3)
+3
+Het debiet moet minstens 3m /min bedragen.
+Bepaal de diameter van de leiding.
+De stromende vloeistof is water met een viscositeit = I cSt.
+Oplossing.
+Geg. 1 en Q.   Type III.
+Vergelijking van Bernoulli.
+2                                                2
+Pr     vt.                              P2     v2
++ —-— + h_-H  = ---- + —t--- + h«
+pg
+tj— + h-H  =
+2g   ■  I  w
+P9
+^g
+px =  p2 = o
+v  = 0
+h2 . o
+Darcy.
+H  = X
+w
+Ingevuld:
+h - \ -
+1
+1
+of v =
+V
+2g
+V
+2g
+2qh
+v
+2g
+I+X
+1
+20m
+Fig.I3.
+Wanneer in de vergelijking van Bernoulli de snelheidshoogte wordt
+verwaarloosd t.o.v. de weerstandshoogte, wat altijd mag als het
+gaat om lange leidingen, wordt vorige vergelijking
+v =
+2ghd
+XI
+Q = vA=V
+71 d
+4
+2
+Q is nu gekend = 3m"Vmin.
+D.4.5I
+zodat
+of d =
+3     \/ 2.9,81.20.d 60     V    300\	71 4.	d2
+: V 0,0031 X		
+We houden dus nog I vergelijking over met twee onbekenden d en \.
+Bovendien is X   afhankelijk van d via het getal van Reynolds en de
+relatieve ruwheid (cf de formule van Colebrook).
+Het probleem moet dus verder iteratief opgelost worden.
+a. Bij middel van het diagram, van Colebrook..
+Vertrekkend van een startwaarde voor \(0,I) kunnen we uit vorige vei
+gelijking de diameter d berekenen die het vereiste debiet zal ver-
+zekeren, (zie onderstaande tabel)
+Kennen we de diameter dan kan de snelheid worden bepaald
+v
+\J     2.9,81.20
+300
+X
+.vT
+308
+X
+Het getal van Reynolds wordt
+6
+R
+vd.IO
+De relatieve ruwheid
+1^6
+10
+-3
+d      d
+In het Colebrook diagramma kan een gecorrigeerde waarde van X
+worden afgelezen.
+X	5 d= V0,003I X		R e	k . d	A'
+		v=VI,308 -~-			
+0,1 0,035 0,038	0,199 0,161 . 0,164	1,612 2,145 2,076	0,32I.I06 0,345.I06 0,340.I06	8,04.IO-3 9,94.IO~3 9 ,76.IO-3	0,035 0,038 0,038
+D.4.52.
+b. De gecorrigeerde waarde van X  kan ook berekend worden met de
+formule van Colebrook. We veronderstellen R  groot genoeg zodat
+X  onafhankelijk is van R .
+e
+I      0 .    k/d
+----- = -2 log
+vaT
+3,71
+1,6
+= -2 log  2^  + 2 log 3,71
+= 5,3282
+X     =  0,035
+De diameter zal dus ongeveer 0,164 m moeten bedragen om een de-
+3
+biet van ongeveer 3m /min te verwezenlijken.
+Men zal dus een genormaliseerde diameter nemen in de buurt van d<
+gevonden waarde en hiermee het gevraagde debiet exact narekenen,
+zonder verwaarlozing van de snelheidshoogte.
+Is het debiet te klein dan neemt men een grotere diameter.
+Is het debiet te groot dan moet het geregeld worden door een
+regelventiel in de leiding te plaatsen.
+Nemen we bv. de genormaliseerde diameter die het dichtst 0,I64m
+benaderd nl. d=l50mm.
+2.981.20
+1+0,038  30°
+0,150
+2
+Q = 2,2575 %  '°?I5-- = 0,0399 m3/s
+3
+Q = 2,39m /min. Dus te klein.
+De volgende genormaliseerde diameter is 200 mm.
+v = 2,6 m/s
+Q = 2,6 K  °'2"  .60
+3
+= 4,9 m /min.
+Rekenen we nog eens na of de stroming inderdaad turbulent was.
+R  = 2,6.0,2.IOD=0,52.IO°
+De   stroming   is   dus   inderdaad   turbulent.
+D.4.53. .
+Dit' soort problemen kan ook op een andere manier opgelost worden
+- we kiezen een leidingsdiameter en stellen het debiet onbekend.
+- het vraagstuk wordt dan van type II.
+- we gaan dan na of met de gekozen leidingsdiameter een voldoend
+debiet bereikt wordt.
+- we passen eventueel de leidingsdiameter aan en herrekenen het
+vraagstuk.
+Schematisch: Alternatief voor problemen type III.
+			Startwaarde d				
+							
+							
+			Oplossen probleem type II X v    H  bij d w q				y
+aangepaste d							
+							
+	_              "V				»		
+nee
+Oplossing:
+d    q
+X
+V    H
+w
+Oplossing:
+D.4.54
+v   =
+2qh
+I+X   l/d
+2qh
+\   l/d
+Vx~
+2qhd
+1
+R      =
+e
+R     '/X
+e
+vd
+v
+voT
+2qhd
+2qhd
+\)
+1
+V"         1/         1
+a.   Kies   een   genormaliseerde   diameter;   bv.   d=50   mm
+R     VX
+o
+k
+0,05
+10
+—o
+2,9,81.20.0,05        _
+300                      ""  l£:/ö/
+ii6
+=   0,032
+d     50
+De waarde van A. volgt
+-ofwel door aflezing op het Moody II diagram: X=0,06
+- ofwel door berekening met Colebrook
+I     « .   ,  k/d
+vt:
+= -2 log (
+3,71
++
+= -2 log (
+0,032
+3,71
+2,51
+R vt7~
+e
+2,51
+12787
+)
+= 4,1089
+V/7~ = 0, 2434
+X   =  0,059
+v =
+0,2434
+2.9,81.20.0,05
+300
+= 1,050 m/s
+D.4.55.
+2
+Q  =1,05   ^^r05   = 0,0021 m3/s
+•50
+Qgewenst = "fcT = °>05 m3/s
+d0    gewenst
+We nemen een grotere diameter
+b. Kies d=I00 mm.
+o  .77 _   Otl   W 2.9,81.20.0,1
+Re A -  iq16   y     ^-----   = 3616c
+Ji_ . _idi_ = 0,0I6
+100
+o i  • /  0,016      2,51
+-2 log (   *T-- + ----*---
+^                     ^    3,71      36166
+= 4,7166
+7X = 0,212
+X     = 0,045
+I     ■         W      2.9,81.20.0,1          _   nr.r       .
+V   =   .    0,212       V---------^30—-----       =   1>7°°   m/S
+2
+QTr    =   1,706      7t"^1----  =   0,013   m3/s  <Q
+100                   A      4                    '                             gewenst
+c.   Kies   d   =   150   mm.
+R   &  _ -0x1           W    2.9,81   20.0,15     _        4
+I0-6         y              300
+-4-   . -4j§-   .0,0107
+-   i          /      0,0107                 2,51
+=   -^   log   (  ------2-------------  -«- --------2------
+^                      ^          3,71                 66442
+= 5,0687
+V7\~ = 0,1973
+X        =   0,039
+v   =
+0,1973        y             300
+2
+2.9,81.20.0,15          .   „._       .
+-----L355-------2-----  =2,^45   m/s
+7t.O,I52          ^   _      3
+q      =2,245  ---------*---------  =   0,04   m   /s    <   Q
+150                                4                    7                             gewenst
+d. Kies d= 200 mm
+D.4.56
+R  VOT =
+e
+2jlL
+10
+-6
+2.9,81.20.0,2
+300
+= 102 994
+_  I>6
+200
+= 0,008
+voC
+v =
+Q,
+= -2 log (
+= 5,3228
+= 0,1879
+= 0,0353
+I
+0,1879
+= 2,722 •
+0,008
+3,71
++
+2,51
+102 994
+2.9,81*20.0,2
+300
+2,722 m/s
+----*--- = 0,085 m /s
+'200   -7---     4
+Deze diameter voldoet dus. We kunnen dit debiet aanpassen aan het
+gevraagde debiet door het plaatsen van een regelklep in de leiding.
+6. Door de betonnen buis met ellipsvormige doorsnede (k=0,5 mm)
+3
+stroomt een -debiet van 1000 m /u water van I5°C. (fig.I4)
+Bepaal de drukval per km lengte van deze buis.
+Fig.I4
+Oplossing.
+De hydraulische straal van de doorsnede bedraagt:
+A
+rh ■
+n
+n
+met A  =- TC.a.b=7i;.0 , 25.0, 5=0,I257t m
+n                                             7                7        7
+^
+0  =ti. (a + b)= TC. (0, 25+0 , 5 ) =0 , 7571 m
+n
+r. =
+h
+0 ,1 2 5 %
+0,7571
+m
+D.4.57.
+De equivalente diameter bedraagt dan
+__2
+'eq ~ ""h
+d   = 4r, = —|- m = 0,667 m
+De stroomsnelheid bedraagt:
+Q__    IOOO/3600
+v =
+.0,25.0,5  = 0,71 m/o
+A     %
+Het getal van Reynolds wordt:
+■    , _Vd  .  0,71.0 667  , 4>74.I05
+N)        IQ-6
+De stroming is dus turbulent.
+V:                   O 3
+-*--- = rln      =   0,00075
+d       oo /
+eq
+We zoeken de waarde  van X  uit het diagram van Colebrook
+X ^  0,019
+Per kilometer leiding wordt de weerstandshoogte dus:
+•^   1    v2            ^ ^To  1000     0,7I2     ^ „_r
+H  = X —----■ —---   = 0,019  . rrn        '  o q QT  = 0,736 m
+w      d     2q               '     0,667    2.9,81     '
+eq    ^
+De overeenkomstige drukval:
+Ap = pgH  = 1000.9,81.0,736
+= 7217 Pa
+= 0,07 bar.

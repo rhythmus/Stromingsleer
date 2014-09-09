@@ -1,0 +1,1069 @@
+[S.1]
+
+# Het begrip druk
+
+## 1. STATISCHE DRUK
+
+### 1.1. Definitie
+
+De druk in een bepaald punt van een vloeistof is de verhouding
+van het drukkrachtje dF en het oppervlakteelement dA waarop
+deze kracht in de normale richting wordt uitgeoefend.
+Werkt op een eindig oppervlak A een totale kracht F loodrecht
+op het oppervlak dan noemen we de gemiddelde druk p
+waarbij p=de druk (pressure); uitgedrukt in N/m  = Pa
+F=de kracht (force) loodrecht op het oppervlak;uitge-
+druk t in N.
+2
+A=cTe oppervlakte (area); ui tgedruk t in m .
+De druk p stellen we voor door een aantal kleine pijltjes
+loodrecht op het beschouwde oppervlak. (fig.I)
+Fig.I.
+S.2.
+1.2. De richtingsafhankelijkheid van de druk.
+Wanneer  en vloeistof zich in evenwicht bevindt, dan is de
+druk in een punt van de vloeistof in alle richtingen even groot.
+De druk is dan enkel afhankelijk van de plaats van het punt.
+1.3. De_wet van Pascal.
+De druk, op een bepaald punt van een vloeistof uitgeoefend,
+plant zich in de vloeistof voort in alle richtingen en met de-
+zelfde grootte.
+Voorbeeld.
+In figuur 2 wordt een kracht F uitgeoefend op een zuiger met
+een oppervlakte A.
+Op de bovenzijde van het vloeistofoppervlak ontstaat een druk
+P =
+A
+Deze druk plant zich voort in de vloeistof in alle richtingen
+en treedt dus ook op
+- in elk willekeurig punt van de vloeistof
+- en eveneens op de wanden.
+Fig.2
+S.3.
+1.4. De wet van Eüler. De drukevenwichtsvergelijkingjLQ_dif
+ferentiaalvornu
+Euler beschrijft het evenwicht van een elementair volume
+(dx dy dz) vloeistof met een elementaire massa dm (fig.3)
+z
+(P+----------- Jdx.dy
+öz    2
+by 2
+/ bP dx
+(P + T1 -T)dydz
+bx   2
+lp-<LEÉl,dxdy
+öz   2
+,        b P   dx .  ,    .
+(P--fx—ldydz
+(p+kBÉljdxdz
+dy 2
+y
+Fig.3.
+Dit volume moet in evenwicht zijn onder invloed van alle krach-
+ten die erop werkzaam zijn. We onderscheiden twee types van
+krachten.
+Ie. De massakrachten:
+- over het algemeen is dat enkel de zwaartekracht
+- soms ook de invloed van een elektrisch of magnetisch
+veld
+- in een versnellend systeem ook de traagheidskrachten.
+We noemen F , F  en F  de.  krachten per eenheid van massa
+:x'  y     z
+in respectievelijk de x, y en z richting.
+De totale massakracht bedraagt dan
+df = dm (F  e +F e +F e )
+m      x  x  y y  z z
+S.4.
+2e. De omgevingskrachten.
+Dit zijn de krachten veroorzaakt door het omringende fluïdum.
+Deze krachten kunnen we schrijven met behulp van de druk-
+functie. In het punt i, het centrum van het elementair vo-
+lume (dx dy dz), heerst een druk p. Deze druk varieert vol-
+gens de asrichtingen.
+De druk in het snijpunt van een evenwijdige door i aan de
+y as met het vlak b c f g en het vlak aden bedraagt respec-
+tievelijk
+!p_ dY
+2
+ÉR
+r       óy
+óp
+waarbij gr   de variatie van de druk aangeeft per eenheid
+óy                                                                   ^    . , .
+van lengte in de y richting.
+Vermits we met een elementair volume rekenen kunnen we nu
+stellen  dat  de druk   in   alle  punten  van  het   elementair  vlakje
+gelijk is. De drukkracht op deze elementaire vlakjes wordt
+dan:
+op het linker zijvlak
+op het rechter zijvlak
+op het voorvlak
+A.
+op het achtervlak
+op het ondervlak
+op het bovenvlak
+(p- —t-E---^—  ) dx dz e
+■    óy   2                           y
+-(p+ —r-^---r^-~ ) dx dz e
+-(p+
+óy
+AR
+2
+dx
+y
+(p
+--Ar
+óx
+/   6p
+(p- &
+^  óz
+óx   2
+dx
+) dy dz e
+2
+dz
+) dy dz e
+) dx dy e
+x
+-(p+
+Ar.
+dz
+) dx dy e
+óz   2        *  z
+De totale drukkracht veroorzaakt door het omringende fluïdum
+vinden we uit de vektorsom.
+df =(_ _|E_ i _ *E_ £ -  _|E- 1 ) dx dy dz
+p    óx  x  óy  y   öz  z
+Voor evenwicht is nu vereist dat: d? +d? =0
+of dm(F e +F e +F e )-(
+xx  y y  z z
+Ar
+óx
+e +
+x
+m
+óp -*
+öy  y
+X2- e )dx dy dz =0
+öz   z     *
+met dm = p dx dy dz bekomen we
+(p F - -I2- )e +(p F---|°- )e +(p F
+r  x   óx   x  r  y  óy   y    z
+--Ar.
+öz
+) e  = O
+z
+S.5.
+Hieruit  volgt:
+xp   -	6x	(I)
+p -yK	óp öy	(2)
+z?   -	óp óz	(3)
+Na vermenigvuldiging van  (I) met dx
+(2) met dy
+(3) met dz
+tellen we beide leden op.
+p(F  dx+F  dy+F dz) = ( —-^ ^^-r     £   «,.  .
+rx    y         z             °x      öyöz
+óp  ,    óp
+- r  dx+ —r^-
+dy+
+Ó£.
+dz)
+Nu is het 2e lid in deze uitdrukking niets anders dan de totale
+differentiaal dp, waarbij p een functie is van x,y en z
+dp=p(F dx+F dy+F dz)
+r  r     x    y 2      z
+Deze uitdrukking is de differentiaalvergelijking van de druk.
+Kennen we nu de massakrachten F , F  en F  per eenheid van
+x'  y     z ^
+massa dan kunnen we ook de drukfunctie p(x,y,z) bepalen m.a.w,
+dan kunnen we de druk in elk punt van de vloeistof bepalen
+door integratie.
+2
+P2=Pl+p ƒ  (Fxdx+Fydy+Fzdz)
+Is dp=0 dan volgt p (x,y,z)= konstant.
+Deze functie bepaalt een oppervlak, de meetkundige plaats van
+alle punten waar de druk konstant is. Deze meetkundige plaats
+wordt het niveau-oppervlak genoemd omdat in alle punten van
+het oppervlak dezeifde druk heerst.
+S. 6.
+1.5. Eenheden van druk.
+Kontroleren we de dimensie van de betrekking
+[p] -
+N
+= Pa (Pascal)
+m
+Eén Pascal is de druk die optreedt in alle deeltjes van een
+2
+vloeistoflaag wanneer op lm  van dat vloeistofoppervlak een
+kracht van I N wordt uitgeoefend.
+De Pascal, de wettelijke eenheid van druk, is dus een zeer
+kleine eenheid. Daarom rekent men dikwijls met
+Ikpa
+IMPa
+=10 Pa
+= 10 Pa
+- kilopascal
+- megapascal
+- bar
+- millibar     I mbar =I0"Pa
+Nog veel gebruikte andere eenheden
+I bar  =10 Pa
+2.
+I mm'WK ; = 9,81 Pa-
+- millimeter waterkolom
+- millimeter kwikkolom of Torr  I mm Hg=I33,322 Pa
+- natuurkundige atmosfeer
+- technische atmosfeer
+- pound per square inch
+I atm = I ,01325 bar
+I at = I kgf/cm =0,981 bar
+I p.s.i.= 6895 Pa
+Tenslotte nog een paar zeer veelvuldig gebruikte verbanden
+I bar
+IOO kN/m'
+10 mWK=I kgf/cm =0,981 bar
+Met behulp van de tabel op pag.S.7. kunnen de drukken omgere-
+kend worden naar de verschillende eenheden.
+Omrekeningstabel voor drukken.
+S.7
+	Pa	k Pa	M Pa	bar	m bar	mmWK	MWK	mmHg
+Pa	I	zo"3	io-6	io-5	-2' 10	_3 102.10	102.10	7,5.IO~3
+k Pa	io3	I	IQ"3	-2 10	10	102	102.I0~3	7,5 ,
+M Pa	io6	3 10	I	10	io4	102.IO3	102	7,5.I03
+bar	5 10	io2	lo-1	I	io3	102.IO2	102.IO"1	7,5.I02
+m bar	!02	io"1	IQ"4	io-3	I	102.IO""1	102.IO"4	7,5.IO*"1
+mmWK	9,81	9,8I.IO~3	9,8I.IO""6	9,8I.IO~5	9,8I.I0"2	I	IO"3	0,07358
+mWK	0,98I.I04	0,981.10	0,98I.IO~2	o^si.io"*1	2 0,981.lp	IO3	I	73,58
+mmHg	133,322	133,322.I03	I33,322.IO~6	133,322.IO""5	133,322.IO""2	13,59	I3,59.IO~3	I
+Gebruik:
+I bat=IO  Pa=IO  k Pa=IO    Mpa=IO mbar=I02.I0^ mmWK
+S.8.
+1.6^ Toepassingen.
+I. Op de zuiger van figuur 4 wordt een kracht uitgeoefend van 2kN.
+Hoe groot is het moment dat hierdoor rond het punt a wordt uit-
+geoefend?
+F1=2kN
+Wem
+Fig.4.
+Volgens de wet van Pascal is
+PI=P2 zodat -^
+of  F2=FI
+TC
+TC
+F2=FI
+= 2
+=18 kN
+M F_ = 18 cos 30°.0,1
+a 2                                '
+=1,5588 kNm.
+S.9.
+2. De hydraulische pers.
+Deze bestaat uit 2 cilinders A en B waarin twee plunjers, met
+respectievelijke diameter'D en d, kunnen op en neer bewegen.
+Bij het opheffen van de kleine plunjer opent klep C en wordt
+olie aangezogen uit het reservoir. Bij het neerdrukken van de
+kleine .plunjer sluit C en E opent. Vloeistof wordt naar de
+perscilinder A gedrukt waar de grote plunjer een kracht uit-
+oefent op het voorwerp G.
+De driewegkraan F in de drukleiding laat toe de drukcilinder
+in het reservoir te ledigen waardoor de grote plunjer terug
+z ak t.
+Fig.5.
+S.IO.
+Nemen we volgende waarden aan
+D=400mm                          a=I00mm                         F=400N
+d=40mm                            b=I400mm
+Bepaal:
+I; de druk in de olie
+2. de kracht die de grote plunjer uitoefent op de last
+3. hoeveel keren moet er gepompt worden als de kleine plunjer
+een slag heeft van 50mm en men wenst dat de last over 40mm
+wordt verplaatst.
+Oplossing.
+1. 400.I500=F .100
+F =6000 N.
+p =  60QQ-4?  =4774648,3 N/m2
+%  0,04
+2                                        2
+2. F2=p -2-~-- =4774648,3  ^t4-- = 600 000 N.
+400
+Opmerking: F =6000 ( Tl      >  =60° 00° N*
+3. Wanneer de kleine plunjer zich s  mm verplaatst wordt er een
+2
+hoeveelheid olie weggedrukt      rcd
+4   ' SI .
+Indien we de olie als onsamendrukbaar beschouwen komt dit
+volume in de cilinder A en wordt de grote plunjer verplaatst
+over een afstand s,
+	2
+.2 TXd                            u	D2
+4        -I.  "	4        "Z
+SI              D2	
+S2     "     d2	
+50             4002	
+S2     '        402	
+s     =  0,5   mm	
+40
+Aantal keren dat er gepompt moet worden:    -  =80
+Opmerking.
+De geleverde arbeid = F s  = 6000.0,05=300 Nm
+De nuttige arbeid = F s  = 600 000.0,0005=300 Nm
+Met verwaarlozing van de wrijving tussen plunjer en cilinder
+is de nuttige arbeid gelijk aan de geleverde.
+S.II.
+2. ATMOSFERISCHE DRUK,ABSOLUTE DRUK, OVERDRUK EN ONDERDRUK.
+2.1 «_De atmosferische druk.
+De dampkringlucht omgeeft de aarde. Zoals een vloeistofkolom
+een druk uitoefent op de bodem van het reservoir waarin de
+vloeistof zich bevindt (zie 123) zo oefent ook de dampkring-
+lucht een druk uit. Deze druk noemt men de "atmosferische
+druk (p ')».
+*a
+De atmosferische druk is afhankelijk van
+- de hoogte boven het zeeniveau
+- de weersomstandigheden.
+De gemiddelde atmosferische druk, de "normale"luchtdruk,
+bedraagt: p  = 1,01325 bar.
+Aan het oppervlak van een open reservoir heerst dus de atmos-
+ferische druk. Deze druk plant zich voort in de ganse vloeistof.
+( wet van Pascal)
+2.2. Absolute druk, overdruk en onderdruk.
+In de meeste meettoestellen maakt men een vergelijking met de
+atmosferische druk.
+Is de druk hoger dan de atmosferische druk dan spreekt men van
+een overdruk (p  )
+------c—  rov
+Is de druk lager dan de atmosferische druk dan spreekt men van
+een onderdruk (p  )
+---------'on
+Naast de vergelijking  met de atmosferische druk kunnen we ook
+vergelijken met het absolute vacuüm (p=0).
+Men spreekt dan van de absolute druk (p , ).
+We kunnen deze waarden uitzetten in het diagram van figuur 6.
+Pov
+'on
+T
+Pabs
+Fig.6
+—Pa
+absolute vacuüm (p=0)
+S.I2.
+Er gelden volgende relaties:
+P  -P V. ~P
+rov 'abs *a
+P  =P -P u
+ron  a  abs
+De overdruk en onderdruk wordt veelal ook de "effektieve druk
+p " genoemd omdat deze druk meestal wordt afgelezen op de
+meetapparaten. Men spreekt ook over "relatieve" druk.
+De effectieve druk is positief als het gaat om een overdruk.
+De effectieve druk is negatief als het gaat om een onderdruk.
+Opmerking.
+In de angelsaksische.technische werken schrijft men
+psia (absolute pressure)
+psig (gauge pressure)= effektieve druk.
+2.3. Krachten als gevolg van onderdruk_of overdruk^
+Soms is men de mening toegedaan dat kleine drukken slechts
+kleine krachten veroorzaken. De uitdrukking F=pA laat echter
+duidelijk zien dat kleine drukken op een groot oppervlak ook
+grote krachten zullen verwezenlijken.
+Nemen we een cilindrische tank met een diameter van 20 meter.
+(fig.7) Daarin bevindt zich een vloeistof en boven de vloei-
+3
+stof 200 m  lucht bij atmosferische druk (p =1,01325 bar)
+a 3
+Veronderstel dat we een kamion laden met 20 m  van deze vloei'
+3
+stof. Het volume lucht wordt dus 220 m 1
+Bij een isotherme toestandsverandering wordt de druk
+(pV=konstant):
+200.1,01325=220 p
+p=0,92II4 bar
+Het drukverschil op het bovendeksel be-
+draagt dus:
+2
+1,01325-0,92114=0,09211 bar=9,2II kN/m .
+De kracht die het deksel ondervindt:
+2
+9,211.
+n  20'
+= 2894 kN
+Bij   zulke  grote krachten  valt  de  dakkon-
+struktie  in  indien   er  geen  beveiliging
+voorzien  is.
+Fig.7
+S.I3
+Fig.S stelt een tank voor met een
+gewone ontluchting. Vooral bij ijzel
+moet de ontluchting worden gekontro-
+leerd, vooraleer men er vloeistof uit
+wegpompt of bijpompt. Indien de vloei-
+stof niet in kontakt mag komen met de
+zuurstof van de lucht plaatst men
+boven de vloeistof een stikstofkus-
+sen onder een geringe overdruk.
+Figuur 9 toont de beveiliging van een
+tank tegen te grote overdruk.
+Fig.8.
+Y////////A
+Fig.9.
+Fig.IO.
+Indien men er vloeistof bijpompt licht de klep en een beetje
+stikstof ontsnapt. Het eigen gewicht van de klep bepaalt tegen
+welke overdruk de tank is beveiligd. Indien de klep opent met
+regelmatige tussenpauzen zonder dat er vloeistof wordt ver-
+pompt is dit een bewijs dat het reduceerventiel van de stik-
+stof niet goed is afgesteld.
+Figuur 10 toont de beveiliging tegen onderdruk bij het weg-
+pompen van vloeistof. Indien de druk boven de vloeistof
+daalt licht de klep en wordt stikstof toegevoegd.
+Een gewone beveiliging bestaat uiteraard uit een kombinatie
+van beide voorgaande.
+S.I4.
+2.4. Toepassingen.
+1. In een ketel heerst een overdruk van 25 bar.
+Hoe groot is de absolute druk als de atmosferische druk ge-
+lijk is aan 1,04 bar.
+Oplossing.
+pabs = 25+I>04=26>04 bar-
+Indien we geen rekening houden met de barometerstand en we
+stellen de atmosferische druk gelijk aan I bar, dan hadden
+we een absolute druk van 26 bar.
+*
+De procentuele fout bedraagt dus:
+26^Ö46  • 100=0,1536°/.
+Deze fout wordt verwaarloosd. We zeggen
+25 bar overdruk = 26 bar absolute druk.
+2. In een reaktor heerst een onderdruk van 0,96 bar.
+De atmosferische druk = 1,04 bar.
+Bepaal, de absolute druk.
+Oplossing;
+.p , =1,04-0,96 = 0,08 bar.
+Stellen we de atmosferische druk terug gelijk aan I bar dan
+hebben we als absolute druk:
+I-O,96^0,04 bar.
+De procentuele fout bedraagt nu
+^oTor • :°°=50V.
+Het is duidelijk dat men bij onderdrukken aen zeer kleine
+overdrukken wel rekening moet houden met de juiste baro-
+meterstand.
+Is de absolute druk van belang dan zou men beter de absolute
+druk meten in plaats van de onderdruk.
+Een voorbeeld hiervan vinden we in chemische bedrijven waar
+bepaalde scheikundige reakties een welbepaalde druk vereisen
+omdat de reaktiesnelheid soms sterk vermindert bij wijziging
+van de ideale druk.
+S.I5.
+Nemen we als voorbeeld een reaktie die moet verlopen bij een
+absolute druk van 100 mbar.
+Is de atmosferische druk vandaag 1020  mbar dan zou vandaag een
+onderdruk vereist zijn van 920 mbar.
+Is echter morgen de barometerstand IOIO mbar dan zou morgen de
+onderdruk 910 mbar moeten bedragen.
+Indien de absolute druk wordt gemeten volstaat het in het rege-
+lingsproces de meter op 100 mbar te houden wat ook de atmosfe-
+rische druk moge zijn.
+Een onderdruk kunnen we echter wel meten in toepassingen waar het
+volstaat na te gaan of er nog onderdruk is en of de orde van
+grootte nog goed is.
+In deze nota's zal, in overeenstemming met het S I eenheden-
+stelsel, steeds in absolute druk gewerkt worden om alle vergis-
+singen te vermijden.
+S.I6.
+3.HYDROSTATISCHE DRUK, TOTALE DRUK, DRUKLIJNEN, DRUKHOOGTE,
+DRUKENERGIE, COMMUNICERENDE VATEN.
+3^1 .^Hydrostatische druk- totale druk.
+Onder hydrostatische druk verstaat men de druk veroorzaakt
+door het eigen gewicht van de vloeistof.
+Om de hydrostatische druk in een willekeurig punt 0 van de
+vloeistof te bepalen maken we gebruik van de wet van Euler(I.I.4)
+dp=p(F dx+F dy+F dz)
+r         x    y 2      z
+Is de zwaartekracht de enige massakracht en nemen we als z as
+de vertikale met de zin naar beneden,
+(fig.II) dan is
+F =0
+x
+F =0
+y
+F =g
+z 3
+F  is de kracht in de z richting
+z                                                             ^
+per eenheid van massa
+dp=p gdz
+Voor de vrije vloeistofspiegel
+is dp=0
+pgdz=0
+z=konstaht
+De  vrije  vloeistofspiegel   van  een   vloeistof   in   rust,   waarop
+dus   enkel   de  zwaartekracht  werkzaam is,   is  een  horizontaal   vlak.
+In   alle  vlakken,   evenwijdig   aan  deze  spiegel,   diis   in   alle  punten
+op  gelijke  diepte  onder  de  vloeistofspiegel,   heerst  dezelfde
+hydrostatische  druk.
+De waarde van  deze  druk   vinden we door  integratie
+Pv
+Fig.II.
+f,
+hydr
+dP= /0 pgdz
+Voor z=0, ter hoogte van de vloeistofspiegel is de hydrostatische
+druk gelijk aan nul.
+Is er aan de oppervlakte reeds een druk aanwezig bijvoorbeeld
+- de atmosferische druk (p )
+- de druk vanwege een kracht op een zuiger (pQ)
+dan geldt:
+?abs=P0+Pa+Pgh
+S.I7.
+De totale absolute druk in een punt van een vloeistof in rust
+kan dus uit drie komponenten bestaan.
+- De atmosferische druk die zich voortplant doorheen de
+vloeistof en die in alle punten gelijk is.
+■- Een mechanische druk, afhankelijk van een uitwendige kracht
+en de oppervlakte waarop deze kracht wordt uitgeoefend.
+Deze druk plant zich ook voort doorheen de vloeistof en is
+in alle punten gelijk.
+- De hydrostatische druk, die het gevolg is van het eigen ge-
+wicht van de vloeistof. Deze Ls afhankelijk van de diepte h
+van het punt onder het vloeistofoppervlak.
+S.I8.
+3.2._Drukli jnen.
+De verandering van de druk in een vloeistof in rust kan men
+aangeven in een h-p diagram door druklijnen.(fig.12)
+Fig.I2
+De verandering van de hydrostatische druk wordt weergegeven
+door rechte I; de effektieve druk door rechte 2 en de absolute
+druk door rechte 3.
+Fig.13. stelt het verloop voor van de hydrostatische druk bij
+twee niet mengbare vloeistoffen.
+
+E
+Pa
+fi
+				. Fig.I3.	
+h,	,				
+b	----------\_ —- _j	S.        I	. —		;>
+c	Phydr.	i	>sP?	^\	
+		I I I		V rJv	-----**"
+(pabs)b      {pabs)c
+(Pabs>  =Po+Pa+pIghI
+(Pabs' =P0+Pa+pIghI+p2g (h,-hT'
+c
+2  I
+3.3^ Het begrip "drukhoogte"__                                                   S.I9.
+De hydrostatische druk, veroorzaakt door een kolom vloeistof
+met hoogte h meter en een soortelijke massa p, bedraagt:
+p=pgh
+of h =
+___E.
+pg
+In overeenstemming met deze betrekking kan voor gelijk welke
+druk een equivalente vloeistofhoogte of drukhoogte bepaald
+worden:  - voor de atmosferische druk
+P =
+h =
+a
+pg
+, de atmosferische drukhoogte
+- voor de mechanische druk
+P~
+h =
+o
+pg
+, de mechanische drukhoogte
+De uitdrukking p , =p +p +pgh
+ars  o  a
+kan dus ook als een hoogtevergelijking geschreven worden.
+h , =h +h +h
+abs  o  a
+, de absolute drukhoogte
+Deze betrekking kan worden uitgezet in een hoogtediagram.
+Figuur 14. geeft er de voorstelling van.
+Ook voor wat betreft de begrippen onderdruk en overdruk kunnen
+overeenkomstige drukhoogtes
+bepaald worden
+- de onderdrukhoogte
+T
+abs
+h  =h -h>,
+on  a  abs
+- de overdrukhoogte
+h  =h . -h
+ov  abs  a
+i^a
+h = 0
+Fig.I4.
+Opmerking.
+De eenheden van druk mWK, mmWK en mmHg komen overeen met deze
+begrippen.
+ImWK komt overeen met een druk die veroorzaakt wordt door de
+hydrostatische druk van een kolom water (werkelijk of inge-
+beeld) van I meter. Het is dus in feite een d£ukhoogte
+pT ,.,=P hg=I000.9,8I.I=98IO Pa
+*imWK  w.                    7
+pT  ,-,,=P qh = I000.9,8I.O,OOI=9,8I Pa
+pImmWK Mw^        '    '
+PT  „ =PfJ gh=I3590.9,8I.O,OOI=I33,322 Pa
+KImmHg KHg^                     '
+S.20.
+3.4. Het begrip "drukenergie"
+Bekijken we de dimensie van de verhouding  "
+P
+f. p . p -	Pa	N/   2 m	=	Nm kg	=	J
+	kg/m	kg/m				kg
+Deze verhouding geeft een energie per kg vloeistof weer.
+Indien dus in een vloeistof een bepaalde druk p optreedt komt
+met deze druk per kg vloeistof een energiewaarde overeen ge-
+geven door de drukenergie E , = "■ •
+.                             d   p
+Het begrip "drukenergie" wordt gebruikt in de technische hy-
+draulica in volgende kontekst: in sommige installaties wordt
+een vloeistof onder druk gehouden om op een bepaald moment
+de zo opgestapelde energie terug vrij te geven.
+De druk valt op dat moment natuurlijk weg. De energie die vrij
+komt wordt gegeven door E , •
+3^5.^Communicerende vaten.                                                   S.2I.
+a. Gevuld met één vloeistof. (fig.I5)
+De druk in b moet dezelfde zijn als de druk in c, zoniet zou
+er vloeistof van b naar c stromen of omgekeerd.
+bc
+Pa+pghI=Pa+Pgh2  of hI=h2
+In communicerende vaten gevuld met dezelfde vloeistof stelt
+het vloeistofniveau zich in elke tak in op dezelfde hoogte.
+	\9a		Pa	
+	f			
+1				
+"			c	
+	_*D'		•—	
+I a
+Üil
+■f
+z:
+c
+Fig.I5.                                                     Fig.I6.
+b. Gevuld met twee niet mengbare vloeistoffen met soortelijke
+massa p  en p   (fig.16)
+Pb=Pc
+Pa+PIg(h+hI)=pa+p].gh+p2gh2
+P1h1=p2h2
+"2     KI
+De hoogtes vanaf het scheidingsvlak tot de vrije vloeistofspiegel
+verhouden zich omgekeerd evenredig met de soortelijke massa's.
+Opmerking:
+Twee punten die zich in een leidingssysteem op dezelfde hoogte
+bevinden ondervinden dezelfde hydrostatische druk, indien zich
+tussen de punten uitsluitend dezelfde vloeistof bevindt.
+phydr e   phydr d
+phydr f   phydr g
+3.6. Toepassingen:
+S.22.
+I. In figuur 17 geeft manometer A, aangesloten op een vloeistof-
+leiding een effectieve druk van 2 bar.
+3
+p=900 kg/m . De vloeistof staat stil.
+Welke effektieve druk zal manometer B aangeven?
+Oplossing^
+PB=PA+P 9^
+0   900.9,81.3
+PB=2+ -------5-----
+10
+=2,2648 bar.
+B
+
+2.
+Fig.I7.     ----
+Een cilinder is afgesloten door een zuiger met een gewicht van
+300 N en een diameter van 0,1 meter (fig.I8)
+3
+p=920 kg/m
+Bepaal de hydrostatische druk, de effektieve druk en de abso-
+lute druk - op het cilinderdeksel
+- aan de onderzijde van de zuiger
+- op de bodem.
+Teken  het  verloop  van  deze drie drukken.
+137717
+10830
+1*7222       H8547
+Fig.18.
+S.23
+Oplossing.
+1.  De hydrostatische druk
+- op het cilinderdeksel : O
+- aan de onderzijde van de zuiger
+p=p gh=920.9,81.0,2=1805 Pa=0,01805 bar
+- op de bodem
+p=p gh=920.9,8I.I,2=I082OPa=0,I083 bar
+2. De effektieve druk.
+- aan de onderzijde van de zuiger: het evenwicht van de zuiger
+wordt voorgesteld in figuur 19, waaruit
+p      300.4   = 38I97 pa=0,38197 bar
+err     _ _^2
+Ti   0,1
+- op het cilinderdeksel
+38197-1805=36392 Pa=0,36392 bar
+- op  de bodem
+3819 7+9 2079,81.1=47 222 Pa=0,47222 bar.
+3. De absolute druk (stel p =101325 Pa)
+*a
+- op het cilinderdeksel
+36392+101325=137717 Pa=I,377l7 bar
+- aan de onderzijde van de zuiger
+A                                                                       "
+38197+101325=139522 Pa=I,39522 bar
+- op de bodem
+47222+101325=148547 Pa=I,48547 bar
+0,1m
+TT
+ÏÏPeff
+G=300N
+Fig.I9.
+S. 24.
+3. In cilinder A van figuur 20  heerst een absolute druk van
+3 bar; in B een druk van 1,5 bar.
+Bepaal het niveauverschil van het kwik in de U buis.
+/^
+F
+i
+B
+
+De rest is opgevuld met water.
+p  ,_  =1000 kg/m3
+rwater       ^
+p     =13600 kg/m3
+Oplossing.
+We doorlopen de leiding
+van reservoir A naar re-
+servoir 8 en schrijven
+alle drukvergelijkingen.
+(I)Pc=PA+Pw^[h+(2-X)]
+(2)PD=PC .
+(3)pD=pE+pHggh
+(4)pF=PE
+(5)pB=pF+pwgx                                                                              Fig.20.
+Op het eerste gezicht kan dit stelsel niet opgelost worden,
+omdat we te maken hebben met 5 vergelijkingen en 6 onbekenden
+PC' PD' PE' PF' h en X*
+Om enkel het hoogteverschil h te bepalen volstaat het stelsel
+echter wel.
+We vullen vergelijkingen (I), (2), (4) en (5) in in verge-
+lijking (3)
+PA+Pw9h+2pwg-pwgx=pB-pwgx+pHggh
+waaruit h=
+(pA-pB)+2pwg
+g(pHg-pW}
+-=-1,372 m
+Opmerkingen.
+- het hoogteverschil is afhankelijk van het drukverschil
+p -p  en van het hoogteverschil h -h =2m.
+- om ook alle drukken te kunnen berekenen moet eveneens
+bvb. y gekend zijn.
+- p  / p  omdat zich tussen de punten G en E water en kwik
+E    G
+bevindt.
+S.25.
+4. In de leiding voorgesteld in figuur 21 zit een vloeistof met
+3
+een soortelijke massa=IOOO kg/m .. De vloeistof staat stil.
+Om het drukverschil tussen de doorsneden I en 2 te meten
+worden twee manometers a en b aangesloten.
+Manometer a staat 2m boven doorsnede I, manometer b staat
+I meter boven doorsnede 2 en geeft een overdruk van 5 bar. We
+2
+stellen g=IO m/s . Bepaal de druk aangegeven op manometer a.
+II
+O
+-c:
+Fig.2I.
+Oplossing.
+p =5 bar
+rb
+p2=5 +
+1000.10.I
+p1=5,l+
+p =5,4-
+a
+10
+1000.10.3
+io5
+1000.10.2
+-=—5-j-I Dar overdruk
+■ = 5,4 bar overdruk
+• =5,2 bar overdruk
+10'
+Opmerkingen
+1. p -p =0,3 bar
+p, -p =0,2 bar
+^b ^a
+Manometers a en b meten dus niet.het drukverschil tussen de door-
+sneden Ien 2 waar ze zijn aangesloten. Om dit drukverschil
+te bekomen moet h =h,  •
+a b
+2. Plaatst men beide manometers even hoog dan geven ze identiek
+dezelfde druk.
+We geven later aan dat, wanneer er werkelijk stroming is, de
+manometers toch een verschillende waarde zullen aangeven. Dit
+drukverschil geeft dan direkt de drukval in de leiding.
+S. 26 •
+Een centrifugaalpomp moet een vloeistof verplaatsen met een
+3
+soortelijke massa=I020 kg/m  (fig.22). Op het persvat staat
+een effektieve druk van 20 bar.
+Op het aanzuigreservoir heerst een onderdruk van 0,2 bar.
+Stel p =1 bar.
+Bepaal:
+a. de absolute druk
+aan de uitgang
+van de pomp.
+b. de absolute druk
+aan de ingang
+van de pomp.
+c. de drukverhoging
+die door de pomp
+moet geleverd
+worden.
+d. de opvoerhoogte v.   Q
+die door de pomp
+moet gerealiseerd
+worden.
+^O
+u
+f
+5
+5
+Oplossing.
+a*   PU=PA+Pa+Pg
+(Au)
+b. PB=P.+
+10
+(h.-h^pg
+I05
+Fig.22.
+^ -r     1020.9,81.20  n, ^^T ,
+= 20+1+ ------*----- =23?00I bar
+10
+e-r   ^ -.n   2.1020.9,81   ^ co„0 ^
+of p. = (1-0,2)+ --------r—J--- =0,5998 bar
+1                                  10
+c. Ap=p -p.=22,4014 bar
+d. H =^H
+p  pg
+22,4014x10'
+= 223,88 meter.
+1020.9,81
+Opmerking.
+Met opvoerhoogte wordt hier het drukverschil tussen in- en
+uitgang van de pomp bedoeld, maar dan uitgedrukt in meter vloei
+stofkolom.
+S.27.
+6. Wat wordt er gemeten in de figuur 23, een volume of een massa?
+Fig. 23
+Fig. 2tt.
+Op het membraan staat zowel links als rechts de atmosferische
+druk zodat de hydrostatische druk wordt gemeten.
+Dezelfde druk wordt bekomen voor een vloeistof waarvan het peil hall
+zo hoog staat maar waarvan de soortelijke massa dubbel zo.groot is.
+Er wordt dus geen volume gemeten maar wel een massa of een gewicht.
+Indien de druk boven de vloeistof verschilt van de atmosferische
+druk wordt een drukvereffeningsleiding geplaatst zodat terug de
+hydrostatische druk ën dus de massa wordt gemeten.(fig;24)
+Bij stijging van de temperatuur zet de vloeistof uit. De druk-
+stijging boven de vloeistof staat zowel links als rechts op het
+membraan en wordt dus gekompenseerd. Gezien de massa konstant
+blijft, blijft ook de naald op dezelfde stand.
+De volgende bladzijde geeft de kalibratietabel van een tank. In-
+dien de naald op "15" staat dan betekent dit dat er 5200 kg vloei-
+stof in de tank aanwezig is en dit onafhankelijk van de aard van
+de vloeistof.
+Onderaan de tabel vindt men:"Inhouden gelden voor een densiteit
+van 1,02 bij heersende temperatuur". Dit betekent het volgende:in-
+dienldeze tank gevuld is met een vloeistof met een soortelijke mas-
+sa van I,02kg/liter dan geeft de naald ook aan voor hoeveel pro-
+cent de tank gevuld is. Staat de naald op 50, dan is de tank halfvo
+Dit zou niet het geval zijn bij vloeistoffen met een andere soor-
+telijke massa. Nemen we gemakkelijkheidshalve een vloeistof met
+een s.m. gelijk aan de helft van dit vermeld op de kalibratie-
+tabel dan is de tank vol als de naald op 50 staat.
+rx	H
+fD	3
+3	ar
+X)	0
+0)	e
+h	a
+DJ	n>
+rX	3
+c	
+e:	iO
+h	fD
+•	M
+	a
+	fD
+	3
+<   ooooooooo
+O       VOCO^OlOi^'OJfNjH
+1
+o        o
+fD                                           oo
+3
+a
+fD
+3
+W
+H-
+rX
+fD
+p.
+rx
+<
+DJ
+3
+M
+O
+M
+er
+3"
+fD
+fD
+w
+fD
+3
+a
+fD
+II
+H
+VO
+00
+O)
+--3
+en
+II
+H
+Ol
+4>
+II
+H
+O)
+M
+II        II
+H
+H
+O
+00
+00
+en
+en
+il
+4>
+4*
+II
+M
+M
+Oi4^0)0)MM      HH
+H-
+M
+vQ
+n
+DJ
+3
+IQ
+IfD
+13
+jp.
+ia
+ia
+IfD
+|M
+ia
+IfD
+i
+10
+IDJ
+IXJ
+IDJ
+10
+jp.
+Irx
+IfD
+|H-
+IfX
+I»
+M M	M	M	M	M	H	H	M	M	M	M	M M	M M									
+Ol 4>	OJ	M	H	O	vo	00	O	en	Ol	4	OJ M	H O	VO co	•o	01	Ol	4	OJ	M	M	O OJ ox
+																					
+																					\ D>
+M O	en	en	en	en	en	Ol	Ol	Ol	Ol	4	4 4*	4 4*	OJ OJ	OJ	OJ	M	M	M	M	M	o  O
+4> H	CO	-JJ	Ol	OJ	O	CO	Ol	4*	M	VO	<l Ol	OJ O	00 01	4»	M	VO	-0	Ol	OJ	H	1! H-
+O 00	en	►o	M	O	00	en	4>	M	O	<1	Ol OJ	H VO	<1 Ol	00	H	VO	<l	Ol	OJ	M	fX
+en Ol	Ol	4>	OJ	OJ	M	M	H	H	o	V0	VO 00	CO -~J	O 01	Ol	O)	4»	4»	OJ	OJ	M	7?  fD uO M
+/																					rt
+																					O
+CD   4*	4»	4-	4»	4-	4-	4-	4>	4>	4.	OJ	OJ OJ	OJ OJ	OJ OJ	OJ	OJ	OJ	M	M	M	M	QJ
+O CD	00	O	en	Ol	4*.	OJ	M	H	O	VO	00 -0	en oi	4* OJ	M	M	O	VO	00	M	Ol	ox \ 0» o  O
+H H	H	H	H	H	M	M	H	H	M	H	H H										II rx
+M M	M	M	M	H	H	H	H	O	O	O	O O	vo vo	VO VO	00	00	00	00	00	M	O	fD
+vo en	4»	M	O	00	Ol	OJ	M	VO	<l	4	M O	00 01	OJ H	vO	O	Ol	M	O	00	01	re H-
+M VO	<1	Ol	OJ	H	VO	-4	Ol	OJ	H	vo	M Ol	OJ H	VO M	Ol	M	o	00	en	4	M	u3 rx
+O CO	VO	00	00	O	O	en	Ol	Ol	4>	4	OJ OJ	M M	M O	o	VO	vO	00	o	M	01	
+-J O	■O	M	-O	M	en	en	en	en	01	en	01 01	en oi	Ol Ol	Ol	Ol	Ol	Oi	Ol	Ol	Ol	O
+Ol 4»	OJ	M	H	O	vo	00	O	en	Ol	4	OJ M	H O	VO 00	-J	01	Ol	4»	OJ	M	H	o Dj \x o  CU O
+H M	H	M	M	H	M	H	H	M	M	M	H M	M H	H M	M	M	M	M	M	M	M	II H-
+00 00	M	-0	-O	O.	-0	en	en	en	en	en	Ol Ol	Ol Ol	4* 4*	4	4	4*	OJ	OJ	OJ	OJ	rx
+4> M	VO	<l	Ol	OJ	M	00	en	4-	M	O	-O, Ol	OJ M	VO Ol	4*	M	o	00	Ol	OJ	M	re cd
+O) H	VO	M	Ol	OJ	H	vo	■o	4*	M	O	00 01	4* M	O 00	01	4	M	O	00	en	4	i£) H-
+4» 4>	OJ	M	M	H	H	O	O	VO	00	00	O <1	01 Ol	oi 4»	4*	OJ	OJ	M	M	H	H	fX
+M O CO	VO	VO	VO	VO	VO	vo	vo	VO	VO	00	00 CO	CO 00	00 00	00	00	00	M	O	M	O	
+O  vo	00	O	en	Ol	,l>	OJ	M	H	O	vo	00 <J	01 Ol	4* OJ	M	H	O	V0	00	<l	01	\ DJ o X DJ
+M M	M	M	M	M	M	M	M	M	M	M	M M	M M	K) M	H	M	H	M	M	H	M	II 0
+O) O)	OJ	OJ	OJ	M	M	M	M	H	H	H	M M	O O	O o	vO	VO	vO	VO	VO	00	00	H-
+V0 o	Ol	M	o	00	en	4»	H	VO	O	Ol	w o	00 01	4* H	VO	-O	Ol	OJ	O	00	01	re n
+4» M	O	00	en	4-	M	O	00	en	4	M	O 00	01 4	M VO	•o	Ol	OJ	H	VO	-J	Ol	yQ   fD
+00 00	<l	<]	en	en	Ol	4>	4*	OJ	OJ	M	M H	O O	vo v0	00	00	-J	01	en	Ol	Ol	H'
+																					(X
+Co
+M
+00
+S.29.
+7. Figuur 25 geeft de doorsnede van de nieuwe tunnel; IOm hoog
+en 50m breed.
+-.Fig.26 toont het eerste
+element I', geplaatst
+op de bodem van de
+Schelde en vast ver-
+bonden aan de linker-
+oever. Het is aan het
+rechteruiteinde water-
+dicht afgesloten door een scheidingsschot A.
+,	t				
+5					
+o	'				
+		5öm ■^ .-----■-----——--------------------------------------—-----------—■----------------^			
+Fig.25.
+Fig.26.
+Nadien is element II er naast gelegd. Element II is afgesloten
+door een schot C en een schot B.
+Tussen schot A en B zit de waterdruk alsook rechts van schot C.
+Element II is volledig in evenwicht.
+Bij middel van mechanische vijzels worden de twee elementen tegen
+elkaar aangedrukt zodat de pakking tussen beide elementen reeds
+zorgt voor een waterdichte afdichting.
+Bij middel van een centrifugaalpomp wordt het water tussen de
+beide elementen weggepompt zodat we tussen A en B een vacuüm
+scheppen.
+Stellen we de absolute druk tussen A en B gelijk aan de dampspan-
+ningsdruk van water bij 20°C namelijk 0,02337 bar.
+Met welke kracht F wordt element II tegen het eerste element aan-
+gedrukt als we aannemen dat de werklijn van F I5m onder de water-
+spiegel ligt.
+S.30.
+Oplossing.
+De druk rechts van C bestaat uit 2 komponenten.
+1. De atmosferische druk die zich volgens Pascal voortplant
+in de vloeistof : 1,01325 bar.
+2.  De hydrostatische druk van het water,
+p gh=I000.9,81.15=147150 Pa
+=1,4715 bar.
+De totale druk bedraagt dus: 2,48475 bar.
+Het drukverschil op element II bedraagt dus:
+2,48475-0,02337=2,46138 bar
+=246,138 kN/m2
+F-246,138.500=123069 kN;

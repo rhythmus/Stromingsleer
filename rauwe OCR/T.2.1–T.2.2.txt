@@ -1,0 +1,40 @@
+[T.2.1.]
+
+# Hoofdstuk 2
+
+1. Definitie van druk:
+   $$p = \frac{dF}{dA}$$
+   $$p = \frac{F}{A}$$
+2. Wet van Euler:
+   $$dp = p(F~x dx+F~ydy+F~zdz)$$
+3. Verband tussen de eenheden. Zie de omrekeningstabel.
+4. Absolute druk- overdruk- onderdruk.
+^ov~^abs~"^a
+p  =p -p ,
+ron  a ^abs
+5. Hydrostatische druk
+Phydr=P 9 h
+6. Totale druk
+PabS=po+Pa+p g h
+7. Drukhoogte
+H- ..P
+pg
+8. Communicerende vaten
+a.
+hI     P2
+h2     PI
+Omrekeningstabel voor drukken.
+
+[T.2.2.]
+
+1  "     '	Pa	k Pa	M Pa	bar	m bar	mmWK	MWK	mmHg
+Pa	I	io-3	IO"6    ,	IO"5	-2 10	102.I0~3	102.I0~6	7,5.I0"~3
+k Pa	IO3	I	IO"3	-2 10 >	10	102	102.IO"3	7,5
+M Pa	IO6	io3	I	10	IO4	102.IO3	102	7,5.I03
+bar	io5	io2	IO"1	I	io3	102.IO2	102.I0_I	7,5.I02.
+m bar	io2	lo-1	io"4	-3 10	I	102.IO-"1	102.IO"4	7,5.IO""1
+mmWK	9,81	9,8I.IO""3	9,81.10""	9,8I.IO~5	9,8I.I0""2	I	IO"3	0,07358
+mWK	0,98I.I04	0,981.10	0,98I.I0~	o^si.io^1	0,981.10	IO3	I	73,58
+mmHg	133,322	133,322.IO3	I33,322.I0~6	I33,322.IO~5	I33,322.IO~2	13,59	I3,59.IO~3	I
+Gebruik:
+I   bat=IO     Pa»IO      kpa=IO         MPa=IO    mbar=I02.I0     mmWK
