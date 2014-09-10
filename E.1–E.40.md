@@ -472,54 +472,84 @@ Evenals de soortelijke massa is de relatieve dichtheid afhanke-
 lijk van de temperatuur.
 Tabel 4 geeft de relatieve dichtheid in functie van de tempera-
 tuur voor butylmonoglycolether.
-We bemerken dat in het temperatuursinterval (-20°C,+39°C) de
+We bemerken dat in het temperatuursinterval (-20°C, +39°C) de
 teraperatuurscoefficiënt nagenoeg konstant is en ongeveer gelijk
 is aan Ov-0008.
 
-Temp. °C. | Relatieve dichtheid | temp. °C. | Relatieve dichtheid
----------:|--------------------:|:----------:|-------------------:
--20 | 0,9357 | 10 | 0,9108
--19 | 49 | II | 00
--18 | 40 | 12 | 0,9091
--17 | 32 | 13 | 83
--16 | 24, . | 14 | 75
--15 | 0,9316 | 15 | 0,9067
--14 | 0,9307 | 16 | 58
--13 | 0,9299 | 17 | 50
--12 | 91 | 18 | 42
--II | 82 | 19 | 33
--10 | 0,9274 | 20 | 0,9025
--9 | 66 | 21 | 17
--8 | 57 | 22 | 08
-~"7v | 49 | 23 | 00
--e" | 41 | 24 | 0,8992
--5 | 0,9233 | 25 | 0,8984
--4 | 24 | 26 | 75
--3 | 16 | 27 | 67
--2 | 08 | .28 | 59
--I | 0,9199 | 29 | 50
-0 | 0,9191 | 30 | 0,8942
-I | 83 | 31 | 34
- | 74 | 32 | 25
-3 | 66 | 33 | 17
-4 | 58 | 34 | 09
-5 | 0,9150 | 35 | 0,8901
-6 | 41 | 36 | 0,8892
-7 | 33 | 37 | 84
-8 | 25 | 38 | 76
-9 | 16 | 39 | 67
+temp. (°C)  | relatieve dichtheid
+----------: | -------------------:
+       −20  | 0,9357
+       −19  |     49
+       −18  |     40
+       −17  |     32
+       −16  |     24
+       −15  |     16
+       −14  |     07
+       −13  | 0,9299
+       −12  |     91
+       −11  |     82
+       −10  |     74
+        −9  |     66
+        −8  |     57
+        −7  |     49
+        −6  |     41
+        −5  |     33
+        −4  |     24
+        −3  |     16
+        −2  |     08
+        −1  | 0,9199
+         0  |     91
+         1  |     83
+         2  |     74
+         3  |     66
+         4  |     58
+         5  |     50
+         6  |     41
+         7  |     33
+         8  |     25
+         9  |     16
+        10  |     08
+        11  |     00
+        12  | 0,9091
+        13  |     83
+        14  |     75
+        15  |     67
+        16  |     58
+        17  |     50
+        18  |     42
+        19  |     33
+        20  |     25
+        21  |     17
+        22  |     08
+        23  |     00
+        24  | 0,8992
+        25  |     84
+        26  |     75
+        27  |     67
+        28  |     59
+        29  |     50
+        30  |     42
+        31  |     34
+        32  |     25
+        33  |     17
+        34  |     09
+        35  |     01
+        36  | 0,8892
+        37  |     84
+        38  |     76
+        39  |     67
 
-Tabel 4.
-E.17.
-Voorbeelden:
-3
-I. Een reservoir van 4m is bij 8°C boordevol vloeistof
-3                                  3
+Tabel 4
+
+[E.17]
+
+**Voorbeelden.**
+
+1. Een reservoir van 4m³ is bij 8°C boordevol vloeistof
 p=I084 kg/m      + 0,8 kg/m K
 Hoeveel liter zal er overlopen als de temperatuur stijgt tot
 30°C?
-Oplossingj_
-""                                                                3
+Oplossing:
 poe =1084+12.0,8=1093,6 kg/m
 o C
 Massa = 1093,6.4=4374,4 kg. .
