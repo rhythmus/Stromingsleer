@@ -448,15 +448,12 @@ Het tweede getal (0,76 kg/m K) geeft, in het temperatuursinterval
 (daalt onder) de 20°C.
 Van deze vloeistof is de soortelijke massa bij 35°C:
 p  =803-15.0,76=791,6 kg/m3.
-E.16.
-2. Temperatuursafhankelijkheid van de relatieve dichtheid.
-Evenals de soortelijke massa is de relatieve dichtheid afhanke-
-lijk van de temperatuur.
-Tabel 4 geeft de relatieve dichtheid in functie van de tempera-
-tuur voor butylmonoglycolether.
-We bemerken dat in het temperatuursinterval (-20°C, +39°C) de
-teraperatuurscoefficiënt nagenoeg konstant is en ongeveer gelijk
-is aan Ov-0008.
+
+[E.16]
+
+## 2. Temperatuursafhankelijkheid van de relatieve dichtheid
+
+Evenals de soortelijke massa is de relatieve dichtheid afhankelijk van de temperatuur. Tabel 4 geeft de relatieve dichtheid in functie van de temperatuur voor butylmonoglycolether. We bemerken dat in het temperatuursinterval (-20°C, +39°C) de temperatuurscoëfficiënt nagenoeg constant is en ongeveer gelijk is aan Ov-0008.
 
 temp. (°C)  | relatieve dichtheid
 ----------: | -------------------:
@@ -528,6 +525,7 @@ Tabel 4
 **Voorbeelden.**
 
 1. Een reservoir van 4m³ is bij 8°C boordevol vloeistof
+
 p=I084 kg/m      + 0,8 kg/m K
 Hoeveel liter zal er overlopen als de temperatuur stijgt tot
 30°C?
