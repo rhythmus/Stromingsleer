@@ -66,5 +66,6 @@ x₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
 | symbool | betekenis |
 | :-----: | :-------- |
 | ×       | vermenigvuldiging |
+| ·       | “middot” (U+00B7) |
 | −       | minus     | 
 | ℓ       | liter     | 
