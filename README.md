@@ -1,5 +1,5 @@
-# Cursus Stromingsleer (*1978)
+# Cursus Stromingsleer
 
 Digitaliseringsproject.
 
-Copyright (c) 1978–2014 Karel Soudan 
+Copyright (c) 1978–2014 Em. Prof. Dr Ir Karel Soudan 
