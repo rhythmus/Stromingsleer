@@ -10,9 +10,9 @@ De aantrekkingskracht is echter groot genoeg om geen volumewijziging te bekomen 
 
 **Samendrukbaarheid**: de samendrukbaarheid is zeer gering en treedt alleen op bij hoge drukken.
 
-De samendrukbaarheid wordt behandeld in hoofdstuk I.
+De samendrukbaarheid wordt behandeld in hoofdstuk 1.
 
-We nemen als voorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger. (fig.I) Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
+We nemen als voorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger (fig. 1). Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
 
 ![Fig. 1](figuren/001.png)
 
@@ -121,7 +121,7 @@ $$ kg = \frac{kg}{m^3} m^3 $$
 
 De soortelijke massa en alle andere afgeleide grootheden die hierboven gedefinieerd werden hangen af van het volume dat door de vloeistof ingenomen wordt in bepaalde omstandigheden.
 
-Dit betekent dat het geen materiaalconstanten zijn, maar dat ze op zijn minst afhankelijk zijn van de toestandsgrootheden druk en temperatuur. De soortelijke massa hangt immers samen met de hoeveelheid moleculen die zich bevindt in een bepaald volume. Wordt de vloeistof samengedrukt, dan liggen de moleculen dichter bij elkaar en vergroot het aantal moleculen per volume-eenheid. 
+Dit betekent dat het geen materiaalconstanten zijn, maar dat ze op zijn minst afhankelijk zijn van de toestandsgrootheden druk en temperatuur. De soortelijke massa hangt immers samen met de hoeveelheid moleculen die zich bevindt in een bepaald volume. Wordt de vloeistof samengedrukt, dan liggen de moleculen dichter bij elkaar en vergroot het aantal moleculen per volume-eenheid.
 
 Stijgt de temperatuur dan wordt de activiteit van de moleculen heviger en vermindert de hoeveelheid per volume-eenheid. We gaan nu verder na in welke mate de soortelijke massa afhankelijk is van deze twee parameters en hoe deze afhankelijkheid in de praktijk kan weergegeven worden.
 
@@ -135,135 +135,117 @@ KOMPRESSIBILITEIT
 
 Bij grote drukstijgingen blijft de massa van de vloeistof konstant terwijl het volume vermindert. De soortelijke massa zal bijgevolg stijgen.
 
-### 1.2.1. Verandering van het volume vloeistof in_functie van_de druk.
+### 1.2.1. Verandering van het volume vloeistof in functie van de druk
 
-#### a. Kompressiemodulus
+#### a. Compressiemodulus
 
-Wanneer men op een vloeistof een grote druk uitoefent vermindert
-het volume.
-Bij vaste lichamen spreekt men van een elasticiteitsmodulus E
-die een maat is voor de weerstand die het materiaal biedt tegen
-lengteverandering.
-Bij vloeistoffen spreekt men van de kompressiemodulus E, eveneens
-2
-uitgedrukt in N/m .
-Hoe groter E, hoe kleiner de volumeverandering.
-We verbeelden ons nu een perfect stijve cilinder en zuiger.
-Wanneer op de zuiger geen kracht werkt is het volume
-vloeistof = V . (fig.4)
-D
-e  druk   bedraagt   Dy
-		F
-	1	'
-l(<			'l|
-	V = VrdV
-fig.4.
-Fig.5.
-Fig.6.
-Wanneer nu een kracht F op de zuiger wordt uitgeoefend dan ver-
-hoogt de druk op de vloeistof met dp maar het volume neemt af
-met dV. Met een bepaalde druk p korrespondeert een overeenkom-
-stig volume.V. (fig.5)
-De volumeafname dV is                                                                     E.7.
-- evenredig met de druk toename dp. Hoe groter dp, hoe groter dV.
-- evenredig met het oorspronkelijk volume V .
+Wanneer men op een vloeistof een grote druk uitoefent vermindert het volume.
+
+Bij vaste lichamen spreekt men van een elasticiteitsmodulus _E_ die een maat is voor de weerstand die het materiaal biedt tegen lengteverandering.
+
+Bij vloeistoffen spreekt men van de **kompressiemodulus _E_**, eveneens uitgedrukt in N/m². Hoe groter _E_, hoe kleiner de volumeverandering.
+
+We verbeelden ons nu een perfect stijve cilinder en zuiger. Wanneer op de zuiger geen kracht werkt is het volume vloeistof = _V₁_ (fig. 4). De  druk bedraagt _p₁_.
+
+![Fig. 4](figuren/004.png)
+![Fig. 5](figuren/005.png)
+![Fig. 6](figuren/006.png)
+
+Wanneer nu een kracht _F_ op de zuiger wordt uitgeoefend dan verhoogt de druk op de vloeistof met _dp_ maar het volume neemt af met _dV_. Met een bepaalde druk _p_ correspondeert een overeenkomstig volume _V_  (fig. 5).
+
+[E.7]
+
+De volumeafname _dV_ is
+- evenredig met de druk toename dp (hoe groter _dp_, hoe groter _dV_);
+- evenredig met het oorspronkelijk volume _V_;
 - afhankelijk van de aard van de vloeistof, wat kan uitgedrukt worden
-met behulp van de kompressiemodulus E.
+met behulp van de kompressiemodulus _E_.
+
 Samengevat:
-V  dp
-dv = --V-  of E = --^£_  (1.2)
-Het minteken wijst erop dat we bij een druk toename een volumeaf-
-name krijgen.
-Wanneer men de druk p uitzet in functie van de volumeverhouding
-—— (het volume bij de druk p gedeeld door het oorspronkelijk
-I
-volume) dan bekomt men een diagram zoals voorgesteld in figuur 6.
-De kompressiemodulus is dus niets anders dan de richting van de
-raaklijn getrokken in een bepaald punt van deze kurve (dus bij
-een bepaalde druk p en een bepaald volume V).
+
+$$ dV = - \frac{V_1 dp}{E} of E = - \frac{dp}{dV/V_1}$$ (1.2)
+
+Het minteken wijst erop dat we bij een druk toename een volumeafname krijgen.
+
+Wanneer men de druk _p_ uitzet in functie van de volumeverhouding
+$\frac{V}{V_1}$ (het volume bij de druk _p_ gedeeld door het oorspronkelijk volume) dan bekomt men een diagram zoals voorgesteld in figuur 6. De kompressiemodulus is dus niets anders dan de richting van de raaklijn getrokken in een bepaald punt van deze kurve (dus bij
+een bepaalde druk _p_ en een bepaald volume _V_).
+
 De kompressiemodulus geeft dus, vertrekkend van een bepaalde druk
-p en een bepaald volume V, de volumeverandering dV bij een druk-
-stijging dp.
-We noteren- bovendien dat de kompressiemodulus afhankelijk is van
-de druk en het volume en stijgt naarmate de druk stijgt.
-Dit duidt erop dat een vloeistof minder gemakkelijk samengedrukt
-kan worden naarmate ze reeds meer samengedrukt is.
-Anders gezegd: de weerstand tegen samendrukking verhoogt, wat ook
-logisch is, vermits het steeds moeilijker wordt om de ruimte
-tussen de vloeistofmoleculen nog meer te verkleinen.
-b. Kompressiecoefficiënt.
-Naast de kompressiemodulus E wordt de kompressiecoefficiënt ge-r
-definieerd als:
-X=-|-  (1.3)
-dv/v
-I—  (1.4)
-dp
-Hoe kleiner X , hoe kieiner de volumevermindering bij een druk-
-s. tij ging dp.
-Evenals E is X dus ook geen konstante, maar afhankelijk van de
-actuele waarden van druk en volume, (zie fig. 6)
-De eenheden van de kompressiecoefficiënt: [Xj =m /N.
-^ ft
-c. Gemiddelde kompressiecoëfficiënt X
-m
-Om de volledige kompressibiliteit van een vloeistof te kennen
-zou men dus moeten beschikken over een experimenteel opgenomen
-kurve zoals deze van figuur 6 waaruit dan de karakteristieke
-grootheden E en X kunnen bepaald worden.
-In praktijk volstaat echter meestal een benaderde waarde voor
-deze grootheden.
-Men neemt bijvoorbeeld als referentievolume het volume V  bij
-atmosferische druk. Er wordt een gemiddelde waarde X  opgegeven
+_p_ en een bepaald volume _V_, de volumeverandering _dV_ bij een drukstijging _dp_.
+
+We noteren bovendien dat de kompressiemodulus afhankelijk is van
+de druk en het volume en stijgt naarmate de druk stijgt. Dit duidt erop dat een vloeistof minder gemakkelijk samengedrukt kan worden naarmate ze reeds meer samengedrukt is. Anders gezegd: de weerstand tegen samendrukking verhoogt, wat ook logisch is, vermits het steeds moeilijker wordt om de ruimte tussen de vloeistofmoleculen nog meer te verkleinen.
+
+#### b. Compressiecoefficiënt
+
+Naast de compressiemodulus _E_ wordt de compressiecoefficiënt gedefinieerd als:
+
+$$\chi = \frac{1}{E}$$ (1.3)
+
+$$\chi = \frac{\frac{dV}{V_1}}{dp_\chi}$$ (1.4)
+
+Hoe kleiner _χ_, hoe kleiner de volumevermindering bij een drukstijging _dp_. Evenals _E_ is _χ_ dus ook geen constante, maar afhankelijk van de
+actuele waarden van druk en volume (zie fig. 6).
+
+De eenheden van de kompressiecoefficiënt: _χ_ = m²/N.
+
+[E.8]
+
+#### c. Gemiddelde kompressiecoëfficiënt $\chi_m$
+
+Om de volledige compressibiliteit van een vloeistof te kennen zou men dus moeten beschikken over een experimenteel opgenomen curve zoals deze van figuur 6 waaruit dan de karakteristieke grootheden _E_ en _χ_ kunnen bepaald worden. In praktijk volstaat echter meestal een benaderde waarde voor deze grootheden.
+
+Men neemt bijvoorbeeld als referentievolume het volume _V_ bij
+atmosferische druk. Er wordt een gemiddelde waarde _χ_ opgegeven
 (experimenteel bepaald), die in het opgegeven drukinterval als
 een konstant gegeven mag beschouwd worden.
-Tabel I geeft op die manier X  voor een hydraulische olie
-m       .
-voor verschillende drukintervallen.
-Druk	*m	Druk	m
-bar	m2/N	bar	m2/N
-0-50	-12 800.10	0-r300	680.I0~12
-0-100	790.	0-350	667.
-0-150	760.	0-400	656.
-Q-200	730.	0-450	647. .
-0-250	708.	0-500	640.
-Tabel I
-Men benadert op die manier de
-grafiek van figuur 6 met een
-bundel rechten waarvan de
-helling overeenkomt met de
-waarde X  (fig.7)
-m    ^
-Fig.7.
 
-E.9.
-Uitdrukking 1.4. kan dan geschreven worden als
--r
-Of dV= - -~-- VQ dp
-m
-en vermits nu X  en V^ als konstanten te beschouwen zijn qeldt
-m     0
-ook:
-AV = - X  V^Ap
-m  O r
-Voorbeeld.
-500 liter van de hydraulische olie van tabel I wordt samengedrukt
-tot 200 bar.
-Wat wordt het volume bij 200 bar?
-Oplossing:
-X = 730.I0~12 m2/N
-m
-AV = Xm V0 Ap
-AV = 730.I0"I2.500.200.I05=7,3 liter
-m      ...     N
-liter
-N                                2
-■ -v                                          m
-Het volume wordt dus: 500-7,3=492,7 liter.
-Het volume vermindert dus met ongeveer I,5°/0. Vergelijk dit
-met een volumeafname van water bij 200 bar van ongeveer I°/0.
-( p.E.I)
-E.10.
-1.2.2. Verandering van de soortelijke massa in_functie van de druk.
+Tabel 1 geeft op die manier _χ_ voor een hydraulische olie voor verschillende drukintervallen.
+
+druk (bar) | $\chi_m$ (m²/N)
+---------: | ---------------
+    0–50   | 800×10⁻¹²
+    0–100  | 790·
+    0–150  | 760·
+    0–200  | 730·
+    0–250  | 708·
+    0–300  | 680·
+    0–350  | 667·
+    0–400  | 656·
+    0–450  | 647·
+    0–500  | 640·
+
+Tabel 1
+
+Men benadert op die manier de grafiek van figuur 6 met een bundel rechten waarvan de helling overeenkomt met de waarde $\chi_m$ (fig.7).
+
+![Fig. 7](figuren/007.png)
+
+[E.9]
+
+Uitdrukking 1.4 kan dan geschreven worden als
+
+$$ dV = -\chi_m V_Odp $$
+
+of
+
+$$ dv = - \frac{I}{E_m}V_Odp $$
+
+en vermits nu $\chi_m$ en $V_O$ als constanten te beschouwen zijn, geldt ook:
+
+$$ \Delta V = - \chi_m V_O\Delta p$$
+
+**Voorbeeld.** 500 liter (ℓ) van de hydraulische olie van tabel 1 wordt samengedrukt tot 200 bar. Wat wordt het volume bij 200 bar? Oplossing:
+
+$$\begin{matrix}\chi_m = 730*10^{-12} \frac{m^2}{N}\\ \\\Delta V = \chi_mV_O\Delta p\\ \\\Delta V = 730*10^{-12} \frac{m^2}{N}*500ℓ*200*10^5\frac{N}{m^2} = 7,3 ℓ\end{matrix}$$
+
+Het volume wordt dus: 500–7,3 = 492,7 liter. Het volume vermindert dus met ongeveer 1,5%. Vergelijk dit met een volumeafname van water bij 200 bar van ongeveer 1%. (p.E.1).
+
+[E.10]
+
+### 1.2.2. Verandering van de soortelijke massa in functie van de druk
+
 Er geldt:
 dV =- XVdp (1.4)
 dV
