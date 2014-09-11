@@ -1,11 +1,16 @@
 [E.1]
 
-#Reële en ideale vloeistoffen: eigenschappen
+# Reële en ideale vloeistoffen: eigenschappen
+<!-- Titels beginnen inderdaad met een #, maar er moet een spatie staan tussen de # en de titel. -->
+
 ****
+<!-- Was het uw bedoeling de titel te onderlijnen? Dat is opmaak die door de stylesheet bepaald wordt. Drie sterretjes * of meer op een eigen nieuwe lijn, wordt in html een volle lijn (bedoeld als paragraph separator, niet om dingen te onderlijnen. -->
+
 
 **Reële vloeistoffen** bezitten volgende **eigenschappen**.
 
 ***Cohesie***: twee naast elkaar gelegen vloeistofmoleculen trekken elkaar aan. 
+<!-- Wat **tussen twee sterretjes** staat, is extra benadrukt en zal door de meeste stylesheets <b>vet</b> getoond worden. Indien ge tekst ***tussen drie sterretjes zet*** is niet altijd duidelijk wat het eindresultaat zal worden: de meeste Markdownparser en stylesheets zullen het <b><i>vet en cursief</i></b> maken; mijn app zal het als <mark>erg sterk benadrukt</mark> beschouwen. Vele van mijn stylesheets zullen de tekst dan weergeven alsof er een gele markeerstift over gegaan is, maar ik kan een stylesheet maken die doet wat ge wilt. -->
 
 Deze aantrekkingskracht is vrij gering zodat de onderlinge plaats van de moleculen gemakkelijk kan wijzigen. De aantrekkingskracht is echter voldoende groot om het onderling contact van moleculen te behouden. 
 
@@ -59,14 +64,6 @@ Engels: _density_
 De soortelijke massa van een vloeistof is de massa per volume-eenheid.
 
 $$ \rho = \frac{M}{V} $$
-$$\rho  = \frac{M}{V}% MathType!MTEF!2!1!+-
-% feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
-% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
-% 4rNCHbGeaGqiVCI8FfYJH8YrFfeuY-Hhbbf9v8qqaqFr0xc9pk0xbb
-% a9q8WqFfeaY-biLkVcLq-JHqpepeea0-as0Fb9pgeaYRXxe9vr0-vr
-% 0-vqpWqaaeaabiGaciaacaqabeaadaqaaqaaaOqaaiabeg8aYjabg2
-% da9maalaaabaGaamytaaqaaiaadAfaaaaaaa!3A6E!
-$$
 
 De soortelijke massa wordt uitgedrukt in kg/m³.
 
@@ -1327,3 +1324,4 @@ $$\mathop {\lim }\limits_{\delta x \to 0} % MathType!MTEF!2!1!+-
 % baaaaa!3E3D!
 $$
 
+<!-- Deze experimentjes lijken me vreemd: de syntax bovenaan is telkens valide LaTeX, maar wat na elk % volgt is volgens LaTeX een comment (en wordt dus niet geparsed), en lijkt mij obfuscated binary encoded data van MathType — wat allicht kan worden weggegooid? -->
