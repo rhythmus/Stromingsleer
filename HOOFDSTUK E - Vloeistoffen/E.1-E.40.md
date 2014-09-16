@@ -81,7 +81,11 @@ $$ \gamma = \frac{G}{V} = \frac{Mg}{V} $$
 ​
 $$ \gamma = \rho g $$
 
+
+
 Eenheden: N/m³. In de uitdrukkingen waar vroeger _γ_ was aangegeven wordt nu _ρg_ geschreven.
+
+
 
 [E.4]
 
@@ -122,8 +126,6 @@ Dit betekent dat het geen materiaalconstanten zijn, maar dat ze op zijn minst af
 Stijgt de temperatuur dan wordt de activiteit van de moleculen heviger en vermindert de hoeveelheid per volume-eenheid. We gaan nu verder na in welke mate de soortelijke massa afhankelijk is van deze twee parameters en hoe deze afhankelijkheid in de praktijk kan weergegeven worden.
 
 We merken hierbij op dat bij verandering van druk of temperatuur de massa van een bepaalde hoeveelheid vloeistof constant blijft maar dat wel het ingenomen volume wijzigt. We bekijken dan ook telkens eerst de verandering van het volume.
-
-
 
 [E.6]
 
@@ -1283,3 +1285,4 @@ waarmee de gezochte waardes via een grafische konstruktie kunnen bepaald worden.
 Met de huidige rekenapparatuur levert het rekenwerk echter geen enkele moeilijkheid meer. De gebruikte formules kunnen eventueel
 ook gemakkelijk geprogrammeerd worden.
 De voorgestelde formules gelden, strikt genomen, alleen voor enkelvoudige vloeistoffen en niet voor mengsels.
+

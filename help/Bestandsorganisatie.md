@@ -3,6 +3,7 @@
 ### Organisatie van de bestanden
 
 Het originele bronmateriaal bestaat uit:
+
 - de door de studenten ingescande pdf
 - de originele “digitally born” Word-files
 
