@@ -14,7 +14,7 @@ De samendrukbaarheid wordt behandeld in hoofdstuk 1.
 
 We nemen als voorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger (fig. 1). Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
 
-![Figuur 1](figuren/001.png)
+![Figuur 1](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/001.png)
 
 
 ## Vloeistoffen zijn volledig elastisch
