@@ -40,8 +40,10 @@ _Gevolgen_:
 - de vloeistofdeeltjes kunnen over elkaar glijden zonder wrijving; dus kan de drukkracht die twee vloeistofdeeltjes op elkaar uitoefenen alleen loodrecht staan op het aanrakingsoppervlak (fig. 2).
 - de vloeistofdeeltjes kunnen ook bewegen t.o.v. de vaste wand zonder wrijving; dus kan de drukkracht die een vloeistofdeeltje en een wand op elkaar uitoefenen alleen maar loodrecht staan op de wand (fig. 3).
 
+
 ![Figuur 2](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/002.png)
 ![Figuur 3](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/003.png)
+
 
 [E.3]
 
