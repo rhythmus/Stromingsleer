@@ -1,49 +1,49 @@
 [E.1]
 
-## _Reële vloeistoffen_ bezitten, volgende eigenschappen.
+# Reële en ideale vloeistoffen: eigenschappen
 
-**Cohesie**: twee naast elkaar gelegen vloeistofmolekulen trekken elkaar aan. Deze aantrekkingskracht is vrij gering zodat de onderlinge plaats van de moleculen gemakkelijk kan gewijzigd, worden.
+**Reële vloeistoffen** bezitten volgende **eigenschappen**.
 
-De aantrekkingskracht is echter groot genoeg om geen volumewijziging te bekomen m.a.w. 1 liter water blijft 1 liter water maar de vorm hangt af van de vorm van het reservoir waarin het water zich bevindt.
+***Cohesie***: twee naast elkaar gelegen vloeistofmoleculen trekken elkaar aan. 
+<!-- Wat **tussen twee sterretjes** staat, is extra benadrukt en zal door de meeste stylesheets <b>vet</b> getoond worden. Indien ge tekst ***tussen drie sterretjes zet*** is niet altijd duidelijk wat het eindresultaat zal worden: de meeste Markdownparser en stylesheets zullen het <b><i>vet en cursief</i></b> maken; mijn app zal het als <mark>erg sterk benadrukt</mark> beschouwen. Vele van mijn stylesheets zullen de tekst dan weergeven alsof er een gele markeerstift over gegaan is, maar ik kan een stylesheet maken die doet wat ge wilt. -->
 
-**Adhesie:** dit is de aantrekkingskracht tussen de vloeistof moleculen en de moleculen van de vaste wand.
+Deze aantrekkingskracht is vrij gering zodat de onderlinge plaats van de moleculen gemakkelijk kan wijzigen. De aantrekkingskracht is echter voldoende groot om het onderling contact van moleculen te behouden. 
 
-**Samendrukbaarheid**: de samendrukbaarheid is zeer gering en treedt alleen op bij hoge drukken.
+Zo zal een hoeveelheid water, opgeslagen in een fles van 1 liter bvb, bij het overgieten in een ander recipiënt, onder dezelfde omstandigheden van druk en temperatuur, zijn volume van 1 liter behouden, terwijl de vorm ervan wel wijzigt en (vooral) bepaald wordt door de vorm van het reservoir waarin het water zich dan bevindt.
 
-De samendrukbaarheid wordt behandeld in hoofdstuk 1.
+***Adhesie***: dit is de aantrekkingskracht tussen de vloeistofmoleculen en de moleculen van de vaste wand. Deze zijn eveneens gering en zorgen er bijvoorbeeld voor dat de wand van geledigd reservoir toch vochtig blijft.
 
-We nemen als voorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger (fig. 1). Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
+***Samendrukbaarheid***: de samendrukbaarheid is zeer gering en neemt pas bij zeer hoge drukken substantiële waarden aan.
 
-![Figuur 1](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/001.png)
+Figuur 1 toont bijvoorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger. Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau van het water tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
 
+![Fig. 1](figuren/001.png)
 
-## Vloeistoffen zijn volledig elastisch
+Vloeistoffen zijn ***volledig elastisch***
 
-Elastisch betekent dat het peil in vorig voorbeeld terug stijgt tot 100 cm als het gewicht terug wordt weggenomen. Volkomen elastisch, wil zeggen dat er nooit een residuële volumeverandering overblijft wat ook de druk is geweest; dit in tegenstelling met vaste lichamen Door deze elasticiteit worden stoten in een vloeistof met nagenoeg onverminderde sterkte doorgegeven.
+Elastisch betekent dat het peil in vorig voorbeeld terug stijgt tot 100 cm wanneer het gewicht terug wordt weggenomen. Volkomen elastisch wil zeggen dat er nooit een residuële volumeverandering overblijft wat ook de druk is geweest (bij vaste lichamen bijvoorbeeld blijft er vaak wel een residuële volume- en vormverandering, dat noemt met plasticiteit). Omwille van deze volkomen elasticiteit worden stoten in een vloeistof met nagenoeg onverminderde sterkte doorgegeven.
 
-_Inwendige wrijving_. Wanneer twee vloeistofdeeltjes over elkaar glijden met een verschillende snelheid ontstaat er een inwendige wrijving zoals die optreedt bij twee vaste lichamen die over elkaar glijden.
+***Inwendige wrijving***: Wanneer twee vloeistofdeeltjes over elkaar glijden ontstaat er een inwendige wrijving vergelijkbaar met deze die optreedt bij twee vaste lichamen die over elkaar glijden.
 
 [E.2]
 
-Bij iedere stroming ontstaat er een inwendige wrijving die afhankelijk is van de aard van de vloeistof (viscositeit). Over viscositeit wordt gesproken in hoofdstuk 2.
+Bij iedere stroming ontstaat er een inwendige wrijving die afhankelijk is van de aard van de vloeistof (***viscositeit***). 
 
-_Een ideale vloeistof_ heeft volgende kenmerken:
+**Een ideale vloeistof** heeft volgende **kenmerken**:
 
-- _geen cohesie_: er is geen kracht nodig om twee vloeistofdeeltjes van elkaar te scheiden;
-- _geen adhesie_: er is geen kracht nodig om een vloeistofdeeltje te scheiden van een vaste wand;
-- ideale vloeistoffen zijn _niet samendrukbaar_;
-- ideale vloeistoffen zijn _volkomen elastisch_;
-- ideale vloeistoffen vertonen _geen inwendige wrijving_.
+- _**geen cohesie**_: er is geen kracht nodig om twee vloeistofdeeltjes van elkaar te scheiden;
+- _**geen adhesie**_: er is geen kracht nodig om een vloeistofdeeltje te scheiden van een vaste wand;
+- ideale vloeistoffen zijn _**niet samendrukbaar**_;
+- ideale vloeistoffen zijn _**volkomen elastisch**_;
+- ideale vloeistoffen vertonen _**geen inwendige wrijving**_.
 
-_Gevolgen_:
+_**Gevolgen:**_
 
 - de vloeistofdeeltjes kunnen over elkaar glijden zonder wrijving; dus kan de drukkracht die twee vloeistofdeeltjes op elkaar uitoefenen alleen loodrecht staan op het aanrakingsoppervlak (fig. 2).
 - de vloeistofdeeltjes kunnen ook bewegen t.o.v. de vaste wand zonder wrijving; dus kan de drukkracht die een vloeistofdeeltje en een wand op elkaar uitoefenen alleen maar loodrecht staan op de wand (fig. 3).
 
-
-![Figuur 2](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/002.png)
-![Figuur 3](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/003.png)
-
+![Fig. 2](figuren/002.png)
+![Fig. 3](figuren/003.png)
 
 [E.3]
 
@@ -63,7 +63,7 @@ De soortelijke massa wordt uitgedrukt in kg/m³.
 
 ### 1.2 Soortelijk volume
 
-_specific volume_
+Engels: _*specific volume*_
 
 Het soortelijk volume van een vloeistof geeft aan welk volume door een eenheid van massa van een bepaalde vloeistof wordt ingenomen. Het soortelijk volume is bijgevolg de reciproke van de soortelijke massa.
 
@@ -83,11 +83,7 @@ $$ \gamma = \frac{G}{V} = \frac{Mg}{V} $$
 ​
 $$ \gamma = \rho g $$
 
-
-
 Eenheden: N/m³. In de uitdrukkingen waar vroeger _γ_ was aangegeven wordt nu _ρg_ geschreven.
-
-
 
 [E.4]
 
@@ -128,6 +124,8 @@ Dit betekent dat het geen materiaalconstanten zijn, maar dat ze op zijn minst af
 Stijgt de temperatuur dan wordt de activiteit van de moleculen heviger en vermindert de hoeveelheid per volume-eenheid. We gaan nu verder na in welke mate de soortelijke massa afhankelijk is van deze twee parameters en hoe deze afhankelijkheid in de praktijk kan weergegeven worden.
 
 We merken hierbij op dat bij verandering van druk of temperatuur de massa van een bepaalde hoeveelheid vloeistof constant blijft maar dat wel het ingenomen volume wijzigt. We bekijken dan ook telkens eerst de verandering van het volume.
+
+
 
 [E.6]
 
@@ -1288,3 +1286,10 @@ Met de huidige rekenapparatuur levert het rekenwerk echter geen enkele moeilijkh
 ook gemakkelijk geprogrammeerd worden.
 De voorgestelde formules gelden, strikt genomen, alleen voor enkelvoudige vloeistoffen en niet voor mengsels.
 
+$$\sqrt {{a^2} + {b^2}}  = c$$
+
+$$\sqrt {{b^2} - 4ac}$$
+
+$$\frac{{{\partial ^2}\Omega }}{{\partial {u^2}}}$$
+
+$$\mathop {\lim }\limits_{\delta x \to 0}$$
