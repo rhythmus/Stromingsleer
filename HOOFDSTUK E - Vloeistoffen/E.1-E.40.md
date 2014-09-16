@@ -14,7 +14,7 @@ De samendrukbaarheid wordt behandeld in hoofdstuk 1.
 
 We nemen als voorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger (fig. 1). Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
 
-![Fig. 1](figuren/001.png)
+![Figuur 1](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/001.png)
 
 
 ## Vloeistoffen zijn volledig elastisch
@@ -40,8 +40,10 @@ _Gevolgen_:
 - de vloeistofdeeltjes kunnen over elkaar glijden zonder wrijving; dus kan de drukkracht die twee vloeistofdeeltjes op elkaar uitoefenen alleen loodrecht staan op het aanrakingsoppervlak (fig. 2).
 - de vloeistofdeeltjes kunnen ook bewegen t.o.v. de vaste wand zonder wrijving; dus kan de drukkracht die een vloeistofdeeltje en een wand op elkaar uitoefenen alleen maar loodrecht staan op de wand (fig. 3).
 
-![Fig. 2](figuren/002.png)
-![Fig. 3](figuren/003.png)
+
+![Figuur 2](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/002.png)
+![Figuur 3](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/003.png)
+
 
 [E.3]
 
