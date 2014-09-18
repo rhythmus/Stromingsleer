@@ -1,50 +1,49 @@
-[E.1]
-
 # Reële en ideale vloeistoffen: eigenschappen
 
-**Reële vloeistoffen** bezitten volgende **eigenschappen**.
+_Reële vloeistoffen_ bezitten volgende eigenschappen.
 
-***Cohesie***: twee naast elkaar gelegen vloeistofmoleculen trekken elkaar aan. 
-<!-- Wat **tussen twee sterretjes** staat, is extra benadrukt en zal door de meeste stylesheets <b>vet</b> getoond worden. Indien ge tekst ***tussen drie sterretjes zet*** is niet altijd duidelijk wat het eindresultaat zal worden: de meeste Markdownparser en stylesheets zullen het <b><i>vet en cursief</i></b> maken; mijn app zal het als <mark>erg sterk benadrukt</mark> beschouwen. Vele van mijn stylesheets zullen de tekst dan weergeven alsof er een gele markeerstift over gegaan is, maar ik kan een stylesheet maken die doet wat ge wilt. -->
+**Cohesie**: twee naast elkaar gelegen vloeistofmoleculen trekken elkaar aan. 
 
 Deze aantrekkingskracht is vrij gering zodat de onderlinge plaats van de moleculen gemakkelijk kan wijzigen. De aantrekkingskracht is echter voldoende groot om het onderling contact van moleculen te behouden. 
 
 Zo zal een hoeveelheid water, opgeslagen in een fles van 1 liter bvb, bij het overgieten in een ander recipiënt, onder dezelfde omstandigheden van druk en temperatuur, zijn volume van 1 liter behouden, terwijl de vorm ervan wel wijzigt en (vooral) bepaald wordt door de vorm van het reservoir waarin het water zich dan bevindt.
 
-***Adhesie***: dit is de aantrekkingskracht tussen de vloeistofmoleculen en de moleculen van de vaste wand. Deze zijn eveneens gering en zorgen er bijvoorbeeld voor dat de wand van geledigd reservoir toch vochtig blijft.
+**Adhesie**: dit is de aantrekkingskracht tussen de vloeistofmoleculen en de moleculen van de vaste wand. Deze zijn eveneens gering en zorgen er bijvoorbeeld voor dat de wand van geledigd reservoir toch vochtig blijft.
 
-***Samendrukbaarheid***: de samendrukbaarheid is zeer gering en neemt pas bij zeer hoge drukken substantiële waarden aan.
+**Samendrukbaarheid**: de samendrukbaarheid is zeer gering en neemt pas bij zeer hoge drukken substantiële waarden aan.
 
 Figuur 1 toont bijvoorbeeld een buisje met een doorsnede van 1 cm²  gevuld met water tot op een hoogte van 100 cm en afgesloten door een zuiger. Plaatsen we op deze zuiger een gewicht van 2,07 kN dan daalt het niveau van het water tot 99 cm. Het volume van het water vermindert dus met 1% wanneer er een druk heerst = 2,07 kN/cm² (207 bar).
 
-![Fig. 1](figuren/001.png)
+![Fig. 1](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/001.png)
 
-Vloeistoffen zijn ***volledig elastisch***
+Vloeistoffen zijn **volledig elastisch**
 
 Elastisch betekent dat het peil in vorig voorbeeld terug stijgt tot 100 cm wanneer het gewicht terug wordt weggenomen. Volkomen elastisch wil zeggen dat er nooit een residuële volumeverandering overblijft wat ook de druk is geweest (bij vaste lichamen bijvoorbeeld blijft er vaak wel een residuële volume- en vormverandering, dat noemt met plasticiteit). Omwille van deze volkomen elasticiteit worden stoten in een vloeistof met nagenoeg onverminderde sterkte doorgegeven.
 
-***Inwendige wrijving***: Wanneer twee vloeistofdeeltjes over elkaar glijden ontstaat er een inwendige wrijving vergelijkbaar met deze die optreedt bij twee vaste lichamen die over elkaar glijden.
+**Inwendige wrijving**: Wanneer twee vloeistofdeeltjes over elkaar glijden ontstaat er een inwendige wrijving vergelijkbaar met deze die optreedt bij twee vaste lichamen die over elkaar glijden.
 
+-----
 [E.2]
 
-Bij iedere stroming ontstaat er een inwendige wrijving die afhankelijk is van de aard van de vloeistof (***viscositeit***). 
+Bij iedere stroming ontstaat er een inwendige wrijving die afhankelijk is van de aard van de vloeistof (**viscositeit**). 
 
-**Een ideale vloeistof** heeft volgende **kenmerken**:
+Een _ideale vloeistof_ heeft volgende kenmerken:
 
-- _**geen cohesie**_: er is geen kracht nodig om twee vloeistofdeeltjes van elkaar te scheiden;
-- _**geen adhesie**_: er is geen kracht nodig om een vloeistofdeeltje te scheiden van een vaste wand;
-- ideale vloeistoffen zijn _**niet samendrukbaar**_;
-- ideale vloeistoffen zijn _**volkomen elastisch**_;
-- ideale vloeistoffen vertonen _**geen inwendige wrijving**_.
+- **geen cohesie**: er is geen kracht nodig om twee vloeistofdeeltjes van elkaar te scheiden;
+- **geen adhesie**: er is geen kracht nodig om een vloeistofdeeltje te scheiden van een vaste wand;
+- ideale vloeistoffen zijn **niet samendrukbaar**;
+- ideale vloeistoffen zijn **volkomen elastisch**;
+- ideale vloeistoffen vertonen **geen inwendige wrijving**.
 
-_**Gevolgen:**_
+Gevolgen:
 
 - de vloeistofdeeltjes kunnen over elkaar glijden zonder wrijving; dus kan de drukkracht die twee vloeistofdeeltjes op elkaar uitoefenen alleen loodrecht staan op het aanrakingsoppervlak (fig. 2).
 - de vloeistofdeeltjes kunnen ook bewegen t.o.v. de vaste wand zonder wrijving; dus kan de drukkracht die een vloeistofdeeltje en een wand op elkaar uitoefenen alleen maar loodrecht staan op de wand (fig. 3).
 
-![Fig. 2](figuren/002.png)
-![Fig. 3](figuren/003.png)
+![Fig. 2](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/002.png)
+![Fig. 3](https://raw.githubusercontent.com/rhythmus/Stromingsleer/master/HOOFDSTUK%20E%20-%20Vloeistoffen/figuren/003.png)
 
+-----
 [E.3]
 
 # Soortelijke massa, soortelijk volume, relatieve dichtheid, soortelijk gewicht
@@ -85,6 +84,7 @@ $$ \gamma = \rho g $$
 
 Eenheden: N/m³. In de uitdrukkingen waar vroeger _γ_ was aangegeven wordt nu _ρg_ geschreven.
 
+-----
 [E.4]
 
 ### 1.4 Relatieve dichtheid
@@ -113,6 +113,7 @@ $$ M = \rho V $$
 
 $$ kg = \frac{kg}{m^3} m^3 $$
 
+-----
 [E.5]
 
 ###### Opmerking
