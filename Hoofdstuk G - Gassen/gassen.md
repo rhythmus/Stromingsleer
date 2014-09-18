@@ -51,27 +51,17 @@ In zulke vergelijking is _R_ een grootheid, die voor elk type gas moet opgemeten
 
 Uit metingen bleek echter dat deze waarde voor alle gassen (nagenoeg) dezelfde is, tenminste indien men de experimenten uitvoert bij temperaturen die ‘hoog genoeg’ zijn en bij ‘betrekkelijk lage’ drukken. Men vond in die omstandigheden de waarde:
 
-$$R = 8,3145\;\frac{J}{{mol{\kern 1pt} \,K}}$$
+$$R = 8,3145\;\frac{J}{{mol \,K}}$$
 
 Onder die voorwaarden spreekt men dan ook van een **‘ideaal gas’**.
 
 Hoewel de ideale gaswet in oorsprong een ervaringswet was, gebaseerd op macroscopisch observeerbare experimentele gegevens, kon ze later ook geverifieerd worden vanuit een geïdealiseerd model van een gas in de zogenaamde ‘kinetische gastheorie’; hierin kon het begrip druk in verband gebracht worden met de kinetische energie van de gasmoleculen en dus met de temperatuur.
 
-Strikt genomen spreekt men over een ‘ideaal gas’ wanneer bovenstaande
-vergelijking geldig is voor alle drukken en alle temperaturen. Reële
-gassen beantwoorden het best aan deze geïdealiseerde vergelijking
-wanneer de druk betrekkelijk laag is (enkele bars) en de temperatuur
-beduidend hoger is dan deze waarbij het gas door compressie overgaat in
-een vloeibare fase: onder die voorwaarden blijven de gasmoleculen
-betrekkelijk ver van elkaar verwijderd (men spreekt dan van een ‘ijl
-gas’) en bewegen ze met een relatief hoge snelheid zodat ze goed aan het
-geïdealiseerd gasmodel beantwoorden. In het (p,V)-diagram worden de
-evenwichtstoestanden voorgesteld door hyperbolen (zie
+Strikt genomen spreekt men over een ‘ideaal gas’ wanneer bovenstaande vergelijking geldig is voor alle drukken en alle temperaturen. Reële gassen beantwoorden het best aan deze geïdealiseerde vergelijking wanneer de druk betrekkelijk laag is (enkele bars) en de temperatuur beduidend hoger is dan deze waarbij het gas door compressie overgaat in een vloeibare fase: onder die voorwaarden blijven de gasmoleculen betrekkelijk ver van elkaar verwijderd (men spreekt dan van een ‘ijl gas’) en bewegen ze met een relatief hoge snelheid zodat ze goed aan het
+geïdealiseerd gasmodel beantwoorden. In het (p,V)-diagram worden de evenwichtstoestanden voorgesteld door hyperbolen (zie
 toestandsdiagramma - deel 1).
 
-De ideale gaswet leidt, indien men een welbepaalde hoeveelheid van een
-ideaal gas beschouwt, tot volgende erg bruikbare uitdrukkingen (de
-‘algemene gaswet’):
+De ideale gaswet leidt, indien men een welbepaalde hoeveelheid van een ideaal gas beschouwt, tot volgende erg bruikbare uitdrukkingen (de ‘algemene gaswet’):
 
 $$\begin{array}{l}\frac{{pV}}{T} = cte\;\quad ( =
 nR)\\frac{{{p_1}{V_1}}}{{{T_1}}} = 
@@ -122,37 +112,31 @@ De correctiefactor K stelt de mate voor waarin het reële gas afwijkt van het id
 
 Tabel 1 geeft enkel waarden van K in het geval van lucht.
 
-  ------------------------------ ---------- ------------ ------------
-  Correctiefactor K voor lucht
-  druk p =
-  1 bar
-  20 bar
-  100 bar
-  Tabel 1
-  ------------------------------ ---------- ------------ ------------
+druk _p_ | T = 0°C | T = 100°C | T = 200°C
+-------: | ------: | --------: | --------:
+   1 bar |  1,0    |    1,0    |   1,0
+  20 bar |  0,9895 |    1,0027 |   1,0064
+ 100 bar |  0,9699 |    1,0235 |   1,0364
+
+Tabel 1: Correctiefactor _K_ voor lucht
 
 Figuren 2 en 3 geven deze waarden voor enkele gassen in grafiekvorm.
 
-**Figuur 2**
+![Figuur 2](GRFGAS01.png)
+![Figuur 3](GRFGAS02.png)
 
-**Figuur 3**
 
 ## 1.4 Toestandsvergelijking voor gasmengsels – Wet van Dalton
 
 Vele gassen zijn mengsels van verschillende componenten. Een goed voorbeeld is lucht; in de omgeving van de aarde heeft lucht ongeveer volgende samenstelling:
 
-78 % N~2~
+- 78% N~2~
+- 21% O~2~
+- 1% andere gassen, o.a. waterdamp
 
-21 % O~2~
+Elke component draagt in verhouding tot zijn relatief aandeel bij tot de totale druk in het gasmengsel.
 
-1 % andere gassen, o.a. waterdamp
-
-Elke component draagt in verhouding tot zijn relatief aandeel bij tot de
-totale druk in het gasmengsel.
-
-Beschouwen we bijvoorbeeld een willekeurig gasmengsel,
-
-dat bestaat uit een aantal m componenten i: i = 1, 2, ...., m,
+Beschouwen we bijvoorbeeld een willekeurig gasmengsel, dat bestaat uit een aantal m componenten i: i = 1, 2, ...., m,
 
 die elk in een bepaalde hoeveelheid aanwezig zijn in een volume V: n~1~,
 n~2~, n~3~, ..., n~m~.
