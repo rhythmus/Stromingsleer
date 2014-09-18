@@ -1,99 +1,61 @@
 # 1. Gaswetten
 
-Zoals reeds eerder besproken (deel 1) is de toestand, waarin de materie
-zich bevindt, afhankelijk van de toestandsveranderlijken p, V en T.
-Tussen deze grootheden bestaat er een verband, weergegeven door de
-toestandsvergelijking en/of voorgesteld in een toestandsoppervlak.
-Andere eigenschappen van de stof worden vaak uitgedrukt in functie van
-deze toestandsgrootheden.
+Zoals reeds eerder besproken (deel 1) is de toestand, waarin de materie zich bevindt, afhankelijk van de toestandsveranderlijken _p_, _V_ en _T_. Tussen deze grootheden bestaat er een verband, weergegeven door de toestandsvergelijking en/of voorgesteld in een toestandsoppervlak. Andere eigenschappen van de stof worden vaak uitgedrukt in functie van deze toestandsgrootheden.
 
 ## 1.1. De ideale gaswet
 
-![Figuur 1](GAS8-01A.gif)
+Zoals zoveel fundamentele wetten in de fysica heeft ook ‘de ideale gaswet’ een lange geschiedenis achter de rug. De verschillende achtereenvolgende versies ervan zouden we kunnen verifiëren met behulp van de ‘universeel opgevatte’ experimentele opstelling voorgesteld in figuur 1.
 
-Zoals zoveel fundamentele wetten in de fysica heeft ook ‘de ideale
-gaswet’ een lange geschiedenis achter de rug. De verschillende
-achtereenvolgende versies ervan zouden we kunnen verifiëren met behulp
-van de ‘universeel opgevatte’ experimentele opstelling voorgesteld in
-figuur 1.
+![Figuur 1](FIG5-01A.png)
 
-We stellen ons voor dat we in deze opstelling volgende grootheden kunnen
-la-ten variëren en opmeten:
+We stellen ons voor dat we in deze opstelling volgende grootheden kunnen la-ten variëren en opmeten:
 
-- het volume V
-- de druk p
-- de temperatuur T
-- de hoeveelheid aanwezig gas, uitgedrukt met het aantal mol n.
+- het volume _V_
+- de druk _p_
+- de temperatuur _T_
+- de hoeveelheid aanwezig gas, uitgedrukt met het aantal mol _n_.
 
 Op basis van metingen kunnen volgende wetmatigheden vastgesteld worden:
 
-- het volume, ingenomen door een hoeveelheid ‘ideaal gas’, varieert omgekeerd evenredig met de druk ( wet van Boyle-Mariotte , 17de eeuw):
+- het volume, ingenomen door een hoeveelheid ‘ideaal gas’, varieert omgekeerd evenredig met de druk (wet van Boyle-Mariotte, 17de eeuw):
 
-> (indien we, bij gelijk blijvende temperatuur en hoeveelheid gas, de
-> druk in de cilinder verdubbelen, dan halveert het volume dat door het
-> gas wordt ingenomen.)
+> indien we, bij gelijk blijvende temperatuur en hoeveelheid gas, de druk in de cilinder verdubbelen, dan halveert het volume dat door het gas wordt ingenomen:
+> is $n = cte$ en $T = cte ⇒ V \frac{1}{p}$
 
-*is n = cte en T = cte ⇒ V 1/p*
+- het volume, ingenomen door een hoeveelheid ‘ideaal gas’, varieert recht evenredig met de temperatuur (wet van Gay-Lussac, 18de eeuw):
 
--   *het volume, ingenomen door een hoeveelheid ‘ideaal gas’, varieert
-    recht evenredig met de temperatuur ( wet van Gay-Lussac, 18de
-    eeuw):*
+> indien we, bij gelijk blijvende druk en hoeveelheid gas, de temperatuur in de cilinder verdubbelen, dan verdubbelt het volume dat door het gas wordt ingenomen:
+> is $n = cte$ en $p = cte ⇒ V T$
 
-> (indien we, bij gelijk blijvende druk en hoeveelheid gas, de
-> temperatuur in de cilinder verdubbelen, dan verdubbelt het volume dat
-> door het gas wordt ingenomen.)
+- de druk, die in het reservoir heerst is rechtstreeks evenredig met de (absolute) temperatuur in het reservoir (wet van Charles, 18de eeuw):
 
-*is n = cte en p = cte ⇒ V T*
+> indien we het volume ingenomen door een hoeveelheid gas gelijk houden, dan resulteert een verdubbeling van de temperatuur in een verdubbeling van de druk:
+> is $n = cte$ en $V = cte ⇒ p T$
 
--   *de druk, die in het reservoir heerst is rechtstreeks evenredig met
-    de (absolute) temperatuur in het reservoir (wet van Charles, 18de
-    eeuw):*
+- het volume, ingenomen door een ‘ideaal gas’, is rechtstreeks evenredig met het aantal mol aanwezig in de cilinder (de wet van Avogadro, 19de eeuw):
 
-> (indien we het volume ingenomen door een hoeveelheid gas gelijk
-> houden, dan resulteert een verdubbeling van de temperatuur in een
-> verdubbeling van de druk).
+> indien we, bij gelijk blijvende druk en temperatuur, de hoeveelheid gas verdubbelen, dan verdubbelt het volume dat door deze hoeveelheid wordt ingenomen:
+> is $p = cte$ en $T = cte ⇒ V n$
 
-*is n = cte en V = cte ⇒ p T*
+Zoals gebruikelijk in de fysica kunnen deze experimenteel vastgestelde relaties samengebracht worden in een vergelijking (de formule van Clapeyron):
 
--   *het volume, ingenomen door een ‘ideaal gas’, is rechtstreeks
-    evenredig met het aantal mol aanwezig in de cilinder (de wet van
-    Avogadro, 19de eeuw):*
-
-> (indien we, bij gelijk blijvende druk en temperatuur, de hoeveelheid
-> gas verdubbelen, dan verdubbelt het volume dat door deze hoeveelheid
-> wordt ingenomen).
-
-*is p = cte en T = cte ⇒ V n*
-
-Zoals gebruikelijk in de fysica kunnen deze experimenteel vastgestelde
-relaties samengebracht worden in een vergelijking (de formule van
-Clapeyron): $pV = nRT$, waarbij:
+$$pV = nRT$$
 
 - _p_: de druk
 - _V_: het volume
+- _T_: de temperatuur
 - _n_: het aantal mol
 - _R_: de universele gasconstante
-- _T_: de temperatuur
 
-In zulke vergelijking is _R_ een grootheid, die voor elk type gas moet
-opgemeten worden; ze is in principe voor elk gas verschillend; het is
-een grootheid, die de materie in bovenstaande aspecten karakteriseert.
+In zulke vergelijking is _R_ een grootheid, die voor elk type gas moet opgemeten worden; ze is in principe voor elk gas verschillend; het is een grootheid, die de materie in bovenstaande aspecten karakteriseert.
 
-Uit metingen bleek echter dat deze waarde voor alle gassen (nagenoeg)
-dezelfde is, tenminste indien men de experimenten uitvoert bij
-temperaturen die ‘hoog genoeg’ zijn en bij ‘betrekkelijk lage’ drukken.
-Men vond in die omstandigheden de waarde
+Uit metingen bleek echter dat deze waarde voor alle gassen (nagenoeg) dezelfde is, tenminste indien men de experimenten uitvoert bij temperaturen die ‘hoog genoeg’ zijn en bij ‘betrekkelijk lage’ drukken. Men vond in die omstandigheden de waarde:
 
-$$R = 8,3145\;\frac{J}{mol\,K}$$
+$$R = 8,3145\;\frac{J}{{mol{\kern 1pt} \,K}}$$
 
-Onder die voorwaarden spreekt men dan ook van een ‘_ideaal gas_’.
+Onder die voorwaarden spreekt men dan ook van een **‘ideaal gas’**.
 
-Hoewel de ideale gaswet in oorsprong een ervaringswet was, gebaseerd op
-macroscopisch observeerbare experimentele gegevens, kon ze later ook
-geverifieerd worden vanuit een geïdealiseerd model van een gas in de
-zogenaamde ‘kinetische gastheorie’; hierin kon het begrip druk in
-verband gebracht worden met de kinetische energie van de gasmoleculen en
-dus met de temperatuur.
+Hoewel de ideale gaswet in oorsprong een ervaringswet was, gebaseerd op macroscopisch observeerbare experimentele gegevens, kon ze later ook geverifieerd worden vanuit een geïdealiseerd model van een gas in de zogenaamde ‘kinetische gastheorie’; hierin kon het begrip druk in verband gebracht worden met de kinetische energie van de gasmoleculen en dus met de temperatuur.
 
 Strikt genomen spreekt men over een ‘ideaal gas’ wanneer bovenstaande
 vergelijking geldig is voor alle drukken en alle temperaturen. Reële
@@ -122,10 +84,10 @@ De ideale gaswet kan theoretisch geverifieerd worden met behulp van een vereenvo
 
 De van der Waalsvergelijking voert correcties in die rekening houden met deze aspecten en die verwaarloosbaar worden wanneer de druk laag en/of de temperatuur hoog genoeg zijn, maar die belangrijk worden wanneer druk en temperatuur in de buurt komen van deze van het coëxistentiegebied (zie deel 1):
 
-$$\left( {p + a\frac{{{n^2}}}{{{V^2}}}} \right)\left( {V - nb}
+$$\left( {p + a\frac{{{n\^2}}}{{{V\^2}}}} \right)\left( {V - nb}
 \right) = nRT$$
 
-_a_ en _b_ hierin zijn experimenteel vast te leggen gegevens, die voor elk gas verschillend zijn. Ruwweg gesproken hebben ze volgende fysische betekenis:
+a en b hierin zijn experimenteel vast te leggen gegevens, die voor elk gas verschillend zijn. Ruwweg gesproken hebben ze volgende fysische betekenis:
 
 > b komt overeen met het volume dat ingenomen wordt door de moleculen
 > zelf in één mol van het gas; is er n mol gas aanwezig dan nemen de
@@ -140,10 +102,10 @@ _a_ en _b_ hierin zijn experimenteel vast te leggen gegevens, die voor elk gas v
 Om het relatieve belang van deze correctiefactoren in te schatten,
 herschrijven we de van der Waalsvergelijking:
 
-$$\left( {p + a\frac{n^2}{V^2}} \right)V\left( {1 -
+$$\left( {p + a\frac{{{n\^2}}}{{{V\^2}}}} \right)V\left( {1 -
 \frac{n}{V}b} \right) = nRT$$
 
-Indien $\frac{n}{V}$ heel klein is (in het geval van een ‘ijl’ gas) worden de
+Indien (n/V) heel klein is (in het geval van een ‘ijl’ gas) worden de
 correcties heel klein en gaat de ‘van der Waalsvergelijking’ over in de
 ‘ideale gaswet’. Is het aantal mol n in het volume aanwezig groot, dan
 worden de correcties belangrijker.
@@ -160,28 +122,30 @@ De correctiefactor K stelt de mate voor waarin het reële gas afwijkt van het id
 
 Tabel 1 geeft enkel waarden van K in het geval van lucht.
 
-druk _p_ | T = 0°C | T = 100°C | T = 200°C
--------: | ------: | --------: | --------:
-   1 bar |  1,0    |    1,0    |   1,0
-  20 bar |  0,9895 |    1,0027 |   1,0064
- 100 bar |  0,9699 |    1,0235 |   1,0364
-
-Tabel 1: Correctiefactor _K_ voor lucht
+  ------------------------------ ---------- ------------ ------------
+  Correctiefactor K voor lucht
+  druk p =
+  1 bar
+  20 bar
+  100 bar
+  Tabel 1
+  ------------------------------ ---------- ------------ ------------
 
 Figuren 2 en 3 geven deze waarden voor enkele gassen in grafiekvorm.
 
-![Figuur2](figuren/002.png)
-![Figuur3](figuren/003.png)
+**Figuur 2**
 
+**Figuur 3**
 
 ## 1.4 Toestandsvergelijking voor gasmengsels – Wet van Dalton
 
 Vele gassen zijn mengsels van verschillende componenten. Een goed voorbeeld is lucht; in de omgeving van de aarde heeft lucht ongeveer volgende samenstelling:
 
-- 78% $N_2$
-- 21% $O_2$
+78 % N~2~
 
-1% andere gassen, o.a. waterdamp
+21 % O~2~
+
+1 % andere gassen, o.a. waterdamp
 
 Elke component draagt in verhouding tot zijn relatief aandeel bij tot de
 totale druk in het gasmengsel.
