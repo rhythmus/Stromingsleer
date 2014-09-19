@@ -6,7 +6,7 @@ Zoals reeds eerder besproken (deel 1) is de toestand, waarin de materie zich bev
 
 Zoals zoveel fundamentele wetten in de fysica heeft ook ‘de ideale gaswet’ een lange geschiedenis achter de rug. De verschillende achtereenvolgende versies ervan zouden we kunnen verifiëren met behulp van de ‘universeel opgevatte’ experimentele opstelling voorgesteld in figuur 1.
 
-![Figuur 1](FIG5-01A.png)
+![Figuur 1](figuren/FIG5-01A.png)
 
 We stellen ons voor dat we in deze opstelling volgende grootheden kunnen la-ten variëren en opmeten:
 
@@ -122,8 +122,8 @@ Tabel 1: Correctiefactor _K_ voor lucht
 
 Figuren 2 en 3 geven deze waarden voor enkele gassen in grafiekvorm.
 
-![Figuur 2](GRFGAS01.png)
-![Figuur 3](GRFGAS02.png)
+![Figuur 2](figuren/GRFGAS01.png)
+![Figuur 3](figuren/GRFGAS02.png)
 
 
 ## 1.4 Toestandsvergelijking voor gasmengsels – Wet van Dalton
